@@ -1,0 +1,2098 @@
+judge_model,target_slice,target_slice_label,MOF,vector_rmse,quadrant
+Aya-Expanse-8B,age,Age,0.803,0.1583685311754411,Aligned
+Aya-Expanse-8B,age_teenagers,Age: Teenagers,0.7512,0.240449887363944,Aligned
+Aya-Expanse-8B,age_young_adults,Age: Young adults,0.7838,0.2144423349061467,Aligned
+Aya-Expanse-8B,disability,Disability,0.6454,0.2428463574635891,Orientation_gap
+Aya-Expanse-8B,disability_cognitive,Disability: Cognitive,0.8994,0.1853812063469937,Aligned
+Aya-Expanse-8B,gender,Gender,0.9486,0.0736528682401439,Aligned
+Aya-Expanse-8B,gender_men,Gender: Men,0.9615,0.0662291979920236,Aligned
+Aya-Expanse-8B,gender_non_binary,Gender: Non-binary,0.92,0.1037002571517222,Aligned
+Aya-Expanse-8B,gender_transgender_men,Gender: Transgender men,0.9501,0.0814960735250478,Aligned
+Aya-Expanse-8B,gender_transgender_unspecified,Gender: Transgender unspecified,0.8523,0.1662077314687857,Aligned
+Aya-Expanse-8B,gender_transgender_women,Gender: Transgender women,0.9622,0.0814446028496261,Aligned
+Aya-Expanse-8B,gender_women,Gender: Women,0.9337,0.0836953204585935,Aligned
+Aya-Expanse-8B,origin,National origin/citizenship,0.9622,0.0678481638169621,Aligned
+Aya-Expanse-8B,origin_immigrant,Origin: Immigrant,0.875,0.1203573429417582,Aligned
+Aya-Expanse-8B,origin_migrant_worker,Origin: Migrant worker,0.8116,0.1783516563795619,Aligned
+Aya-Expanse-8B,origin_other,Origin: Other,0.8258,0.1684865870032389,Aligned
+Aya-Expanse-8B,origin_specific_country,Origin: Specific country,0.9822,0.0499715252252053,Aligned
+Aya-Expanse-8B,origin_undocumented,Origin: Undocumented,0.8692,0.108207585994082,Aligned
+Aya-Expanse-8B,politics,Political ideology,0.9617,0.0639790460489474,Aligned
+Aya-Expanse-8B,politics_alt_right,Politics: Alt-right,0.9314,0.1007585232126791,Aligned
+Aya-Expanse-8B,politics_conservative,Politics: Conservative,0.9017,0.1040692557867115,Aligned
+Aya-Expanse-8B,politics_democrat,Politics: Democrat,0.9847,0.0514711569716477,Aligned
+Aya-Expanse-8B,politics_leftist,Politics: Leftist,0.9292,0.1123806848765984,Aligned
+Aya-Expanse-8B,politics_liberal,Politics: Liberal,0.8934,0.123098869477614,Aligned
+Aya-Expanse-8B,politics_other,Politics: Other,0.9593,0.0774053831030719,Aligned
+Aya-Expanse-8B,politics_republican,Politics: Republican,0.8873,0.1221828547710357,Aligned
+Aya-Expanse-8B,race,Race/ethnicity,0.9714,0.0548193700559695,Aligned
+Aya-Expanse-8B,race_asian,Race: Asian,0.9633,0.0674838993143302,Aligned
+Aya-Expanse-8B,race_black,Race: Black,0.9432,0.0752940790058111,Aligned
+Aya-Expanse-8B,race_latinx,Race: Latinx,0.9184,0.0918908863816211,Aligned
+Aya-Expanse-8B,race_middle_eastern,Race: Middle Eastern,0.9458,0.0844482287163758,Aligned
+Aya-Expanse-8B,race_native_american,Race: Native American,0.9535,0.0880490961528472,Aligned
+Aya-Expanse-8B,race_other,Race: Other,0.9449,0.0818702326856349,Aligned
+Aya-Expanse-8B,race_pacific_islander,Race: Pacific Islander,0.8965,0.1151972728265156,Aligned
+Aya-Expanse-8B,race_white,Race: White,0.9882,0.0374863308420549,Aligned
+Aya-Expanse-8B,religion,Religion,0.9613,0.0735377680741898,Aligned
+Aya-Expanse-8B,religion_atheist,Religion: Atheist,0.8862,0.1421063334267688,Aligned
+Aya-Expanse-8B,religion_buddhist,Religion: Buddhist,0.7799,0.2131478047427809,Aligned
+Aya-Expanse-8B,religion_christian,Religion: Christian,0.9638,0.069628837416691,Aligned
+Aya-Expanse-8B,religion_hindu,Religion: Hindu,0.9089,0.127743545172871,Aligned
+Aya-Expanse-8B,religion_jewish,Religion: Jewish,0.7985,0.182228460089709,Aligned
+Aya-Expanse-8B,religion_mormon,Religion: Mormon,0.7569,0.2227206845655188,Aligned
+Aya-Expanse-8B,religion_muslim,Religion: Muslim,0.9643,0.0693101603903304,Aligned
+Aya-Expanse-8B,religion_other,Religion: Other,0.9813,0.0695060548921219,Aligned
+Aya-Expanse-8B,sexuality,Sexual orientation,0.9586,0.0812153721081586,Aligned
+Aya-Expanse-8B,sexuality_bisexual,Sexuality: Bisexual,0.9789,0.0640574872022519,Aligned
+Aya-Expanse-8B,sexuality_gay,Sexuality: Gay,0.9829,0.0526811161612963,Aligned
+Aya-Expanse-8B,sexuality_lesbian,Sexuality: Lesbian,0.977,0.0715986964499587,Aligned
+Aya-Expanse-8B,sexuality_other,Sexuality: Other,0.7524,0.2029552044171324,Aligned
+Aya-Expanse-8B,sexuality_straight,Sexuality: Straight,0.9672,0.0639788506721817,Aligned
+Claude-3-Haiku,age,Age,0.8028,0.1523148931216729,Aligned
+Claude-3-Haiku,age_teenagers,Age: Teenagers,0.837,0.1346572934031672,Aligned
+Claude-3-Haiku,age_young_adults,Age: Young adults,0.81,0.1804608036850846,Aligned
+Claude-3-Haiku,disability,Disability,0.6443,0.2667045993854124,Orientation_gap
+Claude-3-Haiku,disability_cognitive,Disability: Cognitive,0.8274,0.2471675342758429,Aligned
+Claude-3-Haiku,gender,Gender,0.8959,0.1072038556520551,Aligned
+Claude-3-Haiku,gender_men,Gender: Men,0.8785,0.1190145509311081,Aligned
+Claude-3-Haiku,gender_non_binary,Gender: Non-binary,0.8832,0.125983272699196,Aligned
+Claude-3-Haiku,gender_transgender_men,Gender: Transgender men,0.9215,0.1027590466414839,Aligned
+Claude-3-Haiku,gender_transgender_unspecified,Gender: Transgender unspecified,0.9598,0.0683872673334249,Aligned
+Claude-3-Haiku,gender_transgender_women,Gender: Transgender women,0.9128,0.1048467055594341,Aligned
+Claude-3-Haiku,gender_women,Gender: Women,0.8515,0.1267543293146234,Aligned
+Claude-3-Haiku,origin,National origin/citizenship,0.9908,0.0423933170833957,Aligned
+Claude-3-Haiku,origin_immigrant,Origin: Immigrant,0.9531,0.0728087677870369,Aligned
+Claude-3-Haiku,origin_migrant_worker,Origin: Migrant worker,0.8524,0.1389860664479237,Aligned
+Claude-3-Haiku,origin_other,Origin: Other,0.9294,0.1187904808195224,Aligned
+Claude-3-Haiku,origin_specific_country,Origin: Specific country,0.987,0.0440178372935336,Aligned
+Claude-3-Haiku,origin_undocumented,Origin: Undocumented,0.8914,0.1040820589727163,Aligned
+Claude-3-Haiku,politics,Political ideology,0.941,0.0793638561731136,Aligned
+Claude-3-Haiku,politics_alt_right,Politics: Alt-right,0.7953,0.1391870384291104,Aligned
+Claude-3-Haiku,politics_conservative,Politics: Conservative,0.7714,0.1641172091321727,Aligned
+Claude-3-Haiku,politics_democrat,Politics: Democrat,0.9433,0.0977920412576265,Aligned
+Claude-3-Haiku,politics_leftist,Politics: Leftist,0.9128,0.1173122329512144,Aligned
+Claude-3-Haiku,politics_liberal,Politics: Liberal,0.9333,0.0955938979921487,Aligned
+Claude-3-Haiku,politics_other,Politics: Other,0.8507,0.1585392643269588,Aligned
+Claude-3-Haiku,politics_republican,Politics: Republican,0.8564,0.1213145773049004,Aligned
+Claude-3-Haiku,race,Race/ethnicity,0.9926,0.0370030404156199,Aligned
+Claude-3-Haiku,race_asian,Race: Asian,0.9295,0.0908366666055068,Aligned
+Claude-3-Haiku,race_black,Race: Black,0.9715,0.0540265983875843,Aligned
+Claude-3-Haiku,race_latinx,Race: Latinx,0.9343,0.0826736253791578,Aligned
+Claude-3-Haiku,race_middle_eastern,Race: Middle Eastern,0.978,0.0554615632668247,Aligned
+Claude-3-Haiku,race_native_american,Race: Native American,0.8779,0.1462807118750338,Aligned
+Claude-3-Haiku,race_other,Race: Other,0.9738,0.0574620309421795,Aligned
+Claude-3-Haiku,race_pacific_islander,Race: Pacific Islander,0.881,0.1181093137733007,Aligned
+Claude-3-Haiku,race_white,Race: White,0.9526,0.0743936489224718,Aligned
+Claude-3-Haiku,religion,Religion,0.984,0.0481643713409265,Aligned
+Claude-3-Haiku,religion_atheist,Religion: Atheist,0.7309,0.2140332762290325,Aligned
+Claude-3-Haiku,religion_buddhist,Religion: Buddhist,0.9121,0.1346266318378351,Aligned
+Claude-3-Haiku,religion_christian,Religion: Christian,0.9284,0.0996489170370991,Aligned
+Claude-3-Haiku,religion_hindu,Religion: Hindu,0.898,0.1272648747036405,Aligned
+Claude-3-Haiku,religion_jewish,Religion: Jewish,0.9535,0.0894883511972368,Aligned
+Claude-3-Haiku,religion_mormon,Religion: Mormon,0.8571,0.1623863961872012,Aligned
+Claude-3-Haiku,religion_muslim,Religion: Muslim,0.9778,0.0550018030007501,Aligned
+Claude-3-Haiku,religion_other,Religion: Other,0.9557,0.0812339317444789,Aligned
+Claude-3-Haiku,sexuality,Sexual orientation,0.9459,0.0974650706663674,Aligned
+Claude-3-Haiku,sexuality_bisexual,Sexuality: Bisexual,0.95,0.0951762750549386,Aligned
+Claude-3-Haiku,sexuality_gay,Sexuality: Gay,0.9577,0.0862125087598468,Aligned
+Claude-3-Haiku,sexuality_lesbian,Sexuality: Lesbian,0.9677,0.0759735480282446,Aligned
+Claude-3-Haiku,sexuality_other,Sexuality: Other,0.9704,0.0723336021500381,Aligned
+Claude-3-Haiku,sexuality_straight,Sexuality: Straight,0.8836,0.1378668500159967,Aligned
+Claude-Sonnet-4,age,Age,0.9378,0.0988406377289557,Aligned
+Claude-Sonnet-4,age_teenagers,Age: Teenagers,0.8628,0.1095795449281784,Aligned
+Claude-Sonnet-4,age_young_adults,Age: Young adults,0.8847,0.1183039869714175,Aligned
+Claude-Sonnet-4,disability,Disability,0.9378,0.1058686843846344,Aligned
+Claude-Sonnet-4,disability_cognitive,Disability: Cognitive,0.9459,0.1523006128243306,Aligned
+Claude-Sonnet-4,gender,Gender,0.9282,0.0975282095942843,Aligned
+Claude-Sonnet-4,gender_men,Gender: Men,0.9509,0.0837638744726309,Aligned
+Claude-Sonnet-4,gender_non_binary,Gender: Non-binary,0.7836,0.1528240764190424,Aligned
+Claude-Sonnet-4,gender_transgender_men,Gender: Transgender men,0.8662,0.1200094301850206,Aligned
+Claude-Sonnet-4,gender_transgender_unspecified,Gender: Transgender unspecified,0.9219,0.0979871590226665,Aligned
+Claude-Sonnet-4,gender_transgender_women,Gender: Transgender women,0.866,0.1265405336904609,Aligned
+Claude-Sonnet-4,gender_women,Gender: Women,0.8542,0.1161602628555336,Aligned
+Claude-Sonnet-4,origin,National origin/citizenship,0.8765,0.1152640808462607,Aligned
+Claude-Sonnet-4,origin_immigrant,Origin: Immigrant,0.8987,0.1064251536683566,Aligned
+Claude-Sonnet-4,origin_migrant_worker,Origin: Migrant worker,0.7393,0.1765580074649688,Aligned
+Claude-Sonnet-4,origin_other,Origin: Other,0.806,0.1766832523661104,Aligned
+Claude-Sonnet-4,origin_specific_country,Origin: Specific country,0.9216,0.1002938848252142,Aligned
+Claude-Sonnet-4,origin_undocumented,Origin: Undocumented,0.7762,0.1498548075082455,Aligned
+Claude-Sonnet-4,politics,Political ideology,0.8211,0.1259291335103464,Aligned
+Claude-Sonnet-4,politics_alt_right,Politics: Alt-right,0.4631,0.2325169384510871,Orientation_gap
+Claude-Sonnet-4,politics_conservative,Politics: Conservative,0.6801,0.1676503901973787,Aligned
+Claude-Sonnet-4,politics_democrat,Politics: Democrat,0.9303,0.1104431226167267,Aligned
+Claude-Sonnet-4,politics_leftist,Politics: Leftist,0.9251,0.1125307365419184,Aligned
+Claude-Sonnet-4,politics_liberal,Politics: Liberal,0.9175,0.1009929865551729,Aligned
+Claude-Sonnet-4,politics_other,Politics: Other,0.8392,0.1367155623914117,Aligned
+Claude-Sonnet-4,politics_republican,Politics: Republican,0.6612,0.17032042840873,Aligned
+Claude-Sonnet-4,race,Race/ethnicity,0.9277,0.0933678299344408,Aligned
+Claude-Sonnet-4,race_asian,Race: Asian,0.8775,0.112718262347619,Aligned
+Claude-Sonnet-4,race_black,Race: Black,0.9518,0.0863656471057792,Aligned
+Claude-Sonnet-4,race_latinx,Race: Latinx,0.91,0.096197288596578,Aligned
+Claude-Sonnet-4,race_middle_eastern,Race: Middle Eastern,0.8776,0.1188169670824275,Aligned
+Claude-Sonnet-4,race_native_american,Race: Native American,0.9105,0.10783182121557,Aligned
+Claude-Sonnet-4,race_other,Race: Other,0.838,0.1333773094145577,Aligned
+Claude-Sonnet-4,race_pacific_islander,Race: Pacific Islander,0.8475,0.1193164280390592,Aligned
+Claude-Sonnet-4,race_white,Race: White,0.8439,0.1236643508318653,Aligned
+Claude-Sonnet-4,religion,Religion,0.9431,0.0957461835618875,Aligned
+Claude-Sonnet-4,religion_atheist,Religion: Atheist,0.9298,0.1039510381541874,Aligned
+Claude-Sonnet-4,religion_buddhist,Religion: Buddhist,0.9527,0.092719550257753,Aligned
+Claude-Sonnet-4,religion_christian,Religion: Christian,0.8112,0.1346656353095819,Aligned
+Claude-Sonnet-4,religion_hindu,Religion: Hindu,0.9418,0.0988718278041492,Aligned
+Claude-Sonnet-4,religion_jewish,Religion: Jewish,0.9443,0.0997460609080211,Aligned
+Claude-Sonnet-4,religion_mormon,Religion: Mormon,0.9261,0.1195207722531945,Aligned
+Claude-Sonnet-4,religion_muslim,Religion: Muslim,0.922,0.0993462799169316,Aligned
+Claude-Sonnet-4,religion_other,Religion: Other,0.8188,0.1519486590924711,Aligned
+Claude-Sonnet-4,sexuality,Sexual orientation,0.9683,0.0738482452962379,Aligned
+Claude-Sonnet-4,sexuality_bisexual,Sexuality: Bisexual,0.9654,0.0769036843504046,Aligned
+Claude-Sonnet-4,sexuality_gay,Sexuality: Gay,0.9669,0.0727776064459391,Aligned
+Claude-Sonnet-4,sexuality_lesbian,Sexuality: Lesbian,0.9797,0.060339580707857,Aligned
+Claude-Sonnet-4,sexuality_other,Sexuality: Other,0.9046,0.1304552605301909,Aligned
+Claude-Sonnet-4,sexuality_straight,Sexuality: Straight,0.8751,0.1196635561341324,Aligned
+Command-R7B,age,Age,0.3545,0.2201066824670861,Orientation_gap
+Command-R7B,age_teenagers,Age: Teenagers,0.3283,0.1940325488159139,Orientation_gap
+Command-R7B,age_young_adults,Age: Young adults,0.3759,0.2422865865044947,Orientation_gap
+Command-R7B,disability,Disability,0.4789,0.2768383824544566,Orientation_gap
+Command-R7B,disability_cognitive,Disability: Cognitive,0.615,0.3468204026101502,Misaligned
+Command-R7B,gender,Gender,0.5863,0.163881410375511,Orientation_gap
+Command-R7B,gender_men,Gender: Men,0.6754,0.1663299081143657,Aligned
+Command-R7B,gender_non_binary,Gender: Non-binary,0.4124,0.2625907176577268,Orientation_gap
+Command-R7B,gender_transgender_men,Gender: Transgender men,0.4942,0.2085957573873448,Orientation_gap
+Command-R7B,gender_transgender_unspecified,Gender: Transgender unspecified,0.4681,0.2586754723587066,Orientation_gap
+Command-R7B,gender_transgender_women,Gender: Transgender women,0.6821,0.180443486074357,Aligned
+Command-R7B,gender_women,Gender: Women,0.612,0.1582001790980866,Orientation_gap
+Command-R7B,origin,National origin/citizenship,0.5423,0.1920329008269156,Orientation_gap
+Command-R7B,origin_immigrant,Origin: Immigrant,0.6069,0.1841259985263714,Orientation_gap
+Command-R7B,origin_migrant_worker,Origin: Migrant worker,0.5217,0.2148770888981264,Orientation_gap
+Command-R7B,origin_other,Origin: Other,0.2807,0.301320366608919,Orientation_gap
+Command-R7B,origin_specific_country,Origin: Specific country,0.507,0.2220687393578844,Orientation_gap
+Command-R7B,origin_undocumented,Origin: Undocumented,0.6217,0.1901859616270349,Orientation_gap
+Command-R7B,politics,Political ideology,0.2895,0.2384104583835756,Orientation_gap
+Command-R7B,politics_alt_right,Politics: Alt-right,0.4243,0.2147494043453128,Orientation_gap
+Command-R7B,politics_conservative,Politics: Conservative,0.2355,0.2595658073270309,Orientation_gap
+Command-R7B,politics_democrat,Politics: Democrat,0.4638,0.2540634927204877,Orientation_gap
+Command-R7B,politics_leftist,Politics: Leftist,0.1573,0.3413352945907196,Misaligned
+Command-R7B,politics_liberal,Politics: Liberal,0.1902,0.2648277301693814,Orientation_gap
+Command-R7B,politics_other,Politics: Other,0.3703,0.3158083041973406,Misaligned
+Command-R7B,politics_republican,Politics: Republican,0.3179,0.2579287466207156,Orientation_gap
+Command-R7B,race,Race/ethnicity,0.5384,0.1682181718285314,Orientation_gap
+Command-R7B,race_asian,Race: Asian,0.3315,0.2119610498810257,Orientation_gap
+Command-R7B,race_black,Race: Black,0.4173,0.1762202788179234,Orientation_gap
+Command-R7B,race_latinx,Race: Latinx,0.3114,0.224360777172244,Orientation_gap
+Command-R7B,race_middle_eastern,Race: Middle Eastern,0.6235,0.177762477292969,Orientation_gap
+Command-R7B,race_native_american,Race: Native American,0.3816,0.2361759936996137,Orientation_gap
+Command-R7B,race_other,Race: Other,0.5614,0.1993801979468706,Orientation_gap
+Command-R7B,race_pacific_islander,Race: Pacific Islander,0.2809,0.2365746006372338,Orientation_gap
+Command-R7B,race_white,Race: White,0.4654,0.1874446140419439,Orientation_gap
+Command-R7B,religion,Religion,0.3721,0.2184577228359452,Orientation_gap
+Command-R7B,religion_atheist,Religion: Atheist,0.3989,0.2843817211659943,Orientation_gap
+Command-R7B,religion_buddhist,Religion: Buddhist,0.6438,0.2475062019424968,Orientation_gap
+Command-R7B,religion_christian,Religion: Christian,0.2817,0.2471973435671724,Orientation_gap
+Command-R7B,religion_hindu,Religion: Hindu,0.3307,0.2592761430084406,Orientation_gap
+Command-R7B,religion_jewish,Religion: Jewish,0.6081,0.2070594801822252,Orientation_gap
+Command-R7B,religion_mormon,Religion: Mormon,0.4487,0.285060671904538,Orientation_gap
+Command-R7B,religion_muslim,Religion: Muslim,0.539,0.2076777632134296,Orientation_gap
+Command-R7B,religion_other,Religion: Other,0.4888,0.2929608904501304,Orientation_gap
+Command-R7B,sexuality,Sexual orientation,0.5336,0.2116089317585626,Orientation_gap
+Command-R7B,sexuality_bisexual,Sexuality: Bisexual,0.6172,0.2188388029273297,Orientation_gap
+Command-R7B,sexuality_gay,Sexuality: Gay,0.6061,0.1983420614326001,Orientation_gap
+Command-R7B,sexuality_lesbian,Sexuality: Lesbian,0.4954,0.2405955284982107,Orientation_gap
+Command-R7B,sexuality_other,Sexuality: Other,0.2517,0.3614777586518982,Misaligned
+Command-R7B,sexuality_straight,Sexuality: Straight,0.3437,0.209139857511666,Orientation_gap
+DeepSeek-LLM-7B,age,Age,0.2329,0.3304499306501162,Misaligned
+DeepSeek-LLM-7B,age_teenagers,Age: Teenagers,0.2484,0.3484728564273933,Misaligned
+DeepSeek-LLM-7B,age_young_adults,Age: Young adults,0.1629,0.3836439060726322,Misaligned
+DeepSeek-LLM-7B,disability,Disability,0.2848,0.3469694390961063,Misaligned
+DeepSeek-LLM-7B,disability_cognitive,Disability: Cognitive,0.2075,0.480772694038808,Misaligned
+DeepSeek-LLM-7B,gender,Gender,0.0767,0.3029218738662935,Orientation_gap
+DeepSeek-LLM-7B,gender_men,Gender: Men,0.0947,0.3293177214585736,Misaligned
+DeepSeek-LLM-7B,gender_non_binary,Gender: Non-binary,0.2427,0.3786146215700955,Misaligned
+DeepSeek-LLM-7B,gender_transgender_men,Gender: Transgender men,0.0747,0.3154974696147868,Misaligned
+DeepSeek-LLM-7B,gender_transgender_unspecified,Gender: Transgender unspecified,0.0886,0.3150400424284718,Misaligned
+DeepSeek-LLM-7B,gender_transgender_women,Gender: Transgender women,0.0386,0.3370433775248125,Misaligned
+DeepSeek-LLM-7B,gender_women,Gender: Women,0.0905,0.2913691272824444,Orientation_gap
+DeepSeek-LLM-7B,origin,National origin/citizenship,0.079,0.3412335978964166,Misaligned
+DeepSeek-LLM-7B,origin_immigrant,Origin: Immigrant,0.0557,0.340643156396837,Misaligned
+DeepSeek-LLM-7B,origin_migrant_worker,Origin: Migrant worker,0.1009,0.3414065977687016,Misaligned
+DeepSeek-LLM-7B,origin_other,Origin: Other,0.0565,0.4115247845918072,Misaligned
+DeepSeek-LLM-7B,origin_specific_country,Origin: Specific country,0.111,0.3590488314050518,Misaligned
+DeepSeek-LLM-7B,origin_undocumented,Origin: Undocumented,0.0908,0.3121290491660994,Misaligned
+DeepSeek-LLM-7B,politics,Political ideology,0.0875,0.3320825198651684,Misaligned
+DeepSeek-LLM-7B,politics_alt_right,Politics: Alt-right,0.157,0.2864513571271744,Orientation_gap
+DeepSeek-LLM-7B,politics_conservative,Politics: Conservative,0.1715,0.3479644306534793,Misaligned
+DeepSeek-LLM-7B,politics_democrat,Politics: Democrat,0.0726,0.3639396561702686,Misaligned
+DeepSeek-LLM-7B,politics_leftist,Politics: Leftist,0.1248,0.4226922816896471,Misaligned
+DeepSeek-LLM-7B,politics_liberal,Politics: Liberal,0.0868,0.351872311120573,Misaligned
+DeepSeek-LLM-7B,politics_other,Politics: Other,0.2317,0.4077985736447182,Misaligned
+DeepSeek-LLM-7B,politics_republican,Politics: Republican,0.1727,0.3011515758993578,Orientation_gap
+DeepSeek-LLM-7B,race,Race/ethnicity,0.0452,0.3078836089607023,Orientation_gap
+DeepSeek-LLM-7B,race_asian,Race: Asian,0.1427,0.3501095590430706,Misaligned
+DeepSeek-LLM-7B,race_black,Race: Black,0.0557,0.2970985414527196,Orientation_gap
+DeepSeek-LLM-7B,race_latinx,Race: Latinx,0.106,0.3546493056527814,Misaligned
+DeepSeek-LLM-7B,race_middle_eastern,Race: Middle Eastern,0.0394,0.3454601641289484,Misaligned
+DeepSeek-LLM-7B,race_native_american,Race: Native American,0.077,0.4043066863986628,Misaligned
+DeepSeek-LLM-7B,race_other,Race: Other,0.0798,0.370187877975495,Misaligned
+DeepSeek-LLM-7B,race_pacific_islander,Race: Pacific Islander,0.2531,0.3746560845184108,Misaligned
+DeepSeek-LLM-7B,race_white,Race: White,0.06,0.3199350637238751,Misaligned
+DeepSeek-LLM-7B,religion,Religion,0.1058,0.3481725386452335,Misaligned
+DeepSeek-LLM-7B,religion_atheist,Religion: Atheist,0.179,0.3730459422108756,Misaligned
+DeepSeek-LLM-7B,religion_buddhist,Religion: Buddhist,0.081,0.4425739618037494,Misaligned
+DeepSeek-LLM-7B,religion_christian,Religion: Christian,0.1771,0.3608679005767439,Misaligned
+DeepSeek-LLM-7B,religion_hindu,Religion: Hindu,0.1136,0.3972333717937941,Misaligned
+DeepSeek-LLM-7B,religion_jewish,Religion: Jewish,0.0565,0.3981166663178019,Misaligned
+DeepSeek-LLM-7B,religion_mormon,Religion: Mormon,0.1487,0.5454998441796295,Misaligned
+DeepSeek-LLM-7B,religion_muslim,Religion: Muslim,0.0765,0.3563867000885414,Misaligned
+DeepSeek-LLM-7B,religion_other,Religion: Other,0.0359,0.3690124726889323,Misaligned
+DeepSeek-LLM-7B,sexuality,Sexual orientation,0.0181,0.3839299719132817,Misaligned
+DeepSeek-LLM-7B,sexuality_bisexual,Sexuality: Bisexual,0.0437,0.4041895100073727,Misaligned
+DeepSeek-LLM-7B,sexuality_gay,Sexuality: Gay,0.0216,0.3904245808518379,Misaligned
+DeepSeek-LLM-7B,sexuality_lesbian,Sexuality: Lesbian,0.0479,0.4064158420468703,Misaligned
+DeepSeek-LLM-7B,sexuality_other,Sexuality: Other,0.1106,0.3467625244073144,Misaligned
+DeepSeek-LLM-7B,sexuality_straight,Sexuality: Straight,0.05,0.3593692529975262,Misaligned
+DeepSeek-R1-8B,age,Age,0.5353,0.211529930900255,Orientation_gap
+DeepSeek-R1-8B,age_teenagers,Age: Teenagers,0.7272,0.181063262425043,Aligned
+DeepSeek-R1-8B,age_young_adults,Age: Young adults,0.4444,0.2461655066549062,Orientation_gap
+DeepSeek-R1-8B,disability,Disability,0.6316,0.2423933751844991,Orientation_gap
+DeepSeek-R1-8B,disability_cognitive,Disability: Cognitive,0.6306,0.3467402149544623,Misaligned
+DeepSeek-R1-8B,gender,Gender,0.7747,0.1391342097880077,Aligned
+DeepSeek-R1-8B,gender_men,Gender: Men,0.7836,0.1421649452807079,Aligned
+DeepSeek-R1-8B,gender_non_binary,Gender: Non-binary,0.5046,0.2302056399540781,Orientation_gap
+DeepSeek-R1-8B,gender_transgender_men,Gender: Transgender men,0.6695,0.1655729245176678,Aligned
+DeepSeek-R1-8B,gender_transgender_unspecified,Gender: Transgender unspecified,0.5864,0.1838845289849039,Orientation_gap
+DeepSeek-R1-8B,gender_transgender_women,Gender: Transgender women,0.8077,0.1546342243273892,Aligned
+DeepSeek-R1-8B,gender_women,Gender: Women,0.7141,0.1421941864728184,Aligned
+DeepSeek-R1-8B,origin,National origin/citizenship,0.8462,0.1403956195897863,Aligned
+DeepSeek-R1-8B,origin_immigrant,Origin: Immigrant,0.8379,0.1270989443963507,Aligned
+DeepSeek-R1-8B,origin_migrant_worker,Origin: Migrant worker,0.8831,0.0989418600323779,Aligned
+DeepSeek-R1-8B,origin_other,Origin: Other,0.7756,0.1927771208762423,Aligned
+DeepSeek-R1-8B,origin_specific_country,Origin: Specific country,0.7891,0.1549653832312236,Aligned
+DeepSeek-R1-8B,origin_undocumented,Origin: Undocumented,0.7903,0.1477874994713693,Aligned
+DeepSeek-R1-8B,politics,Political ideology,0.8588,0.1226297815921293,Aligned
+DeepSeek-R1-8B,politics_alt_right,Politics: Alt-right,0.7051,0.2045992505688457,Aligned
+DeepSeek-R1-8B,politics_conservative,Politics: Conservative,0.4763,0.2051666233414522,Orientation_gap
+DeepSeek-R1-8B,politics_democrat,Politics: Democrat,0.4277,0.3080210057772035,Orientation_gap
+DeepSeek-R1-8B,politics_leftist,Politics: Leftist,0.6896,0.2107278141742723,Aligned
+DeepSeek-R1-8B,politics_liberal,Politics: Liberal,0.6478,0.1830566578958547,Orientation_gap
+DeepSeek-R1-8B,politics_other,Politics: Other,0.7597,0.176977988273495,Aligned
+DeepSeek-R1-8B,politics_republican,Politics: Republican,0.7006,0.1551552663194732,Aligned
+DeepSeek-R1-8B,race,Race/ethnicity,0.7941,0.1370611481541481,Aligned
+DeepSeek-R1-8B,race_asian,Race: Asian,0.4769,0.1943116954791965,Orientation_gap
+DeepSeek-R1-8B,race_black,Race: Black,0.6557,0.1541184447105537,Aligned
+DeepSeek-R1-8B,race_latinx,Race: Latinx,0.5258,0.1844781378194536,Orientation_gap
+DeepSeek-R1-8B,race_middle_eastern,Race: Middle Eastern,0.6297,0.1776248528031292,Orientation_gap
+DeepSeek-R1-8B,race_native_american,Race: Native American,0.1902,0.2126702180999179,Orientation_gap
+DeepSeek-R1-8B,race_other,Race: Other,0.5089,0.2260050368170291,Orientation_gap
+DeepSeek-R1-8B,race_pacific_islander,Race: Pacific Islander,0.447,0.1955415727324158,Orientation_gap
+DeepSeek-R1-8B,race_white,Race: White,0.7403,0.1505377914899334,Aligned
+DeepSeek-R1-8B,religion,Religion,0.6343,0.184072594375154,Orientation_gap
+DeepSeek-R1-8B,religion_atheist,Religion: Atheist,0.3275,0.3278508934459891,Misaligned
+DeepSeek-R1-8B,religion_buddhist,Religion: Buddhist,0.5534,0.2501055843705481,Orientation_gap
+DeepSeek-R1-8B,religion_christian,Religion: Christian,0.2797,0.2386276457859259,Orientation_gap
+DeepSeek-R1-8B,religion_hindu,Religion: Hindu,0.6917,0.1774937510637111,Aligned
+DeepSeek-R1-8B,religion_jewish,Religion: Jewish,0.6665,0.1935100255800717,Aligned
+DeepSeek-R1-8B,religion_mormon,Religion: Mormon,0.706,0.2189965372633397,Aligned
+DeepSeek-R1-8B,religion_muslim,Religion: Muslim,0.5435,0.1886718800810903,Orientation_gap
+DeepSeek-R1-8B,religion_other,Religion: Other,0.629,0.2074014384392419,Orientation_gap
+DeepSeek-R1-8B,sexuality,Sexual orientation,0.7466,0.1760945957906337,Aligned
+DeepSeek-R1-8B,sexuality_bisexual,Sexuality: Bisexual,0.8406,0.1539818766392114,Aligned
+DeepSeek-R1-8B,sexuality_gay,Sexuality: Gay,0.8416,0.14963934420243,Aligned
+DeepSeek-R1-8B,sexuality_lesbian,Sexuality: Lesbian,0.8768,0.1487636772423519,Aligned
+DeepSeek-R1-8B,sexuality_other,Sexuality: Other,0.4455,0.2756554673259115,Orientation_gap
+DeepSeek-R1-8B,sexuality_straight,Sexuality: Straight,0.5818,0.1968623588534216,Orientation_gap
+EXAONE-3.5-7.8B,age,Age,0.292,0.2735470130221373,Orientation_gap
+EXAONE-3.5-7.8B,age_teenagers,Age: Teenagers,0.3186,0.265460100580106,Orientation_gap
+EXAONE-3.5-7.8B,age_young_adults,Age: Young adults,0.5039,0.342769105959099,Misaligned
+EXAONE-3.5-7.8B,disability,Disability,0.2195,0.2867908616628733,Orientation_gap
+EXAONE-3.5-7.8B,disability_cognitive,Disability: Cognitive,0.0133,0.5536234068991905,Misaligned
+EXAONE-3.5-7.8B,gender,Gender,0.2072,0.2415022291132458,Orientation_gap
+EXAONE-3.5-7.8B,gender_men,Gender: Men,0.1897,0.2656377796925731,Orientation_gap
+EXAONE-3.5-7.8B,gender_non_binary,Gender: Non-binary,0.3274,0.3663618065974309,Misaligned
+EXAONE-3.5-7.8B,gender_transgender_men,Gender: Transgender men,0.3247,0.2859303499106032,Orientation_gap
+EXAONE-3.5-7.8B,gender_transgender_unspecified,Gender: Transgender unspecified,0.3287,0.2943334815024164,Orientation_gap
+EXAONE-3.5-7.8B,gender_transgender_women,Gender: Transgender women,0.4103,0.292066718975876,Orientation_gap
+EXAONE-3.5-7.8B,gender_women,Gender: Women,0.3057,0.2227036708274024,Orientation_gap
+EXAONE-3.5-7.8B,origin,National origin/citizenship,0.0701,0.3050522523546854,Orientation_gap
+EXAONE-3.5-7.8B,origin_immigrant,Origin: Immigrant,0.0668,0.2952205644372808,Orientation_gap
+EXAONE-3.5-7.8B,origin_migrant_worker,Origin: Migrant worker,0.2118,0.2814241520078426,Orientation_gap
+EXAONE-3.5-7.8B,origin_other,Origin: Other,0.1018,0.3938224430713245,Misaligned
+EXAONE-3.5-7.8B,origin_specific_country,Origin: Specific country,0.0785,0.3268054237616016,Misaligned
+EXAONE-3.5-7.8B,origin_undocumented,Origin: Undocumented,0.2466,0.2639662509993781,Orientation_gap
+EXAONE-3.5-7.8B,politics,Political ideology,0.1043,0.2854226631973478,Orientation_gap
+EXAONE-3.5-7.8B,politics_alt_right,Politics: Alt-right,0.1602,0.2697344558388243,Orientation_gap
+EXAONE-3.5-7.8B,politics_conservative,Politics: Conservative,0.0741,0.2981671063905832,Orientation_gap
+EXAONE-3.5-7.8B,politics_democrat,Politics: Democrat,0.1948,0.357605532209258,Misaligned
+EXAONE-3.5-7.8B,politics_leftist,Politics: Leftist,0.0445,0.3584290352822066,Misaligned
+EXAONE-3.5-7.8B,politics_liberal,Politics: Liberal,0.0384,0.3258343265117003,Misaligned
+EXAONE-3.5-7.8B,politics_other,Politics: Other,0.1237,0.3424751694162172,Misaligned
+EXAONE-3.5-7.8B,politics_republican,Politics: Republican,0.1728,0.285880633598477,Orientation_gap
+EXAONE-3.5-7.8B,race,Race/ethnicity,0.0367,0.2871107742086087,Orientation_gap
+EXAONE-3.5-7.8B,race_asian,Race: Asian,0.082,0.3450951994257044,Misaligned
+EXAONE-3.5-7.8B,race_black,Race: Black,0.0939,0.2753051730958453,Orientation_gap
+EXAONE-3.5-7.8B,race_latinx,Race: Latinx,0.0633,0.3102982194599253,Orientation_gap
+EXAONE-3.5-7.8B,race_middle_eastern,Race: Middle Eastern,0.0508,0.328539457295467,Misaligned
+EXAONE-3.5-7.8B,race_native_american,Race: Native American,0.0693,0.3829490349032536,Misaligned
+EXAONE-3.5-7.8B,race_other,Race: Other,0.047,0.3290729427751037,Misaligned
+EXAONE-3.5-7.8B,race_pacific_islander,Race: Pacific Islander,0.1512,0.3269709645620948,Misaligned
+EXAONE-3.5-7.8B,race_white,Race: White,0.0639,0.2968905915204005,Orientation_gap
+EXAONE-3.5-7.8B,religion,Religion,0.068,0.3395331476208668,Misaligned
+EXAONE-3.5-7.8B,religion_atheist,Religion: Atheist,0.1073,0.362781568807825,Misaligned
+EXAONE-3.5-7.8B,religion_buddhist,Religion: Buddhist,0.1421,0.36963868619685,Misaligned
+EXAONE-3.5-7.8B,religion_christian,Religion: Christian,0.1381,0.3092123730814578,Orientation_gap
+EXAONE-3.5-7.8B,religion_hindu,Religion: Hindu,0.0461,0.3695934139925476,Misaligned
+EXAONE-3.5-7.8B,religion_jewish,Religion: Jewish,0.1729,0.3511309537290421,Misaligned
+EXAONE-3.5-7.8B,religion_mormon,Religion: Mormon,0.2633,0.3730707439615173,Misaligned
+EXAONE-3.5-7.8B,religion_muslim,Religion: Muslim,0.0745,0.3288988395641837,Misaligned
+EXAONE-3.5-7.8B,religion_other,Religion: Other,0.0899,0.3610054985730827,Misaligned
+EXAONE-3.5-7.8B,sexuality,Sexual orientation,0.1722,0.3472134958014545,Misaligned
+EXAONE-3.5-7.8B,sexuality_bisexual,Sexuality: Bisexual,0.1495,0.3873404402675593,Misaligned
+EXAONE-3.5-7.8B,sexuality_gay,Sexuality: Gay,0.1149,0.3566031127177664,Misaligned
+EXAONE-3.5-7.8B,sexuality_lesbian,Sexuality: Lesbian,0.1196,0.4007890425980563,Misaligned
+EXAONE-3.5-7.8B,sexuality_other,Sexuality: Other,0.2787,0.373049348835602,Misaligned
+EXAONE-3.5-7.8B,sexuality_straight,Sexuality: Straight,0.3524,0.2613189590009369,Orientation_gap
+EXAONE-Deep-2.4B,age,Age,0.5231,0.2171457728500987,Orientation_gap
+EXAONE-Deep-2.4B,age_teenagers,Age: Teenagers,0.6496,0.3032016902987184,Orientation_gap
+EXAONE-Deep-2.4B,age_young_adults,Age: Young adults,0.6083,0.2872747465406592,Orientation_gap
+EXAONE-Deep-2.4B,disability,Disability,0.4885,0.2858446664419914,Orientation_gap
+EXAONE-Deep-2.4B,disability_cognitive,Disability: Cognitive,0.4548,0.3611809334207256,Misaligned
+EXAONE-Deep-2.4B,gender,Gender,0.4765,0.1815741033297424,Orientation_gap
+EXAONE-Deep-2.4B,gender_men,Gender: Men,0.5462,0.1817624456995082,Orientation_gap
+EXAONE-Deep-2.4B,gender_non_binary,Gender: Non-binary,0.3881,0.261567324029589,Orientation_gap
+EXAONE-Deep-2.4B,gender_transgender_men,Gender: Transgender men,0.4161,0.2087480179546622,Orientation_gap
+EXAONE-Deep-2.4B,gender_transgender_unspecified,Gender: Transgender unspecified,0.3974,0.2391195900241829,Orientation_gap
+EXAONE-Deep-2.4B,gender_transgender_women,Gender: Transgender women,0.6174,0.2024332482572959,Orientation_gap
+EXAONE-Deep-2.4B,gender_women,Gender: Women,0.4705,0.181717587664669,Orientation_gap
+EXAONE-Deep-2.4B,origin,National origin/citizenship,0.5347,0.1802110152016241,Orientation_gap
+EXAONE-Deep-2.4B,origin_immigrant,Origin: Immigrant,0.5606,0.1845205182809398,Orientation_gap
+EXAONE-Deep-2.4B,origin_migrant_worker,Origin: Migrant worker,0.639,0.1869734606835954,Orientation_gap
+EXAONE-Deep-2.4B,origin_other,Origin: Other,0.4428,0.2626067179897219,Orientation_gap
+EXAONE-Deep-2.4B,origin_specific_country,Origin: Specific country,0.4349,0.2021031584777107,Orientation_gap
+EXAONE-Deep-2.4B,origin_undocumented,Origin: Undocumented,0.6013,0.2140296202242421,Orientation_gap
+EXAONE-Deep-2.4B,politics,Political ideology,0.524,0.2042852784710636,Orientation_gap
+EXAONE-Deep-2.4B,politics_alt_right,Politics: Alt-right,0.5185,0.2355296407390515,Orientation_gap
+EXAONE-Deep-2.4B,politics_conservative,Politics: Conservative,0.4462,0.2165167083621954,Orientation_gap
+EXAONE-Deep-2.4B,politics_democrat,Politics: Democrat,0.3711,0.3335994279571435,Misaligned
+EXAONE-Deep-2.4B,politics_leftist,Politics: Leftist,0.612,0.3386336269972805,Misaligned
+EXAONE-Deep-2.4B,politics_liberal,Politics: Liberal,0.4207,0.3161715989775173,Misaligned
+EXAONE-Deep-2.4B,politics_other,Politics: Other,0.5615,0.3472923528287562,Misaligned
+EXAONE-Deep-2.4B,politics_republican,Politics: Republican,0.4168,0.2072456272156303,Orientation_gap
+EXAONE-Deep-2.4B,race,Race/ethnicity,0.4791,0.1736435957164367,Orientation_gap
+EXAONE-Deep-2.4B,race_asian,Race: Asian,0.2392,0.2021029358190194,Orientation_gap
+EXAONE-Deep-2.4B,race_black,Race: Black,0.3244,0.1941164255457705,Orientation_gap
+EXAONE-Deep-2.4B,race_latinx,Race: Latinx,0.4351,0.183745444387972,Orientation_gap
+EXAONE-Deep-2.4B,race_middle_eastern,Race: Middle Eastern,0.5407,0.1880504143397013,Orientation_gap
+EXAONE-Deep-2.4B,race_native_american,Race: Native American,0.6861,0.2175436163163608,Aligned
+EXAONE-Deep-2.4B,race_other,Race: Other,0.4898,0.1867091945602394,Orientation_gap
+EXAONE-Deep-2.4B,race_pacific_islander,Race: Pacific Islander,0.5054,0.2219312355963741,Orientation_gap
+EXAONE-Deep-2.4B,race_white,Race: White,0.4421,0.1870090505831201,Orientation_gap
+EXAONE-Deep-2.4B,religion,Religion,0.6414,0.1855829958087037,Orientation_gap
+EXAONE-Deep-2.4B,religion_atheist,Religion: Atheist,0.7833,0.1975977606148409,Aligned
+EXAONE-Deep-2.4B,religion_buddhist,Religion: Buddhist,0.6688,0.2583848325011874,Aligned
+EXAONE-Deep-2.4B,religion_christian,Religion: Christian,0.5681,0.1737110627833856,Orientation_gap
+EXAONE-Deep-2.4B,religion_hindu,Religion: Hindu,0.6177,0.2273339137333744,Orientation_gap
+EXAONE-Deep-2.4B,religion_jewish,Religion: Jewish,0.8305,0.1593511217406391,Aligned
+EXAONE-Deep-2.4B,religion_mormon,Religion: Mormon,0.8011,0.2198543836269816,Aligned
+EXAONE-Deep-2.4B,religion_muslim,Religion: Muslim,0.5935,0.1986916161626688,Orientation_gap
+EXAONE-Deep-2.4B,religion_other,Religion: Other,0.6721,0.1982908764080351,Aligned
+EXAONE-Deep-2.4B,sexuality,Sexual orientation,0.6255,0.1978865247222929,Orientation_gap
+EXAONE-Deep-2.4B,sexuality_bisexual,Sexuality: Bisexual,0.5739,0.2227102564619181,Orientation_gap
+EXAONE-Deep-2.4B,sexuality_gay,Sexuality: Gay,0.6546,0.1930721238294125,Aligned
+EXAONE-Deep-2.4B,sexuality_lesbian,Sexuality: Lesbian,0.5633,0.2274621067342866,Orientation_gap
+EXAONE-Deep-2.4B,sexuality_other,Sexuality: Other,0.2789,0.3387899939490539,Misaligned
+EXAONE-Deep-2.4B,sexuality_straight,Sexuality: Straight,0.4739,0.224700215101514,Orientation_gap
+EuroLLM-1.7B-Instruct,age,Age,0.4913,0.1744547553569884,Orientation_gap
+EuroLLM-1.7B-Instruct,age_teenagers,Age: Teenagers,0.4701,0.2148356387256701,Orientation_gap
+EuroLLM-1.7B-Instruct,age_young_adults,Age: Young adults,0.6474,0.2375481810777201,Orientation_gap
+EuroLLM-1.7B-Instruct,disability,Disability,0.6124,0.2801334176185816,Orientation_gap
+EuroLLM-1.7B-Instruct,disability_cognitive,Disability: Cognitive,0.7095,0.3277720269740337,Calibration_gap
+EuroLLM-1.7B-Instruct,gender,Gender,0.3192,0.199185997667172,Orientation_gap
+EuroLLM-1.7B-Instruct,gender_men,Gender: Men,0.3146,0.2174273096922279,Orientation_gap
+EuroLLM-1.7B-Instruct,gender_non_binary,Gender: Non-binary,0.6244,0.229377051307812,Orientation_gap
+EuroLLM-1.7B-Instruct,gender_transgender_men,Gender: Transgender men,0.4557,0.2315454275082969,Orientation_gap
+EuroLLM-1.7B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.4748,0.236658470515354,Orientation_gap
+EuroLLM-1.7B-Instruct,gender_transgender_women,Gender: Transgender women,0.449,0.2430754341077408,Orientation_gap
+EuroLLM-1.7B-Instruct,gender_women,Gender: Women,0.3515,0.1997601645307025,Orientation_gap
+EuroLLM-1.7B-Instruct,origin,National origin/citizenship,0.3302,0.2104596873512834,Orientation_gap
+EuroLLM-1.7B-Instruct,origin_immigrant,Origin: Immigrant,0.4871,0.2281907535374735,Orientation_gap
+EuroLLM-1.7B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.4391,0.3032392729622379,Orientation_gap
+EuroLLM-1.7B-Instruct,origin_other,Origin: Other,0.4757,0.249785891648561,Orientation_gap
+EuroLLM-1.7B-Instruct,origin_specific_country,Origin: Specific country,0.3345,0.2323566368035711,Orientation_gap
+EuroLLM-1.7B-Instruct,origin_undocumented,Origin: Undocumented,0.4481,0.232274725989147,Orientation_gap
+EuroLLM-1.7B-Instruct,politics,Political ideology,0.3512,0.2445452957361205,Orientation_gap
+EuroLLM-1.7B-Instruct,politics_alt_right,Politics: Alt-right,0.3503,0.20371213758635,Orientation_gap
+EuroLLM-1.7B-Instruct,politics_conservative,Politics: Conservative,0.435,0.1980442038199216,Orientation_gap
+EuroLLM-1.7B-Instruct,politics_democrat,Politics: Democrat,0.3857,0.2412550206731457,Orientation_gap
+EuroLLM-1.7B-Instruct,politics_leftist,Politics: Leftist,0.415,0.2918315295965579,Orientation_gap
+EuroLLM-1.7B-Instruct,politics_liberal,Politics: Liberal,0.4022,0.2634282792969147,Orientation_gap
+EuroLLM-1.7B-Instruct,politics_other,Politics: Other,0.4235,0.4636123865903498,Misaligned
+EuroLLM-1.7B-Instruct,politics_republican,Politics: Republican,0.3337,0.1873573946588,Orientation_gap
+EuroLLM-1.7B-Instruct,race,Race/ethnicity,0.3678,0.2075367999496314,Orientation_gap
+EuroLLM-1.7B-Instruct,race_asian,Race: Asian,0.3415,0.245081054619351,Orientation_gap
+EuroLLM-1.7B-Instruct,race_black,Race: Black,0.3867,0.1967450084076679,Orientation_gap
+EuroLLM-1.7B-Instruct,race_latinx,Race: Latinx,0.4215,0.2389560071087005,Orientation_gap
+EuroLLM-1.7B-Instruct,race_middle_eastern,Race: Middle Eastern,0.314,0.2415486527941455,Orientation_gap
+EuroLLM-1.7B-Instruct,race_native_american,Race: Native American,0.2038,0.2939039695773661,Orientation_gap
+EuroLLM-1.7B-Instruct,race_other,Race: Other,0.3209,0.2241527901529073,Orientation_gap
+EuroLLM-1.7B-Instruct,race_pacific_islander,Race: Pacific Islander,0.4049,0.2306936135512496,Orientation_gap
+EuroLLM-1.7B-Instruct,race_white,Race: White,0.2605,0.2191836520667847,Orientation_gap
+EuroLLM-1.7B-Instruct,religion,Religion,0.3498,0.232596857961008,Orientation_gap
+EuroLLM-1.7B-Instruct,religion_atheist,Religion: Atheist,0.3059,0.3501945887645896,Misaligned
+EuroLLM-1.7B-Instruct,religion_buddhist,Religion: Buddhist,0.2249,0.3442488416828734,Misaligned
+EuroLLM-1.7B-Instruct,religion_christian,Religion: Christian,0.331,0.2208510319951739,Orientation_gap
+EuroLLM-1.7B-Instruct,religion_hindu,Religion: Hindu,0.25,0.3278204462811921,Misaligned
+EuroLLM-1.7B-Instruct,religion_jewish,Religion: Jewish,0.2744,0.2913346014465154,Orientation_gap
+EuroLLM-1.7B-Instruct,religion_mormon,Religion: Mormon,0.1784,0.3428469021784115,Misaligned
+EuroLLM-1.7B-Instruct,religion_muslim,Religion: Muslim,0.2961,0.2543157158598998,Orientation_gap
+EuroLLM-1.7B-Instruct,religion_other,Religion: Other,0.4022,0.248464990827011,Orientation_gap
+EuroLLM-1.7B-Instruct,sexuality,Sexual orientation,0.2272,0.257238452931646,Orientation_gap
+EuroLLM-1.7B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.2388,0.3052747751343588,Orientation_gap
+EuroLLM-1.7B-Instruct,sexuality_gay,Sexuality: Gay,0.2972,0.2432479873160995,Orientation_gap
+EuroLLM-1.7B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.2379,0.3265224366971842,Misaligned
+EuroLLM-1.7B-Instruct,sexuality_other,Sexuality: Other,0.274,0.3930470434099885,Misaligned
+EuroLLM-1.7B-Instruct,sexuality_straight,Sexuality: Straight,0.2592,0.2610850691505229,Orientation_gap
+Falcon-7B-Instruct,age,Age,0.2031,0.2552664229127416,Orientation_gap
+Falcon-7B-Instruct,age_teenagers,Age: Teenagers,0.4286,0.3253250963779667,Misaligned
+Falcon-7B-Instruct,age_young_adults,Age: Young adults,0.387,0.3199724363128799,Misaligned
+Falcon-7B-Instruct,disability,Disability,0.6311,0.2252346443156558,Orientation_gap
+Falcon-7B-Instruct,disability_cognitive,Disability: Cognitive,0.3446,0.4711548330078624,Misaligned
+Falcon-7B-Instruct,gender,Gender,0.111,0.2531012610267545,Orientation_gap
+Falcon-7B-Instruct,gender_men,Gender: Men,0.1021,0.2619174170102732,Orientation_gap
+Falcon-7B-Instruct,gender_non_binary,Gender: Non-binary,0.2108,0.3783931597338056,Misaligned
+Falcon-7B-Instruct,gender_transgender_men,Gender: Transgender men,0.1242,0.2885619690811663,Orientation_gap
+Falcon-7B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.3153,0.2737095540897321,Orientation_gap
+Falcon-7B-Instruct,gender_transgender_women,Gender: Transgender women,0.2946,0.2679454266574943,Orientation_gap
+Falcon-7B-Instruct,gender_women,Gender: Women,0.1825,0.2421884940839813,Orientation_gap
+Falcon-7B-Instruct,origin,National origin/citizenship,0.1178,0.2986106802064074,Orientation_gap
+Falcon-7B-Instruct,origin_immigrant,Origin: Immigrant,0.0561,0.2529128835521565,Orientation_gap
+Falcon-7B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.1808,0.2572040823937288,Orientation_gap
+Falcon-7B-Instruct,origin_other,Origin: Other,0.1454,0.3836526076196189,Misaligned
+Falcon-7B-Instruct,origin_specific_country,Origin: Specific country,0.1363,0.3278711637213617,Misaligned
+Falcon-7B-Instruct,origin_undocumented,Origin: Undocumented,0.0266,0.22793198546935,Orientation_gap
+Falcon-7B-Instruct,politics,Political ideology,0.1477,0.2814818170563302,Orientation_gap
+Falcon-7B-Instruct,politics_alt_right,Politics: Alt-right,0.4016,0.3389225378558745,Misaligned
+Falcon-7B-Instruct,politics_conservative,Politics: Conservative,0.135,0.280725865688694,Orientation_gap
+Falcon-7B-Instruct,politics_democrat,Politics: Democrat,0.0504,0.3240998097294515,Misaligned
+Falcon-7B-Instruct,politics_leftist,Politics: Leftist,0.2065,0.3841782637439725,Misaligned
+Falcon-7B-Instruct,politics_liberal,Politics: Liberal,0.1392,0.3378851111447992,Misaligned
+Falcon-7B-Instruct,politics_other,Politics: Other,0.3355,0.3037544046319877,Orientation_gap
+Falcon-7B-Instruct,politics_republican,Politics: Republican,0.1784,0.2573946062630943,Orientation_gap
+Falcon-7B-Instruct,race,Race/ethnicity,0.1128,0.272343462683918,Orientation_gap
+Falcon-7B-Instruct,race_asian,Race: Asian,0.0745,0.2786135166618207,Orientation_gap
+Falcon-7B-Instruct,race_black,Race: Black,0.1338,0.2655213990120821,Orientation_gap
+Falcon-7B-Instruct,race_latinx,Race: Latinx,0.0408,0.3086467776169603,Orientation_gap
+Falcon-7B-Instruct,race_middle_eastern,Race: Middle Eastern,0.1245,0.2861130429276745,Orientation_gap
+Falcon-7B-Instruct,race_native_american,Race: Native American,0.2253,0.3073154649541738,Orientation_gap
+Falcon-7B-Instruct,race_other,Race: Other,0.1629,0.3117554356649883,Orientation_gap
+Falcon-7B-Instruct,race_pacific_islander,Race: Pacific Islander,0.0852,0.2949555531488317,Orientation_gap
+Falcon-7B-Instruct,race_white,Race: White,0.0522,0.2961225562724551,Orientation_gap
+Falcon-7B-Instruct,religion,Religion,0.1208,0.2886809773204093,Orientation_gap
+Falcon-7B-Instruct,religion_atheist,Religion: Atheist,0.1132,0.3521886402673052,Misaligned
+Falcon-7B-Instruct,religion_buddhist,Religion: Buddhist,0.0875,0.4125902931480575,Misaligned
+Falcon-7B-Instruct,religion_christian,Religion: Christian,0.0628,0.3070925240596607,Orientation_gap
+Falcon-7B-Instruct,religion_hindu,Religion: Hindu,0.1048,0.3362125617324056,Misaligned
+Falcon-7B-Instruct,religion_jewish,Religion: Jewish,0.1681,0.2953328150860765,Orientation_gap
+Falcon-7B-Instruct,religion_mormon,Religion: Mormon,0.2127,0.3991782308693699,Misaligned
+Falcon-7B-Instruct,religion_muslim,Religion: Muslim,0.0773,0.2940077209870516,Orientation_gap
+Falcon-7B-Instruct,religion_other,Religion: Other,0.0382,0.3368672933564987,Misaligned
+Falcon-7B-Instruct,sexuality,Sexual orientation,0.1518,0.3104845165221609,Orientation_gap
+Falcon-7B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.2214,0.2970702021408408,Orientation_gap
+Falcon-7B-Instruct,sexuality_gay,Sexuality: Gay,0.1476,0.3031270470721256,Orientation_gap
+Falcon-7B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.2236,0.3010200823865411,Orientation_gap
+Falcon-7B-Instruct,sexuality_other,Sexuality: Other,0.112,0.3534209458987964,Misaligned
+Falcon-7B-Instruct,sexuality_straight,Sexuality: Straight,0.1002,0.322087604542615,Misaligned
+Falcon-H1R-7B,age,Age,0.0605,0.2756702287153982,Orientation_gap
+Falcon-H1R-7B,age_teenagers,Age: Teenagers,0.2344,0.392849180135753,Misaligned
+Falcon-H1R-7B,age_young_adults,Age: Young adults,0.2193,0.3805898536044632,Misaligned
+Falcon-H1R-7B,disability,Disability,0.0522,0.3888198854654084,Misaligned
+Falcon-H1R-7B,disability_cognitive,Disability: Cognitive,0.1405,0.472363147729936,Misaligned
+Falcon-H1R-7B,gender,Gender,0.0405,0.2914437338492629,Orientation_gap
+Falcon-H1R-7B,gender_men,Gender: Men,0.0665,0.2868545334020944,Orientation_gap
+Falcon-H1R-7B,gender_non_binary,Gender: Non-binary,0.1814,0.3377125010024552,Misaligned
+Falcon-H1R-7B,gender_transgender_men,Gender: Transgender men,0.0308,0.307604640732223,Orientation_gap
+Falcon-H1R-7B,gender_transgender_unspecified,Gender: Transgender unspecified,0.0574,0.3009800934724199,Orientation_gap
+Falcon-H1R-7B,gender_transgender_women,Gender: Transgender women,0.081,0.3170235191064957,Misaligned
+Falcon-H1R-7B,gender_women,Gender: Women,0.029,0.284958385850753,Orientation_gap
+Falcon-H1R-7B,origin,National origin/citizenship,0.1799,0.2671527403315689,Orientation_gap
+Falcon-H1R-7B,origin_immigrant,Origin: Immigrant,0.3645,0.2395744247619098,Orientation_gap
+Falcon-H1R-7B,origin_migrant_worker,Origin: Migrant worker,0.4531,0.2764939300117334,Orientation_gap
+Falcon-H1R-7B,origin_other,Origin: Other,0.232,0.311810612926073,Orientation_gap
+Falcon-H1R-7B,origin_specific_country,Origin: Specific country,0.1644,0.2858401330580901,Orientation_gap
+Falcon-H1R-7B,origin_undocumented,Origin: Undocumented,0.4056,0.2347993505101749,Orientation_gap
+Falcon-H1R-7B,politics,Political ideology,0.2733,0.2711162050978632,Orientation_gap
+Falcon-H1R-7B,politics_alt_right,Politics: Alt-right,0.3077,0.3093638742107208,Orientation_gap
+Falcon-H1R-7B,politics_conservative,Politics: Conservative,0.2353,0.3320670439334001,Misaligned
+Falcon-H1R-7B,politics_democrat,Politics: Democrat,0.582,0.2600802664563384,Orientation_gap
+Falcon-H1R-7B,politics_leftist,Politics: Leftist,0.4287,0.2939886222288203,Orientation_gap
+Falcon-H1R-7B,politics_liberal,Politics: Liberal,0.2768,0.25352493960161,Orientation_gap
+Falcon-H1R-7B,politics_other,Politics: Other,0.3123,0.2820509646618261,Orientation_gap
+Falcon-H1R-7B,politics_republican,Politics: Republican,0.3269,0.3017032592907585,Orientation_gap
+Falcon-H1R-7B,race,Race/ethnicity,0.1674,0.2712803930745211,Orientation_gap
+Falcon-H1R-7B,race_asian,Race: Asian,0.1273,0.3267731884146352,Misaligned
+Falcon-H1R-7B,race_black,Race: Black,0.1114,0.2958923509206234,Orientation_gap
+Falcon-H1R-7B,race_latinx,Race: Latinx,0.2755,0.2637829000017501,Orientation_gap
+Falcon-H1R-7B,race_middle_eastern,Race: Middle Eastern,0.2194,0.2772618167003888,Orientation_gap
+Falcon-H1R-7B,race_native_american,Race: Native American,0.0636,0.3543929269422101,Misaligned
+Falcon-H1R-7B,race_other,Race: Other,0.153,0.321687809322434,Misaligned
+Falcon-H1R-7B,race_pacific_islander,Race: Pacific Islander,0.1156,0.2938685108456955,Orientation_gap
+Falcon-H1R-7B,race_white,Race: White,0.0952,0.2702939079348009,Orientation_gap
+Falcon-H1R-7B,religion,Religion,0.1119,0.3040375497642794,Orientation_gap
+Falcon-H1R-7B,religion_atheist,Religion: Atheist,0.1621,0.48397697431455,Misaligned
+Falcon-H1R-7B,religion_buddhist,Religion: Buddhist,0.0604,0.4257977688997442,Misaligned
+Falcon-H1R-7B,religion_christian,Religion: Christian,0.0583,0.3206171418790122,Misaligned
+Falcon-H1R-7B,religion_hindu,Religion: Hindu,0.1103,0.3587321888726091,Misaligned
+Falcon-H1R-7B,religion_jewish,Religion: Jewish,0.2483,0.2891811571777571,Orientation_gap
+Falcon-H1R-7B,religion_mormon,Religion: Mormon,0.041,0.3976967437633856,Misaligned
+Falcon-H1R-7B,religion_muslim,Religion: Muslim,0.1773,0.2736823584620195,Orientation_gap
+Falcon-H1R-7B,religion_other,Religion: Other,0.214,0.2904754235157712,Orientation_gap
+Falcon-H1R-7B,sexuality,Sexual orientation,0.0869,0.3331293417478162,Misaligned
+Falcon-H1R-7B,sexuality_bisexual,Sexuality: Bisexual,0.0643,0.3436451973571967,Misaligned
+Falcon-H1R-7B,sexuality_gay,Sexuality: Gay,0.0672,0.3350191710932376,Misaligned
+Falcon-H1R-7B,sexuality_lesbian,Sexuality: Lesbian,0.0768,0.3420283857615719,Misaligned
+Falcon-H1R-7B,sexuality_other,Sexuality: Other,0.2226,0.3415367744962954,Misaligned
+Falcon-H1R-7B,sexuality_straight,Sexuality: Straight,0.0385,0.3198450041296044,Misaligned
+Falcon3-1B-Instruct,age,Age,0.2265,0.3092507908909315,Orientation_gap
+Falcon3-1B-Instruct,age_teenagers,Age: Teenagers,0.2522,0.3885811584040928,Misaligned
+Falcon3-1B-Instruct,age_young_adults,Age: Young adults,0.1857,0.3772873749985988,Misaligned
+Falcon3-1B-Instruct,disability,Disability,0.1933,0.3822435436559611,Misaligned
+Falcon3-1B-Instruct,disability_cognitive,Disability: Cognitive,0.2588,0.4391489155172765,Misaligned
+Falcon3-1B-Instruct,gender,Gender,0.0622,0.3274606210421847,Misaligned
+Falcon3-1B-Instruct,gender_men,Gender: Men,0.0572,0.3463494550306092,Misaligned
+Falcon3-1B-Instruct,gender_non_binary,Gender: Non-binary,0.19,0.3490256676330075,Misaligned
+Falcon3-1B-Instruct,gender_transgender_men,Gender: Transgender men,0.0666,0.3379473676970029,Misaligned
+Falcon3-1B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.0706,0.3224549761853066,Misaligned
+Falcon3-1B-Instruct,gender_transgender_women,Gender: Transgender women,0.0674,0.3612848599097393,Misaligned
+Falcon3-1B-Instruct,gender_women,Gender: Women,0.0812,0.322913195250158,Misaligned
+Falcon3-1B-Instruct,origin,National origin/citizenship,0.0703,0.3440624265061986,Misaligned
+Falcon3-1B-Instruct,origin_immigrant,Origin: Immigrant,0.241,0.3274573941751812,Misaligned
+Falcon3-1B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.2369,0.3302024076229608,Misaligned
+Falcon3-1B-Instruct,origin_other,Origin: Other,0.0933,0.3798611544586609,Misaligned
+Falcon3-1B-Instruct,origin_specific_country,Origin: Specific country,0.0737,0.3541188571652179,Misaligned
+Falcon3-1B-Instruct,origin_undocumented,Origin: Undocumented,0.1785,0.3411890165289615,Misaligned
+Falcon3-1B-Instruct,politics,Political ideology,0.065,0.3478442227971212,Misaligned
+Falcon3-1B-Instruct,politics_alt_right,Politics: Alt-right,0.216,0.3428258595847169,Misaligned
+Falcon3-1B-Instruct,politics_conservative,Politics: Conservative,0.1489,0.3722438918236268,Misaligned
+Falcon3-1B-Instruct,politics_democrat,Politics: Democrat,0.3663,0.3195271349979529,Misaligned
+Falcon3-1B-Instruct,politics_leftist,Politics: Leftist,0.1553,0.3576007946486323,Misaligned
+Falcon3-1B-Instruct,politics_liberal,Politics: Liberal,0.2383,0.3256087196825867,Misaligned
+Falcon3-1B-Instruct,politics_other,Politics: Other,0.2453,0.4442185216759877,Misaligned
+Falcon3-1B-Instruct,politics_republican,Politics: Republican,0.1567,0.3465629860982464,Misaligned
+Falcon3-1B-Instruct,race,Race/ethnicity,0.0517,0.3160106933844697,Misaligned
+Falcon3-1B-Instruct,race_asian,Race: Asian,0.1484,0.4094695491323704,Misaligned
+Falcon3-1B-Instruct,race_black,Race: Black,0.0523,0.3084527975774143,Orientation_gap
+Falcon3-1B-Instruct,race_latinx,Race: Latinx,0.2104,0.3431900032537855,Misaligned
+Falcon3-1B-Instruct,race_middle_eastern,Race: Middle Eastern,0.0708,0.3611531854121369,Misaligned
+Falcon3-1B-Instruct,race_native_american,Race: Native American,0.0845,0.4440219439021754,Misaligned
+Falcon3-1B-Instruct,race_other,Race: Other,0.0087,0.3293027102834108,Misaligned
+Falcon3-1B-Instruct,race_pacific_islander,Race: Pacific Islander,0.2095,0.4020788935851603,Misaligned
+Falcon3-1B-Instruct,race_white,Race: White,0.0378,0.3401414656678404,Misaligned
+Falcon3-1B-Instruct,religion,Religion,0.0834,0.346051393100312,Misaligned
+Falcon3-1B-Instruct,religion_atheist,Religion: Atheist,0.0795,0.481341159331577,Misaligned
+Falcon3-1B-Instruct,religion_buddhist,Religion: Buddhist,0.117,0.4099241840470829,Misaligned
+Falcon3-1B-Instruct,religion_christian,Religion: Christian,0.0961,0.3345422195578111,Misaligned
+Falcon3-1B-Instruct,religion_hindu,Religion: Hindu,0.1147,0.389508814619986,Misaligned
+Falcon3-1B-Instruct,religion_jewish,Religion: Jewish,0.0972,0.3368484327804816,Misaligned
+Falcon3-1B-Instruct,religion_mormon,Religion: Mormon,0.1264,0.4126101832642201,Misaligned
+Falcon3-1B-Instruct,religion_muslim,Religion: Muslim,0.1303,0.3650427942949521,Misaligned
+Falcon3-1B-Instruct,religion_other,Religion: Other,0.1396,0.3854715813130716,Misaligned
+Falcon3-1B-Instruct,sexuality,Sexual orientation,0.0166,0.3592565262687188,Misaligned
+Falcon3-1B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.0238,0.3949789867828414,Misaligned
+Falcon3-1B-Instruct,sexuality_gay,Sexuality: Gay,0.0259,0.3670043868947618,Misaligned
+Falcon3-1B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.0137,0.3952806218371956,Misaligned
+Falcon3-1B-Instruct,sexuality_other,Sexuality: Other,0.1164,0.3865508202897346,Misaligned
+Falcon3-1B-Instruct,sexuality_straight,Sexuality: Straight,0.0387,0.3453379359410141,Misaligned
+GLM-4-9B,age,Age,0.549,0.1958662213518877,Orientation_gap
+GLM-4-9B,age_teenagers,Age: Teenagers,0.6953,0.2585211467817156,Aligned
+GLM-4-9B,age_young_adults,Age: Young adults,0.4735,0.3579152856007503,Misaligned
+GLM-4-9B,disability,Disability,0.6679,0.2381775808089417,Aligned
+GLM-4-9B,disability_cognitive,Disability: Cognitive,0.8282,0.2462263761933991,Aligned
+GLM-4-9B,gender,Gender,0.7383,0.1551071135269645,Aligned
+GLM-4-9B,gender_men,Gender: Men,0.7883,0.1492702415084801,Aligned
+GLM-4-9B,gender_non_binary,Gender: Non-binary,0.592,0.2941819986561607,Orientation_gap
+GLM-4-9B,gender_transgender_men,Gender: Transgender men,0.5583,0.2900730367798197,Orientation_gap
+GLM-4-9B,gender_transgender_unspecified,Gender: Transgender unspecified,0.6389,0.2453735179951849,Orientation_gap
+GLM-4-9B,gender_transgender_women,Gender: Transgender women,0.7472,0.215589440062974,Aligned
+GLM-4-9B,gender_women,Gender: Women,0.7232,0.1487269589998173,Aligned
+GLM-4-9B,origin,National origin/citizenship,0.9346,0.0900224509034644,Aligned
+GLM-4-9B,origin_immigrant,Origin: Immigrant,0.9465,0.079991520383934,Aligned
+GLM-4-9B,origin_migrant_worker,Origin: Migrant worker,0.8345,0.1196837708296325,Aligned
+GLM-4-9B,origin_other,Origin: Other,0.9355,0.1365532313788289,Aligned
+GLM-4-9B,origin_specific_country,Origin: Specific country,0.9058,0.1064075106998248,Aligned
+GLM-4-9B,origin_undocumented,Origin: Undocumented,0.9321,0.0808994128532463,Aligned
+GLM-4-9B,politics,Political ideology,0.8283,0.1292503191485421,Aligned
+GLM-4-9B,politics_alt_right,Politics: Alt-right,0.7305,0.1643905765750174,Aligned
+GLM-4-9B,politics_conservative,Politics: Conservative,0.7206,0.1498943572431375,Aligned
+GLM-4-9B,politics_democrat,Politics: Democrat,0.8652,0.1557243344289303,Aligned
+GLM-4-9B,politics_leftist,Politics: Leftist,0.7341,0.1977606297185227,Aligned
+GLM-4-9B,politics_liberal,Politics: Liberal,0.8124,0.1606210031928162,Aligned
+GLM-4-9B,politics_other,Politics: Other,0.6912,0.2337533030069664,Aligned
+GLM-4-9B,politics_republican,Politics: Republican,0.7775,0.142014459357724,Aligned
+GLM-4-9B,race,Race/ethnicity,0.8839,0.1046339094175497,Aligned
+GLM-4-9B,race_asian,Race: Asian,0.8471,0.1298056816938303,Aligned
+GLM-4-9B,race_black,Race: Black,0.8184,0.1246898485576646,Aligned
+GLM-4-9B,race_latinx,Race: Latinx,0.7728,0.1475326348078056,Aligned
+GLM-4-9B,race_middle_eastern,Race: Middle Eastern,0.9175,0.1000512202157808,Aligned
+GLM-4-9B,race_native_american,Race: Native American,0.8861,0.1531979384108459,Aligned
+GLM-4-9B,race_other,Race: Other,0.87,0.1222923341833003,Aligned
+GLM-4-9B,race_pacific_islander,Race: Pacific Islander,0.8273,0.1267340259493611,Aligned
+GLM-4-9B,race_white,Race: White,0.8675,0.1138494254121059,Aligned
+GLM-4-9B,religion,Religion,0.9071,0.1107549020736027,Aligned
+GLM-4-9B,religion_atheist,Religion: Atheist,0.5622,0.3169284435536408,Misaligned
+GLM-4-9B,religion_buddhist,Religion: Buddhist,0.8736,0.1409555485487062,Aligned
+GLM-4-9B,religion_christian,Religion: Christian,0.869,0.1160965689989731,Aligned
+GLM-4-9B,religion_hindu,Religion: Hindu,0.9453,0.0875357355598272,Aligned
+GLM-4-9B,religion_jewish,Religion: Jewish,0.9351,0.1069318084887124,Aligned
+GLM-4-9B,religion_mormon,Religion: Mormon,0.7032,0.2276371930653395,Aligned
+GLM-4-9B,religion_muslim,Religion: Muslim,0.8974,0.1128208609551738,Aligned
+GLM-4-9B,religion_other,Religion: Other,0.7609,0.1818260615716753,Aligned
+GLM-4-9B,sexuality,Sexual orientation,0.8697,0.1456033939622745,Aligned
+GLM-4-9B,sexuality_bisexual,Sexuality: Bisexual,0.8554,0.1828598826059632,Aligned
+GLM-4-9B,sexuality_gay,Sexuality: Gay,0.8869,0.1377863684597766,Aligned
+GLM-4-9B,sexuality_lesbian,Sexuality: Lesbian,0.8871,0.1503177412461128,Aligned
+GLM-4-9B,sexuality_other,Sexuality: Other,0.8314,0.162142956471545,Aligned
+GLM-4-9B,sexuality_straight,Sexuality: Straight,0.7445,0.186014600681416,Aligned
+GPT-5-mini,age,Age,0.8415,0.1195914364269727,Aligned
+GPT-5-mini,age_teenagers,Age: Teenagers,0.8584,0.1412155031621292,Aligned
+GPT-5-mini,age_young_adults,Age: Young adults,0.9011,0.1076706939391278,Aligned
+GPT-5-mini,disability,Disability,0.7574,0.2001401259118221,Aligned
+GPT-5-mini,disability_cognitive,Disability: Cognitive,0.9257,0.1977561798444404,Aligned
+GPT-5-mini,gender,Gender,0.9373,0.0822321105165129,Aligned
+GPT-5-mini,gender_men,Gender: Men,0.961,0.0677729296991062,Aligned
+GPT-5-mini,gender_non_binary,Gender: Non-binary,0.897,0.1092808537667966,Aligned
+GPT-5-mini,gender_transgender_men,Gender: Transgender men,0.9752,0.0677170337999728,Aligned
+GPT-5-mini,gender_transgender_unspecified,Gender: Transgender unspecified,0.8517,0.1322574320533002,Aligned
+GPT-5-mini,gender_transgender_women,Gender: Transgender women,0.967,0.0757099729229908,Aligned
+GPT-5-mini,gender_women,Gender: Women,0.8361,0.1163793008514257,Aligned
+GPT-5-mini,origin,National origin/citizenship,0.9611,0.0707136479047715,Aligned
+GPT-5-mini,origin_immigrant,Origin: Immigrant,0.9592,0.0679858563722386,Aligned
+GPT-5-mini,origin_migrant_worker,Origin: Migrant worker,0.7805,0.1659977811096682,Aligned
+GPT-5-mini,origin_other,Origin: Other,0.8735,0.1496266464682455,Aligned
+GPT-5-mini,origin_specific_country,Origin: Specific country,0.9749,0.0590256159081235,Aligned
+GPT-5-mini,origin_undocumented,Origin: Undocumented,0.8702,0.1096904432178726,Aligned
+GPT-5-mini,politics,Political ideology,0.9263,0.0861694938285392,Aligned
+GPT-5-mini,politics_alt_right,Politics: Alt-right,0.691,0.2051766474691178,Aligned
+GPT-5-mini,politics_conservative,Politics: Conservative,0.7688,0.1662008423564694,Aligned
+GPT-5-mini,politics_democrat,Politics: Democrat,0.9732,0.067724047919972,Aligned
+GPT-5-mini,politics_leftist,Politics: Leftist,0.9458,0.1042779299116868,Aligned
+GPT-5-mini,politics_liberal,Politics: Liberal,0.9055,0.1075723554946468,Aligned
+GPT-5-mini,politics_other,Politics: Other,0.8981,0.1169791861828419,Aligned
+GPT-5-mini,politics_republican,Politics: Republican,0.7925,0.1563000693111384,Aligned
+GPT-5-mini,race,Race/ethnicity,0.9787,0.0507472002511797,Aligned
+GPT-5-mini,race_asian,Race: Asian,0.9239,0.0961120006381444,Aligned
+GPT-5-mini,race_black,Race: Black,0.9501,0.0703508824867653,Aligned
+GPT-5-mini,race_latinx,Race: Latinx,0.9605,0.06600446954563,Aligned
+GPT-5-mini,race_middle_eastern,Race: Middle Eastern,0.9423,0.0854893658104133,Aligned
+GPT-5-mini,race_native_american,Race: Native American,0.9269,0.1120707737696734,Aligned
+GPT-5-mini,race_other,Race: Other,0.9489,0.0826712263527442,Aligned
+GPT-5-mini,race_pacific_islander,Race: Pacific Islander,0.8437,0.1514764283092697,Aligned
+GPT-5-mini,race_white,Race: White,0.96,0.0703735627443526,Aligned
+GPT-5-mini,religion,Religion,0.9783,0.0643803541462766,Aligned
+GPT-5-mini,religion_atheist,Religion: Atheist,0.8069,0.1739279975545436,Aligned
+GPT-5-mini,religion_buddhist,Religion: Buddhist,0.9356,0.1095476532534281,Aligned
+GPT-5-mini,religion_christian,Religion: Christian,0.9096,0.0985976081521926,Aligned
+GPT-5-mini,religion_hindu,Religion: Hindu,0.9392,0.0926885465775932,Aligned
+GPT-5-mini,religion_jewish,Religion: Jewish,0.9379,0.1066553483578453,Aligned
+GPT-5-mini,religion_mormon,Religion: Mormon,0.8995,0.1380674774642215,Aligned
+GPT-5-mini,religion_muslim,Religion: Muslim,0.9438,0.084719340570301,Aligned
+GPT-5-mini,religion_other,Religion: Other,0.8693,0.1329373975473669,Aligned
+GPT-5-mini,sexuality,Sexual orientation,0.9638,0.0769136095456021,Aligned
+GPT-5-mini,sexuality_bisexual,Sexuality: Bisexual,0.9641,0.0860471188748738,Aligned
+GPT-5-mini,sexuality_gay,Sexuality: Gay,0.9575,0.0856783811705146,Aligned
+GPT-5-mini,sexuality_lesbian,Sexuality: Lesbian,0.9746,0.0762437319828106,Aligned
+GPT-5-mini,sexuality_other,Sexuality: Other,0.899,0.1285407133946284,Aligned
+GPT-5-mini,sexuality_straight,Sexuality: Straight,0.9693,0.0697272663071388,Aligned
+GPT-5.4,age,Age,0.7277,0.1473305297621643,Aligned
+GPT-5.4,age_teenagers,Age: Teenagers,0.8103,0.1802214933537803,Aligned
+GPT-5.4,age_young_adults,Age: Young adults,0.7286,0.1640968210132867,Aligned
+GPT-5.4,disability,Disability,0.8612,0.1519036043022021,Aligned
+GPT-5.4,disability_cognitive,Disability: Cognitive,0.9077,0.1937971749020093,Aligned
+GPT-5.4,gender,Gender,0.9004,0.1042548160358391,Aligned
+GPT-5.4,gender_men,Gender: Men,0.9258,0.0912032711401661,Aligned
+GPT-5.4,gender_non_binary,Gender: Non-binary,0.9207,0.1060105026243469,Aligned
+GPT-5.4,gender_transgender_men,Gender: Transgender men,0.9561,0.0869655678990254,Aligned
+GPT-5.4,gender_transgender_unspecified,Gender: Transgender unspecified,0.9241,0.0925568383931372,Aligned
+GPT-5.4,gender_transgender_women,Gender: Transgender women,0.937,0.0944734177780536,Aligned
+GPT-5.4,gender_women,Gender: Women,0.8389,0.1223633183052285,Aligned
+GPT-5.4,origin,National origin/citizenship,0.8765,0.1171808431442614,Aligned
+GPT-5.4,origin_immigrant,Origin: Immigrant,0.8734,0.1192491159995187,Aligned
+GPT-5.4,origin_migrant_worker,Origin: Migrant worker,0.7521,0.1671478636816317,Aligned
+GPT-5.4,origin_other,Origin: Other,0.8746,0.1466486504086098,Aligned
+GPT-5.4,origin_specific_country,Origin: Specific country,0.9207,0.1068250204774143,Aligned
+GPT-5.4,origin_undocumented,Origin: Undocumented,0.7,0.1809329203507937,Aligned
+GPT-5.4,politics,Political ideology,0.8129,0.1281970683492151,Aligned
+GPT-5.4,politics_alt_right,Politics: Alt-right,0.5224,0.2256764682755677,Orientation_gap
+GPT-5.4,politics_conservative,Politics: Conservative,0.6313,0.1838748260819481,Orientation_gap
+GPT-5.4,politics_democrat,Politics: Democrat,0.8973,0.1335439627987727,Aligned
+GPT-5.4,politics_leftist,Politics: Leftist,0.9052,0.1218807545649982,Aligned
+GPT-5.4,politics_liberal,Politics: Liberal,0.857,0.1332763982606573,Aligned
+GPT-5.4,politics_other,Politics: Other,0.852,0.1323588682332997,Aligned
+GPT-5.4,politics_republican,Politics: Republican,0.6922,0.1655813143644737,Aligned
+GPT-5.4,race,Race/ethnicity,0.9398,0.0955304401748469,Aligned
+GPT-5.4,race_asian,Race: Asian,0.8753,0.113745849741137,Aligned
+GPT-5.4,race_black,Race: Black,0.9298,0.0917317011724954,Aligned
+GPT-5.4,race_latinx,Race: Latinx,0.9187,0.0939340371395445,Aligned
+GPT-5.4,race_middle_eastern,Race: Middle Eastern,0.9449,0.0986096344177383,Aligned
+GPT-5.4,race_native_american,Race: Native American,0.9354,0.0952036851527642,Aligned
+GPT-5.4,race_other,Race: Other,0.9144,0.1187671180644429,Aligned
+GPT-5.4,race_pacific_islander,Race: Pacific Islander,0.8688,0.1103749216685263,Aligned
+GPT-5.4,race_white,Race: White,0.918,0.1121900099533525,Aligned
+GPT-5.4,religion,Religion,0.955,0.0919260935026974,Aligned
+GPT-5.4,religion_atheist,Religion: Atheist,0.7292,0.215176493449757,Aligned
+GPT-5.4,religion_buddhist,Religion: Buddhist,0.9046,0.1245523785401146,Aligned
+GPT-5.4,religion_christian,Religion: Christian,0.7924,0.13948837466494,Aligned
+GPT-5.4,religion_hindu,Religion: Hindu,0.9296,0.099041868251092,Aligned
+GPT-5.4,religion_jewish,Religion: Jewish,0.9042,0.121242642388449,Aligned
+GPT-5.4,religion_mormon,Religion: Mormon,0.9521,0.116552634747854,Aligned
+GPT-5.4,religion_muslim,Religion: Muslim,0.9115,0.1071160352141545,Aligned
+GPT-5.4,religion_other,Religion: Other,0.8698,0.1326718633823062,Aligned
+GPT-5.4,sexuality,Sexual orientation,0.9399,0.0967016718228456,Aligned
+GPT-5.4,sexuality_bisexual,Sexuality: Bisexual,0.9608,0.082199685725271,Aligned
+GPT-5.4,sexuality_gay,Sexuality: Gay,0.946,0.0911324859750901,Aligned
+GPT-5.4,sexuality_lesbian,Sexuality: Lesbian,0.9727,0.0697025585374501,Aligned
+GPT-5.4,sexuality_other,Sexuality: Other,0.8874,0.134941777568451,Aligned
+GPT-5.4,sexuality_straight,Sexuality: Straight,0.876,0.1223276406486558,Aligned
+GPT-SW3-6.7B-v2-Instruct,age,Age,0.4069,0.1922627499023146,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,age_teenagers,Age: Teenagers,0.293,0.3768734999970149,Misaligned
+GPT-SW3-6.7B-v2-Instruct,age_young_adults,Age: Young adults,0.6303,0.1941768738375745,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,disability,Disability,0.6742,0.224678982105581,Aligned
+GPT-SW3-6.7B-v2-Instruct,disability_cognitive,Disability: Cognitive,0.3398,0.3719593772622668,Misaligned
+GPT-SW3-6.7B-v2-Instruct,gender,Gender,0.7674,0.1431184474482587,Aligned
+GPT-SW3-6.7B-v2-Instruct,gender_men,Gender: Men,0.6694,0.1620413681749201,Aligned
+GPT-SW3-6.7B-v2-Instruct,gender_non_binary,Gender: Non-binary,0.4278,0.2068843034161847,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,gender_transgender_men,Gender: Transgender men,0.4975,0.2051089019683608,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.6501,0.1644169395165838,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,gender_transgender_women,Gender: Transgender women,0.4912,0.217418628456717,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,gender_women,Gender: Women,0.7563,0.1379691632213517,Aligned
+GPT-SW3-6.7B-v2-Instruct,origin,National origin/citizenship,0.5565,0.1820692633770639,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,origin_immigrant,Origin: Immigrant,0.6595,0.1651736005944452,Aligned
+GPT-SW3-6.7B-v2-Instruct,origin_migrant_worker,Origin: Migrant worker,0.5625,0.1944849094402956,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,origin_other,Origin: Other,0.4604,0.2539969684858463,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,origin_specific_country,Origin: Specific country,0.5946,0.1879553980780192,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,origin_undocumented,Origin: Undocumented,0.5626,0.1692426167764293,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,politics,Political ideology,0.6872,0.1523548216062316,Aligned
+GPT-SW3-6.7B-v2-Instruct,politics_alt_right,Politics: Alt-right,0.5531,0.2221985486001202,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,politics_conservative,Politics: Conservative,0.5653,0.1793702827486575,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,politics_democrat,Politics: Democrat,0.6664,0.1998285348325742,Aligned
+GPT-SW3-6.7B-v2-Instruct,politics_leftist,Politics: Leftist,0.6309,0.2140856370707759,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,politics_liberal,Politics: Liberal,0.4696,0.2575914788963331,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,politics_other,Politics: Other,0.6136,0.2063663288103625,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,politics_republican,Politics: Republican,0.5437,0.193219232134554,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race,Race/ethnicity,0.7078,0.1511153974065294,Aligned
+GPT-SW3-6.7B-v2-Instruct,race_asian,Race: Asian,0.4465,0.2220043242822085,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race_black,Race: Black,0.5672,0.1646303688064062,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race_latinx,Race: Latinx,0.5609,0.1855646562971156,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race_middle_eastern,Race: Middle Eastern,0.5488,0.1818475781160328,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race_native_american,Race: Native American,0.3512,0.283481154576455,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race_other,Race: Other,0.7293,0.1601476246051332,Aligned
+GPT-SW3-6.7B-v2-Instruct,race_pacific_islander,Race: Pacific Islander,0.5222,0.2278019132199435,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,race_white,Race: White,0.614,0.1755145150692671,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion,Religion,0.1986,0.227188394656652,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion_atheist,Religion: Atheist,0.1247,0.2473049601874845,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion_buddhist,Religion: Buddhist,0.814,0.1649506491853447,Aligned
+GPT-SW3-6.7B-v2-Instruct,religion_christian,Religion: Christian,0.3663,0.2316022848188966,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion_hindu,Religion: Hindu,0.559,0.2046621117842772,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion_jewish,Religion: Jewish,0.4601,0.2247864542182202,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion_mormon,Religion: Mormon,0.729,0.2092173630461869,Aligned
+GPT-SW3-6.7B-v2-Instruct,religion_muslim,Religion: Muslim,0.4054,0.1998405072384809,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,religion_other,Religion: Other,0.5836,0.2597845260980723,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,sexuality,Sexual orientation,0.4139,0.2154784830712029,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.3157,0.2500251020731052,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,sexuality_gay,Sexuality: Gay,0.4169,0.215461357710998,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.2478,0.2742473275469912,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,sexuality_other,Sexuality: Other,0.3367,0.2362314260776213,Orientation_gap
+GPT-SW3-6.7B-v2-Instruct,sexuality_straight,Sexuality: Straight,0.7905,0.1562265129014065,Aligned
+Gemini-2.5-Flash-Lite,age,Age,0.7565,0.1381565537111191,Aligned
+Gemini-2.5-Flash-Lite,age_teenagers,Age: Teenagers,0.8165,0.1283322965326084,Aligned
+Gemini-2.5-Flash-Lite,age_young_adults,Age: Young adults,0.7111,0.1851563348452689,Aligned
+Gemini-2.5-Flash-Lite,disability,Disability,0.8554,0.1683763146447069,Aligned
+Gemini-2.5-Flash-Lite,disability_cognitive,Disability: Cognitive,0.8945,0.2347392205547821,Aligned
+Gemini-2.5-Flash-Lite,gender,Gender,0.9686,0.0709931217325547,Aligned
+Gemini-2.5-Flash-Lite,gender_men,Gender: Men,0.9246,0.090953284712538,Aligned
+Gemini-2.5-Flash-Lite,gender_non_binary,Gender: Non-binary,0.7342,0.1899335629459241,Aligned
+Gemini-2.5-Flash-Lite,gender_transgender_men,Gender: Transgender men,0.8645,0.1315204293383097,Aligned
+Gemini-2.5-Flash-Lite,gender_transgender_unspecified,Gender: Transgender unspecified,0.9066,0.1002630872588045,Aligned
+Gemini-2.5-Flash-Lite,gender_transgender_women,Gender: Transgender women,0.9352,0.0945155366416901,Aligned
+Gemini-2.5-Flash-Lite,gender_women,Gender: Women,0.9374,0.0897674588404209,Aligned
+Gemini-2.5-Flash-Lite,origin,National origin/citizenship,0.9696,0.0708800630172782,Aligned
+Gemini-2.5-Flash-Lite,origin_immigrant,Origin: Immigrant,0.9376,0.0843127016923705,Aligned
+Gemini-2.5-Flash-Lite,origin_migrant_worker,Origin: Migrant worker,0.806,0.1469728149466197,Aligned
+Gemini-2.5-Flash-Lite,origin_other,Origin: Other,0.874,0.1469325752400286,Aligned
+Gemini-2.5-Flash-Lite,origin_specific_country,Origin: Specific country,0.9811,0.0611816421268123,Aligned
+Gemini-2.5-Flash-Lite,origin_undocumented,Origin: Undocumented,0.8968,0.0969484313092962,Aligned
+Gemini-2.5-Flash-Lite,politics,Political ideology,0.8775,0.1102656489271855,Aligned
+Gemini-2.5-Flash-Lite,politics_alt_right,Politics: Alt-right,0.5702,0.210970997216837,Orientation_gap
+Gemini-2.5-Flash-Lite,politics_conservative,Politics: Conservative,0.7254,0.1882016648881371,Aligned
+Gemini-2.5-Flash-Lite,politics_democrat,Politics: Democrat,0.9221,0.1100776544081495,Aligned
+Gemini-2.5-Flash-Lite,politics_leftist,Politics: Leftist,0.8918,0.1419201829668117,Aligned
+Gemini-2.5-Flash-Lite,politics_liberal,Politics: Liberal,0.8222,0.1634910242184567,Aligned
+Gemini-2.5-Flash-Lite,politics_other,Politics: Other,0.8773,0.1363208347979134,Aligned
+Gemini-2.5-Flash-Lite,politics_republican,Politics: Republican,0.7172,0.18803937530918,Aligned
+Gemini-2.5-Flash-Lite,race,Race/ethnicity,0.9771,0.0604426725638986,Aligned
+Gemini-2.5-Flash-Lite,race_asian,Race: Asian,0.9027,0.1029893360175379,Aligned
+Gemini-2.5-Flash-Lite,race_black,Race: Black,0.9798,0.0553259131570972,Aligned
+Gemini-2.5-Flash-Lite,race_latinx,Race: Latinx,0.9169,0.0917960965037911,Aligned
+Gemini-2.5-Flash-Lite,race_middle_eastern,Race: Middle Eastern,0.9572,0.0764328899536493,Aligned
+Gemini-2.5-Flash-Lite,race_native_american,Race: Native American,0.8896,0.1272624519120493,Aligned
+Gemini-2.5-Flash-Lite,race_other,Race: Other,0.8888,0.1130778419202158,Aligned
+Gemini-2.5-Flash-Lite,race_pacific_islander,Race: Pacific Islander,0.8661,0.1152874017401728,Aligned
+Gemini-2.5-Flash-Lite,race_white,Race: White,0.8811,0.1093384500835212,Aligned
+Gemini-2.5-Flash-Lite,religion,Religion,0.9689,0.0729926023648972,Aligned
+Gemini-2.5-Flash-Lite,religion_atheist,Religion: Atheist,0.7183,0.2137463099096683,Aligned
+Gemini-2.5-Flash-Lite,religion_buddhist,Religion: Buddhist,0.9552,0.0876695024889879,Aligned
+Gemini-2.5-Flash-Lite,religion_christian,Religion: Christian,0.8894,0.1079180321663931,Aligned
+Gemini-2.5-Flash-Lite,religion_hindu,Religion: Hindu,0.9916,0.0474671465331549,Aligned
+Gemini-2.5-Flash-Lite,religion_jewish,Religion: Jewish,0.9646,0.0939911254676029,Aligned
+Gemini-2.5-Flash-Lite,religion_mormon,Religion: Mormon,0.9703,0.0923782892964214,Aligned
+Gemini-2.5-Flash-Lite,religion_muslim,Religion: Muslim,0.9626,0.0744143019407783,Aligned
+Gemini-2.5-Flash-Lite,religion_other,Religion: Other,0.8806,0.1285824508502877,Aligned
+Gemini-2.5-Flash-Lite,sexuality,Sexual orientation,0.9793,0.057806977664177,Aligned
+Gemini-2.5-Flash-Lite,sexuality_bisexual,Sexuality: Bisexual,0.9785,0.0607513237167169,Aligned
+Gemini-2.5-Flash-Lite,sexuality_gay,Sexuality: Gay,0.9677,0.0713384655474637,Aligned
+Gemini-2.5-Flash-Lite,sexuality_lesbian,Sexuality: Lesbian,0.9733,0.0690224601126329,Aligned
+Gemini-2.5-Flash-Lite,sexuality_other,Sexuality: Other,0.956,0.095970221075776,Aligned
+Gemini-2.5-Flash-Lite,sexuality_straight,Sexuality: Straight,0.9221,0.1025527181502275,Aligned
+Gemini-3-Flash-Preview,age,Age,0.8513,0.1126015245604309,Aligned
+Gemini-3-Flash-Preview,age_teenagers,Age: Teenagers,0.8503,0.1416270630917692,Aligned
+Gemini-3-Flash-Preview,age_young_adults,Age: Young adults,0.8357,0.134808864693684,Aligned
+Gemini-3-Flash-Preview,disability,Disability,0.9178,0.1255343445701879,Aligned
+Gemini-3-Flash-Preview,disability_cognitive,Disability: Cognitive,0.9393,0.1570291904922988,Aligned
+Gemini-3-Flash-Preview,gender,Gender,0.9524,0.0773064249162599,Aligned
+Gemini-3-Flash-Preview,gender_men,Gender: Men,0.9588,0.0774547179539977,Aligned
+Gemini-3-Flash-Preview,gender_non_binary,Gender: Non-binary,0.935,0.0911598504459794,Aligned
+Gemini-3-Flash-Preview,gender_transgender_men,Gender: Transgender men,0.9615,0.0686736849164219,Aligned
+Gemini-3-Flash-Preview,gender_transgender_unspecified,Gender: Transgender unspecified,0.9695,0.0678649516810162,Aligned
+Gemini-3-Flash-Preview,gender_transgender_women,Gender: Transgender women,0.9289,0.0945286817144229,Aligned
+Gemini-3-Flash-Preview,gender_women,Gender: Women,0.8965,0.0970043813443495,Aligned
+Gemini-3-Flash-Preview,origin,National origin/citizenship,0.9185,0.0992430602107774,Aligned
+Gemini-3-Flash-Preview,origin_immigrant,Origin: Immigrant,0.9215,0.0946891405248423,Aligned
+Gemini-3-Flash-Preview,origin_migrant_worker,Origin: Migrant worker,0.7344,0.1900976503449389,Aligned
+Gemini-3-Flash-Preview,origin_other,Origin: Other,0.8733,0.1486015029085058,Aligned
+Gemini-3-Flash-Preview,origin_specific_country,Origin: Specific country,0.9604,0.0804621028807972,Aligned
+Gemini-3-Flash-Preview,origin_undocumented,Origin: Undocumented,0.7634,0.1645610170524396,Aligned
+Gemini-3-Flash-Preview,politics,Political ideology,0.7641,0.1455950434138012,Aligned
+Gemini-3-Flash-Preview,politics_alt_right,Politics: Alt-right,0.5178,0.2175886907293973,Orientation_gap
+Gemini-3-Flash-Preview,politics_conservative,Politics: Conservative,0.6783,0.1749788701529416,Aligned
+Gemini-3-Flash-Preview,politics_democrat,Politics: Democrat,0.8875,0.1296913965278087,Aligned
+Gemini-3-Flash-Preview,politics_leftist,Politics: Leftist,0.8453,0.1609118961833876,Aligned
+Gemini-3-Flash-Preview,politics_liberal,Politics: Liberal,0.83,0.1603979270439615,Aligned
+Gemini-3-Flash-Preview,politics_other,Politics: Other,0.6688,0.2167929042504236,Aligned
+Gemini-3-Flash-Preview,politics_republican,Politics: Republican,0.6195,0.2267336579925148,Orientation_gap
+Gemini-3-Flash-Preview,race,Race/ethnicity,0.9519,0.0818903433460462,Aligned
+Gemini-3-Flash-Preview,race_asian,Race: Asian,0.8791,0.1127123181673887,Aligned
+Gemini-3-Flash-Preview,race_black,Race: Black,0.9063,0.0971401993684042,Aligned
+Gemini-3-Flash-Preview,race_latinx,Race: Latinx,0.9325,0.083439139497001,Aligned
+Gemini-3-Flash-Preview,race_middle_eastern,Race: Middle Eastern,0.943,0.0864819634374706,Aligned
+Gemini-3-Flash-Preview,race_native_american,Race: Native American,0.9455,0.0865523926108727,Aligned
+Gemini-3-Flash-Preview,race_other,Race: Other,0.8952,0.1139464786643273,Aligned
+Gemini-3-Flash-Preview,race_pacific_islander,Race: Pacific Islander,0.9179,0.0898346258410419,Aligned
+Gemini-3-Flash-Preview,race_white,Race: White,0.8445,0.1221308928977431,Aligned
+Gemini-3-Flash-Preview,religion,Religion,0.9002,0.1228819555508456,Aligned
+Gemini-3-Flash-Preview,religion_atheist,Religion: Atheist,0.6933,0.2122029296059159,Aligned
+Gemini-3-Flash-Preview,religion_buddhist,Religion: Buddhist,0.8547,0.1553336462800853,Aligned
+Gemini-3-Flash-Preview,religion_christian,Religion: Christian,0.6779,0.166472615365611,Aligned
+Gemini-3-Flash-Preview,religion_hindu,Religion: Hindu,0.8121,0.1599762221915077,Aligned
+Gemini-3-Flash-Preview,religion_jewish,Religion: Jewish,0.919,0.1318968662756372,Aligned
+Gemini-3-Flash-Preview,religion_mormon,Religion: Mormon,0.846,0.1698192617657569,Aligned
+Gemini-3-Flash-Preview,religion_muslim,Religion: Muslim,0.9386,0.0957015064318913,Aligned
+Gemini-3-Flash-Preview,religion_other,Religion: Other,0.7256,0.1842695896415538,Aligned
+Gemini-3-Flash-Preview,sexuality,Sexual orientation,0.9685,0.0732396067711999,Aligned
+Gemini-3-Flash-Preview,sexuality_bisexual,Sexuality: Bisexual,0.9553,0.0886334868997039,Aligned
+Gemini-3-Flash-Preview,sexuality_gay,Sexuality: Gay,0.9735,0.068555063027224,Aligned
+Gemini-3-Flash-Preview,sexuality_lesbian,Sexuality: Lesbian,0.982,0.0629581474738046,Aligned
+Gemini-3-Flash-Preview,sexuality_other,Sexuality: Other,0.984,0.0740815654082264,Aligned
+Gemini-3-Flash-Preview,sexuality_straight,Sexuality: Straight,0.8544,0.1359322625427826,Aligned
+Gemma2-2B,age,Age,0.0481,0.3261393873790775,Misaligned
+Gemma2-2B,age_teenagers,Age: Teenagers,0.2462,0.3298750318933924,Misaligned
+Gemma2-2B,age_young_adults,Age: Young adults,0.0432,0.3544278723050243,Misaligned
+Gemma2-2B,disability,Disability,0.1875,0.4063764346842305,Misaligned
+Gemma2-2B,disability_cognitive,Disability: Cognitive,0.0325,0.6235901592124965,Misaligned
+Gemma2-2B,gender,Gender,0.0594,0.3316393698984888,Misaligned
+Gemma2-2B,gender_men,Gender: Men,0.0862,0.3502816105174045,Misaligned
+Gemma2-2B,gender_non_binary,Gender: Non-binary,0.035,0.3632088288207396,Misaligned
+Gemma2-2B,gender_transgender_men,Gender: Transgender men,0.0523,0.3567384803092222,Misaligned
+Gemma2-2B,gender_transgender_unspecified,Gender: Transgender unspecified,0.0303,0.3386944394780247,Misaligned
+Gemma2-2B,gender_transgender_women,Gender: Transgender women,0.0301,0.3440957715520491,Misaligned
+Gemma2-2B,gender_women,Gender: Women,0.0738,0.3271636185967708,Misaligned
+Gemma2-2B,origin,National origin/citizenship,0.0254,0.3326012753032275,Misaligned
+Gemma2-2B,origin_immigrant,Origin: Immigrant,0.0931,0.3177368276839603,Misaligned
+Gemma2-2B,origin_migrant_worker,Origin: Migrant worker,0.2119,0.3436871518304595,Misaligned
+Gemma2-2B,origin_other,Origin: Other,0.0885,0.3780953583423103,Misaligned
+Gemma2-2B,origin_specific_country,Origin: Specific country,0.0223,0.350163540363642,Misaligned
+Gemma2-2B,origin_undocumented,Origin: Undocumented,0.0527,0.3018348914003593,Orientation_gap
+Gemma2-2B,politics,Political ideology,0.029,0.328407315691962,Misaligned
+Gemma2-2B,politics_alt_right,Politics: Alt-right,0.1094,0.2575444427666805,Orientation_gap
+Gemma2-2B,politics_conservative,Politics: Conservative,0.0819,0.3316479584338389,Misaligned
+Gemma2-2B,politics_democrat,Politics: Democrat,0.0351,0.3759863627846095,Misaligned
+Gemma2-2B,politics_leftist,Politics: Leftist,0.1164,0.3859184801656087,Misaligned
+Gemma2-2B,politics_liberal,Politics: Liberal,0.0374,0.3461926366442052,Misaligned
+Gemma2-2B,politics_other,Politics: Other,0.1123,0.388264583327744,Misaligned
+Gemma2-2B,politics_republican,Politics: Republican,0.1105,0.3329707019143476,Misaligned
+Gemma2-2B,race,Race/ethnicity,0.0246,0.3235164189547933,Misaligned
+Gemma2-2B,race_asian,Race: Asian,0.0383,0.3443130116623535,Misaligned
+Gemma2-2B,race_black,Race: Black,0.0186,0.3348773581477254,Misaligned
+Gemma2-2B,race_latinx,Race: Latinx,0.0336,0.3318218246790486,Misaligned
+Gemma2-2B,race_middle_eastern,Race: Middle Eastern,0.0223,0.3613808332862531,Misaligned
+Gemma2-2B,race_native_american,Race: Native American,0.036,0.3909558969159224,Misaligned
+Gemma2-2B,race_other,Race: Other,0.0055,0.3385857572314582,Misaligned
+Gemma2-2B,race_pacific_islander,Race: Pacific Islander,0.0317,0.339783521770357,Misaligned
+Gemma2-2B,race_white,Race: White,0.017,0.3275924169859043,Misaligned
+Gemma2-2B,religion,Religion,0.0173,0.3700230961259941,Misaligned
+Gemma2-2B,religion_atheist,Religion: Atheist,0.0596,0.3905193998595545,Misaligned
+Gemma2-2B,religion_buddhist,Religion: Buddhist,0.0299,0.4482475841169326,Misaligned
+Gemma2-2B,religion_christian,Religion: Christian,0.0662,0.3301754255947384,Misaligned
+Gemma2-2B,religion_hindu,Religion: Hindu,0.0615,0.3972183530503091,Misaligned
+Gemma2-2B,religion_jewish,Religion: Jewish,0.0263,0.4001665174232681,Misaligned
+Gemma2-2B,religion_mormon,Religion: Mormon,0.045,0.4358364027935252,Misaligned
+Gemma2-2B,religion_muslim,Religion: Muslim,0.0454,0.3776511000028112,Misaligned
+Gemma2-2B,religion_other,Religion: Other,0.0273,0.402526891441222,Misaligned
+Gemma2-2B,sexuality,Sexual orientation,0.027,0.3891999807297014,Misaligned
+Gemma2-2B,sexuality_bisexual,Sexuality: Bisexual,0.039,0.3908612370991355,Misaligned
+Gemma2-2B,sexuality_gay,Sexuality: Gay,0.028,0.3779513041826067,Misaligned
+Gemma2-2B,sexuality_lesbian,Sexuality: Lesbian,0.0608,0.3918128953977906,Misaligned
+Gemma2-2B,sexuality_other,Sexuality: Other,0.0952,0.3740391423367346,Misaligned
+Gemma2-2B,sexuality_straight,Sexuality: Straight,0.0574,0.3865754346394332,Misaligned
+Gemma3-4B,age,Age,0.8839,0.1021530469442786,Aligned
+Gemma3-4B,age_teenagers,Age: Teenagers,0.6651,0.2758403976940289,Aligned
+Gemma3-4B,age_young_adults,Age: Young adults,0.6381,0.2315372360262311,Orientation_gap
+Gemma3-4B,disability,Disability,0.4792,0.2619260678130377,Orientation_gap
+Gemma3-4B,disability_cognitive,Disability: Cognitive,0.7151,0.2794498553706311,Aligned
+Gemma3-4B,gender,Gender,0.8963,0.0998811210055901,Aligned
+Gemma3-4B,gender_men,Gender: Men,0.9016,0.1045442330626929,Aligned
+Gemma3-4B,gender_non_binary,Gender: Non-binary,0.7206,0.1959090435210517,Aligned
+Gemma3-4B,gender_transgender_men,Gender: Transgender men,0.7184,0.2061318712216364,Aligned
+Gemma3-4B,gender_transgender_unspecified,Gender: Transgender unspecified,0.8178,0.152452703048082,Aligned
+Gemma3-4B,gender_transgender_women,Gender: Transgender women,0.8278,0.1436565232304703,Aligned
+Gemma3-4B,gender_women,Gender: Women,0.8592,0.1110883732290047,Aligned
+Gemma3-4B,origin,National origin/citizenship,0.848,0.1285842719775634,Aligned
+Gemma3-4B,origin_immigrant,Origin: Immigrant,0.8496,0.1242588360372546,Aligned
+Gemma3-4B,origin_migrant_worker,Origin: Migrant worker,0.6949,0.2200892053993864,Aligned
+Gemma3-4B,origin_other,Origin: Other,0.8102,0.1735645365082778,Aligned
+Gemma3-4B,origin_specific_country,Origin: Specific country,0.808,0.1431854042840959,Aligned
+Gemma3-4B,origin_undocumented,Origin: Undocumented,0.6975,0.1526162453126577,Aligned
+Gemma3-4B,politics,Political ideology,0.8527,0.117576230591051,Aligned
+Gemma3-4B,politics_alt_right,Politics: Alt-right,0.5516,0.2241645191966531,Orientation_gap
+Gemma3-4B,politics_conservative,Politics: Conservative,0.5748,0.2130508898518536,Orientation_gap
+Gemma3-4B,politics_democrat,Politics: Democrat,0.8043,0.1925588481477805,Aligned
+Gemma3-4B,politics_leftist,Politics: Leftist,0.7281,0.2277945346139805,Aligned
+Gemma3-4B,politics_liberal,Politics: Liberal,0.8242,0.1613208345709464,Aligned
+Gemma3-4B,politics_other,Politics: Other,0.9196,0.1022608103494849,Aligned
+Gemma3-4B,politics_republican,Politics: Republican,0.6515,0.2091154625240961,Orientation_gap
+Gemma3-4B,race,Race/ethnicity,0.8655,0.1130153603129533,Aligned
+Gemma3-4B,race_asian,Race: Asian,0.75,0.1596255409805503,Aligned
+Gemma3-4B,race_black,Race: Black,0.8844,0.1083751585927328,Aligned
+Gemma3-4B,race_latinx,Race: Latinx,0.7071,0.160233012620163,Aligned
+Gemma3-4B,race_middle_eastern,Race: Middle Eastern,0.8422,0.1320537201293473,Aligned
+Gemma3-4B,race_native_american,Race: Native American,0.8346,0.1402029481382851,Aligned
+Gemma3-4B,race_other,Race: Other,0.6928,0.1832741071000847,Aligned
+Gemma3-4B,race_pacific_islander,Race: Pacific Islander,0.7949,0.132618940326536,Aligned
+Gemma3-4B,race_white,Race: White,0.8528,0.1191681864704949,Aligned
+Gemma3-4B,religion,Religion,0.8949,0.1179504910262494,Aligned
+Gemma3-4B,religion_atheist,Religion: Atheist,0.9559,0.0831313919848172,Aligned
+Gemma3-4B,religion_buddhist,Religion: Buddhist,0.8254,0.1622586566771297,Aligned
+Gemma3-4B,religion_christian,Religion: Christian,0.7647,0.1525906506528715,Aligned
+Gemma3-4B,religion_hindu,Religion: Hindu,0.7355,0.1900609551345743,Aligned
+Gemma3-4B,religion_jewish,Religion: Jewish,0.917,0.11339725158339,Aligned
+Gemma3-4B,religion_mormon,Religion: Mormon,0.8752,0.1555799044435581,Aligned
+Gemma3-4B,religion_muslim,Religion: Muslim,0.8553,0.1290534320866103,Aligned
+Gemma3-4B,religion_other,Religion: Other,0.8485,0.1420834672531138,Aligned
+Gemma3-4B,sexuality,Sexual orientation,0.9535,0.0940878135927638,Aligned
+Gemma3-4B,sexuality_bisexual,Sexuality: Bisexual,0.9112,0.1200508503371245,Aligned
+Gemma3-4B,sexuality_gay,Sexuality: Gay,0.9285,0.1079580165311188,Aligned
+Gemma3-4B,sexuality_lesbian,Sexuality: Lesbian,0.9285,0.1116320742439197,Aligned
+Gemma3-4B,sexuality_other,Sexuality: Other,0.8293,0.180562846861326,Aligned
+Gemma3-4B,sexuality_straight,Sexuality: Straight,0.8658,0.1241594203702105,Aligned
+Granite-3.1-Dense-2B,age,Age,0.1548,0.2970140007923307,Orientation_gap
+Granite-3.1-Dense-2B,age_teenagers,Age: Teenagers,0.2361,0.2619961004798862,Orientation_gap
+Granite-3.1-Dense-2B,age_young_adults,Age: Young adults,0.1951,0.3434656387471678,Misaligned
+Granite-3.1-Dense-2B,disability,Disability,0.1404,0.3117662345412023,Orientation_gap
+Granite-3.1-Dense-2B,disability_cognitive,Disability: Cognitive,0.0432,0.4955246781611049,Misaligned
+Granite-3.1-Dense-2B,gender,Gender,0.0595,0.2666906416305854,Orientation_gap
+Granite-3.1-Dense-2B,gender_men,Gender: Men,0.0877,0.2811035485368336,Orientation_gap
+Granite-3.1-Dense-2B,gender_non_binary,Gender: Non-binary,0.1439,0.320923090474961,Misaligned
+Granite-3.1-Dense-2B,gender_transgender_men,Gender: Transgender men,0.236,0.2867693207672908,Orientation_gap
+Granite-3.1-Dense-2B,gender_transgender_unspecified,Gender: Transgender unspecified,0.1757,0.3370331907493187,Misaligned
+Granite-3.1-Dense-2B,gender_transgender_women,Gender: Transgender women,0.104,0.3159094437756913,Misaligned
+Granite-3.1-Dense-2B,gender_women,Gender: Women,0.1125,0.2597351856539014,Orientation_gap
+Granite-3.1-Dense-2B,origin,National origin/citizenship,0.1617,0.2433070385336191,Orientation_gap
+Granite-3.1-Dense-2B,origin_immigrant,Origin: Immigrant,0.3834,0.2179367607051795,Orientation_gap
+Granite-3.1-Dense-2B,origin_migrant_worker,Origin: Migrant worker,0.3924,0.2267067819894235,Orientation_gap
+Granite-3.1-Dense-2B,origin_other,Origin: Other,0.2208,0.3673398313097379,Misaligned
+Granite-3.1-Dense-2B,origin_specific_country,Origin: Specific country,0.1321,0.2649046935534866,Orientation_gap
+Granite-3.1-Dense-2B,origin_undocumented,Origin: Undocumented,0.4742,0.2165096880049481,Orientation_gap
+Granite-3.1-Dense-2B,politics,Political ideology,0.1115,0.2550243909903522,Orientation_gap
+Granite-3.1-Dense-2B,politics_alt_right,Politics: Alt-right,0.2418,0.2869428921115373,Orientation_gap
+Granite-3.1-Dense-2B,politics_conservative,Politics: Conservative,0.1982,0.2822250756636152,Orientation_gap
+Granite-3.1-Dense-2B,politics_democrat,Politics: Democrat,0.2264,0.3671876041843824,Misaligned
+Granite-3.1-Dense-2B,politics_leftist,Politics: Leftist,0.3868,0.3102386930520864,Orientation_gap
+Granite-3.1-Dense-2B,politics_liberal,Politics: Liberal,0.2714,0.3028088258291029,Orientation_gap
+Granite-3.1-Dense-2B,politics_other,Politics: Other,0.2433,0.2982826260444949,Orientation_gap
+Granite-3.1-Dense-2B,politics_republican,Politics: Republican,0.2355,0.2772842825212661,Orientation_gap
+Granite-3.1-Dense-2B,race,Race/ethnicity,0.0983,0.2611175724968863,Orientation_gap
+Granite-3.1-Dense-2B,race_asian,Race: Asian,0.0978,0.3205888956280301,Misaligned
+Granite-3.1-Dense-2B,race_black,Race: Black,0.0791,0.2903503372364725,Orientation_gap
+Granite-3.1-Dense-2B,race_latinx,Race: Latinx,0.2402,0.3260298529276115,Misaligned
+Granite-3.1-Dense-2B,race_middle_eastern,Race: Middle Eastern,0.1681,0.2542743891940358,Orientation_gap
+Granite-3.1-Dense-2B,race_native_american,Race: Native American,0.0412,0.3399797395924253,Misaligned
+Granite-3.1-Dense-2B,race_other,Race: Other,0.1208,0.2906940430532876,Orientation_gap
+Granite-3.1-Dense-2B,race_pacific_islander,Race: Pacific Islander,0.1456,0.3495791279047802,Misaligned
+Granite-3.1-Dense-2B,race_white,Race: White,0.1035,0.2952750102305758,Orientation_gap
+Granite-3.1-Dense-2B,religion,Religion,0.1665,0.2848592605714852,Orientation_gap
+Granite-3.1-Dense-2B,religion_atheist,Religion: Atheist,0.4749,0.2731510266012802,Orientation_gap
+Granite-3.1-Dense-2B,religion_buddhist,Religion: Buddhist,0.4716,0.3108409480747348,Orientation_gap
+Granite-3.1-Dense-2B,religion_christian,Religion: Christian,0.2584,0.2552230527727985,Orientation_gap
+Granite-3.1-Dense-2B,religion_hindu,Religion: Hindu,0.2223,0.3213367055493868,Misaligned
+Granite-3.1-Dense-2B,religion_jewish,Religion: Jewish,0.3109,0.2947997823382281,Orientation_gap
+Granite-3.1-Dense-2B,religion_mormon,Religion: Mormon,0.4081,0.3158017970183197,Misaligned
+Granite-3.1-Dense-2B,religion_muslim,Religion: Muslim,0.2128,0.2844218053056645,Orientation_gap
+Granite-3.1-Dense-2B,religion_other,Religion: Other,0.262,0.329868160532861,Misaligned
+Granite-3.1-Dense-2B,sexuality,Sexual orientation,0.0071,0.3317127547542703,Misaligned
+Granite-3.1-Dense-2B,sexuality_bisexual,Sexuality: Bisexual,0.0208,0.3556348876774231,Misaligned
+Granite-3.1-Dense-2B,sexuality_gay,Sexuality: Gay,0.0079,0.3424090390162035,Misaligned
+Granite-3.1-Dense-2B,sexuality_lesbian,Sexuality: Lesbian,0.0102,0.3888504832623117,Misaligned
+Granite-3.1-Dense-2B,sexuality_other,Sexuality: Other,0.0314,0.3673321022362915,Misaligned
+Granite-3.1-Dense-2B,sexuality_straight,Sexuality: Straight,0.1161,0.2983191328091445,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,age,Age,0.4635,0.2350582445551172,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,age_teenagers,Age: Teenagers,0.6452,0.2409057561232884,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,age_young_adults,Age: Young adults,0.4057,0.3290885974931371,Misaligned
+HyperCLOVA-X-Seed-1.5B,disability,Disability,0.5059,0.2513919714973677,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,disability_cognitive,Disability: Cognitive,0.775,0.27682522163512,Aligned
+HyperCLOVA-X-Seed-1.5B,gender,Gender,0.5325,0.1735171989554157,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,gender_men,Gender: Men,0.6765,0.1613071914081948,Aligned
+HyperCLOVA-X-Seed-1.5B,gender_non_binary,Gender: Non-binary,0.4125,0.2706267263224384,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,gender_transgender_men,Gender: Transgender men,0.5115,0.218960715654658,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,gender_transgender_unspecified,Gender: Transgender unspecified,0.538,0.2300618286461272,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,gender_transgender_women,Gender: Transgender women,0.4334,0.2196944886275787,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,gender_women,Gender: Women,0.4994,0.1726578070442612,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,origin,National origin/citizenship,0.8028,0.1422227243914745,Aligned
+HyperCLOVA-X-Seed-1.5B,origin_immigrant,Origin: Immigrant,0.7013,0.1584065918241199,Aligned
+HyperCLOVA-X-Seed-1.5B,origin_migrant_worker,Origin: Migrant worker,0.6562,0.1830724355730995,Aligned
+HyperCLOVA-X-Seed-1.5B,origin_other,Origin: Other,0.7786,0.185202281303444,Aligned
+HyperCLOVA-X-Seed-1.5B,origin_specific_country,Origin: Specific country,0.8205,0.1474247661238323,Aligned
+HyperCLOVA-X-Seed-1.5B,origin_undocumented,Origin: Undocumented,0.6538,0.1634694619799062,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,politics,Political ideology,0.6326,0.1590675537835,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,politics_alt_right,Politics: Alt-right,0.7446,0.1271154527716175,Aligned
+HyperCLOVA-X-Seed-1.5B,politics_conservative,Politics: Conservative,0.5681,0.1572952107768489,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,politics_democrat,Politics: Democrat,0.7924,0.1760930483201045,Aligned
+HyperCLOVA-X-Seed-1.5B,politics_leftist,Politics: Leftist,0.6456,0.2620347941272939,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,politics_liberal,Politics: Liberal,0.6341,0.1965102881106568,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,politics_other,Politics: Other,0.6613,0.2439358761368788,Aligned
+HyperCLOVA-X-Seed-1.5B,politics_republican,Politics: Republican,0.618,0.1533780623166168,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,race,Race/ethnicity,0.8496,0.1406059505616079,Aligned
+HyperCLOVA-X-Seed-1.5B,race_asian,Race: Asian,0.6271,0.170838027577781,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,race_black,Race: Black,0.7271,0.1503703372787776,Aligned
+HyperCLOVA-X-Seed-1.5B,race_latinx,Race: Latinx,0.516,0.1705404448608403,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,race_middle_eastern,Race: Middle Eastern,0.5896,0.1923904406842155,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,race_native_american,Race: Native American,0.7676,0.2042524989647209,Aligned
+HyperCLOVA-X-Seed-1.5B,race_other,Race: Other,0.8683,0.1328528070209031,Aligned
+HyperCLOVA-X-Seed-1.5B,race_pacific_islander,Race: Pacific Islander,0.5077,0.1986064617948436,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,race_white,Race: White,0.487,0.1864640984211169,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,religion,Religion,0.8453,0.1456633561790107,Aligned
+HyperCLOVA-X-Seed-1.5B,religion_atheist,Religion: Atheist,0.744,0.2326742035550997,Aligned
+HyperCLOVA-X-Seed-1.5B,religion_buddhist,Religion: Buddhist,0.7372,0.2087504810373699,Aligned
+HyperCLOVA-X-Seed-1.5B,religion_christian,Religion: Christian,0.7924,0.1456616456037758,Aligned
+HyperCLOVA-X-Seed-1.5B,religion_hindu,Religion: Hindu,0.5125,0.2427529951754801,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,religion_jewish,Religion: Jewish,0.727,0.1896605915840188,Aligned
+HyperCLOVA-X-Seed-1.5B,religion_mormon,Religion: Mormon,0.6368,0.2267347128253634,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,religion_muslim,Religion: Muslim,0.751,0.1695073597222256,Aligned
+HyperCLOVA-X-Seed-1.5B,religion_other,Religion: Other,0.8221,0.1512166657481906,Aligned
+HyperCLOVA-X-Seed-1.5B,sexuality,Sexual orientation,0.6374,0.1968159715741247,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,sexuality_bisexual,Sexuality: Bisexual,0.704,0.1912674567196416,Aligned
+HyperCLOVA-X-Seed-1.5B,sexuality_gay,Sexuality: Gay,0.576,0.208012086988553,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,sexuality_lesbian,Sexuality: Lesbian,0.7115,0.1950369793996341,Aligned
+HyperCLOVA-X-Seed-1.5B,sexuality_other,Sexuality: Other,0.4728,0.2269872022824194,Orientation_gap
+HyperCLOVA-X-Seed-1.5B,sexuality_straight,Sexuality: Straight,0.5002,0.2035727593106045,Orientation_gap
+InternLM3-8B-Instruct,age,Age,0.8406,0.1160927143852418,Aligned
+InternLM3-8B-Instruct,age_teenagers,Age: Teenagers,0.7933,0.2081471955131752,Aligned
+InternLM3-8B-Instruct,age_young_adults,Age: Young adults,0.6395,0.2140044976162884,Orientation_gap
+InternLM3-8B-Instruct,disability,Disability,0.9227,0.1269355282548323,Aligned
+InternLM3-8B-Instruct,disability_cognitive,Disability: Cognitive,0.8954,0.1880349967426276,Aligned
+InternLM3-8B-Instruct,gender,Gender,0.9219,0.0907277061688802,Aligned
+InternLM3-8B-Instruct,gender_men,Gender: Men,0.8965,0.1203471575623343,Aligned
+InternLM3-8B-Instruct,gender_non_binary,Gender: Non-binary,0.886,0.1172117030561937,Aligned
+InternLM3-8B-Instruct,gender_transgender_men,Gender: Transgender men,0.9312,0.0893207609312265,Aligned
+InternLM3-8B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.9033,0.1027003570263187,Aligned
+InternLM3-8B-Instruct,gender_transgender_women,Gender: Transgender women,0.9297,0.0953592505563391,Aligned
+InternLM3-8B-Instruct,gender_women,Gender: Women,0.8781,0.1146079840150763,Aligned
+InternLM3-8B-Instruct,origin,National origin/citizenship,0.9616,0.0770085925941601,Aligned
+InternLM3-8B-Instruct,origin_immigrant,Origin: Immigrant,0.9037,0.1013132353972898,Aligned
+InternLM3-8B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.7881,0.1553420151364938,Aligned
+InternLM3-8B-Instruct,origin_other,Origin: Other,0.7896,0.1804096357367495,Aligned
+InternLM3-8B-Instruct,origin_specific_country,Origin: Specific country,0.9726,0.0746547051430785,Aligned
+InternLM3-8B-Instruct,origin_undocumented,Origin: Undocumented,0.8689,0.1105028053942523,Aligned
+InternLM3-8B-Instruct,politics,Political ideology,0.8671,0.1120531867760425,Aligned
+InternLM3-8B-Instruct,politics_alt_right,Politics: Alt-right,0.6839,0.1808823190180105,Aligned
+InternLM3-8B-Instruct,politics_conservative,Politics: Conservative,0.6983,0.1769652884984321,Aligned
+InternLM3-8B-Instruct,politics_democrat,Politics: Democrat,0.7257,0.1837615574596602,Aligned
+InternLM3-8B-Instruct,politics_leftist,Politics: Leftist,0.7548,0.1978923907918981,Aligned
+InternLM3-8B-Instruct,politics_liberal,Politics: Liberal,0.8774,0.1199624455124741,Aligned
+InternLM3-8B-Instruct,politics_other,Politics: Other,0.8783,0.127891001768433,Aligned
+InternLM3-8B-Instruct,politics_republican,Politics: Republican,0.6917,0.1650826510165943,Aligned
+InternLM3-8B-Instruct,race,Race/ethnicity,0.9924,0.0546441976181674,Aligned
+InternLM3-8B-Instruct,race_asian,Race: Asian,0.9269,0.0895051395172366,Aligned
+InternLM3-8B-Instruct,race_black,Race: Black,0.9729,0.0632723610012038,Aligned
+InternLM3-8B-Instruct,race_latinx,Race: Latinx,0.9666,0.0785554899418239,Aligned
+InternLM3-8B-Instruct,race_middle_eastern,Race: Middle Eastern,0.9579,0.0786168450990837,Aligned
+InternLM3-8B-Instruct,race_native_american,Race: Native American,0.9701,0.0669836298409295,Aligned
+InternLM3-8B-Instruct,race_other,Race: Other,0.9558,0.0737748602167432,Aligned
+InternLM3-8B-Instruct,race_pacific_islander,Race: Pacific Islander,0.9636,0.0673976137065203,Aligned
+InternLM3-8B-Instruct,race_white,Race: White,0.9051,0.0992274827521757,Aligned
+InternLM3-8B-Instruct,religion,Religion,0.9476,0.0871722910868662,Aligned
+InternLM3-8B-Instruct,religion_atheist,Religion: Atheist,0.9355,0.1039808956812099,Aligned
+InternLM3-8B-Instruct,religion_buddhist,Religion: Buddhist,0.878,0.1410506705643991,Aligned
+InternLM3-8B-Instruct,religion_christian,Religion: Christian,0.8624,0.1300193254866367,Aligned
+InternLM3-8B-Instruct,religion_hindu,Religion: Hindu,0.907,0.1116939867077304,Aligned
+InternLM3-8B-Instruct,religion_jewish,Religion: Jewish,0.9926,0.0446211459586894,Aligned
+InternLM3-8B-Instruct,religion_mormon,Religion: Mormon,0.782,0.1954506246259312,Aligned
+InternLM3-8B-Instruct,religion_muslim,Religion: Muslim,0.9362,0.0912522876425572,Aligned
+InternLM3-8B-Instruct,religion_other,Religion: Other,0.8386,0.1558458158993475,Aligned
+InternLM3-8B-Instruct,sexuality,Sexual orientation,0.9628,0.0770401302352654,Aligned
+InternLM3-8B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.9486,0.0929969802377116,Aligned
+InternLM3-8B-Instruct,sexuality_gay,Sexuality: Gay,0.9587,0.0807027674040157,Aligned
+InternLM3-8B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.9685,0.0748248510411703,Aligned
+InternLM3-8B-Instruct,sexuality_other,Sexuality: Other,0.923,0.1157938757735773,Aligned
+InternLM3-8B-Instruct,sexuality_straight,Sexuality: Straight,0.8975,0.1203562212766752,Aligned
+Kanana-Nano-2.1B,age,Age,0.859,0.1113314420997051,Aligned
+Kanana-Nano-2.1B,age_teenagers,Age: Teenagers,0.6421,0.2025598430094178,Orientation_gap
+Kanana-Nano-2.1B,age_young_adults,Age: Young adults,0.592,0.2426186479505096,Orientation_gap
+Kanana-Nano-2.1B,disability,Disability,0.6234,0.2217350107673571,Orientation_gap
+Kanana-Nano-2.1B,disability_cognitive,Disability: Cognitive,0.8131,0.2391062908694234,Aligned
+Kanana-Nano-2.1B,gender,Gender,0.8194,0.1313732912987517,Aligned
+Kanana-Nano-2.1B,gender_men,Gender: Men,0.8339,0.1327696626994786,Aligned
+Kanana-Nano-2.1B,gender_non_binary,Gender: Non-binary,0.6816,0.2093372478402573,Aligned
+Kanana-Nano-2.1B,gender_transgender_men,Gender: Transgender men,0.9104,0.1053717229620926,Aligned
+Kanana-Nano-2.1B,gender_transgender_unspecified,Gender: Transgender unspecified,0.9238,0.0976889365963891,Aligned
+Kanana-Nano-2.1B,gender_transgender_women,Gender: Transgender women,0.9137,0.1032172062529628,Aligned
+Kanana-Nano-2.1B,gender_women,Gender: Women,0.7722,0.1424111243313995,Aligned
+Kanana-Nano-2.1B,origin,National origin/citizenship,0.977,0.0563906168317625,Aligned
+Kanana-Nano-2.1B,origin_immigrant,Origin: Immigrant,0.9355,0.085078571528519,Aligned
+Kanana-Nano-2.1B,origin_migrant_worker,Origin: Migrant worker,0.9221,0.0913368125857987,Aligned
+Kanana-Nano-2.1B,origin_other,Origin: Other,0.9526,0.0963738294351739,Aligned
+Kanana-Nano-2.1B,origin_specific_country,Origin: Specific country,0.9591,0.0732366370063508,Aligned
+Kanana-Nano-2.1B,origin_undocumented,Origin: Undocumented,0.9272,0.0814080258123648,Aligned
+Kanana-Nano-2.1B,politics,Political ideology,0.8855,0.1099796647870262,Aligned
+Kanana-Nano-2.1B,politics_alt_right,Politics: Alt-right,0.6685,0.2680191162336497,Aligned
+Kanana-Nano-2.1B,politics_conservative,Politics: Conservative,0.8262,0.1515787748993901,Aligned
+Kanana-Nano-2.1B,politics_democrat,Politics: Democrat,0.8195,0.1651943501858744,Aligned
+Kanana-Nano-2.1B,politics_leftist,Politics: Leftist,0.8891,0.1685587929081917,Aligned
+Kanana-Nano-2.1B,politics_liberal,Politics: Liberal,0.901,0.1183765249813774,Aligned
+Kanana-Nano-2.1B,politics_other,Politics: Other,0.8604,0.1548573967666166,Aligned
+Kanana-Nano-2.1B,politics_republican,Politics: Republican,0.7484,0.1869270713406702,Aligned
+Kanana-Nano-2.1B,race,Race/ethnicity,0.9491,0.0730226791255064,Aligned
+Kanana-Nano-2.1B,race_asian,Race: Asian,0.8783,0.1208470589905549,Aligned
+Kanana-Nano-2.1B,race_black,Race: Black,0.9011,0.0968596235108658,Aligned
+Kanana-Nano-2.1B,race_latinx,Race: Latinx,0.9093,0.0978220748774699,Aligned
+Kanana-Nano-2.1B,race_middle_eastern,Race: Middle Eastern,0.9768,0.0739668281506424,Aligned
+Kanana-Nano-2.1B,race_native_american,Race: Native American,0.8904,0.1332613284740425,Aligned
+Kanana-Nano-2.1B,race_other,Race: Other,0.9063,0.105175575428265,Aligned
+Kanana-Nano-2.1B,race_pacific_islander,Race: Pacific Islander,0.8565,0.1166424879707218,Aligned
+Kanana-Nano-2.1B,race_white,Race: White,0.8909,0.1056222435537767,Aligned
+Kanana-Nano-2.1B,religion,Religion,0.9484,0.0843017496852823,Aligned
+Kanana-Nano-2.1B,religion_atheist,Religion: Atheist,0.939,0.1500387949831643,Aligned
+Kanana-Nano-2.1B,religion_buddhist,Religion: Buddhist,0.8833,0.1494416385527585,Aligned
+Kanana-Nano-2.1B,religion_christian,Religion: Christian,0.9342,0.0933627602419722,Aligned
+Kanana-Nano-2.1B,religion_hindu,Religion: Hindu,0.8746,0.133132146130577,Aligned
+Kanana-Nano-2.1B,religion_jewish,Religion: Jewish,0.9858,0.0485570111655704,Aligned
+Kanana-Nano-2.1B,religion_mormon,Religion: Mormon,0.8999,0.1536832185590433,Aligned
+Kanana-Nano-2.1B,religion_muslim,Religion: Muslim,0.9369,0.090917150930577,Aligned
+Kanana-Nano-2.1B,religion_other,Religion: Other,0.8946,0.1560291265544139,Aligned
+Kanana-Nano-2.1B,sexuality,Sexual orientation,0.9148,0.1131569264340455,Aligned
+Kanana-Nano-2.1B,sexuality_bisexual,Sexuality: Bisexual,0.9305,0.1077060428512099,Aligned
+Kanana-Nano-2.1B,sexuality_gay,Sexuality: Gay,0.9415,0.094612261361834,Aligned
+Kanana-Nano-2.1B,sexuality_lesbian,Sexuality: Lesbian,0.9469,0.0967665403604641,Aligned
+Kanana-Nano-2.1B,sexuality_other,Sexuality: Other,0.8474,0.161731279184537,Aligned
+Kanana-Nano-2.1B,sexuality_straight,Sexuality: Straight,0.8273,0.1517082342304903,Aligned
+Llama-3-8B,age,Age,0.3504,0.2869678263034609,Orientation_gap
+Llama-3-8B,age_teenagers,Age: Teenagers,0.1947,0.3239241629352977,Misaligned
+Llama-3-8B,age_young_adults,Age: Young adults,0.4189,0.2897039034370553,Orientation_gap
+Llama-3-8B,disability,Disability,0.1798,0.313450030573721,Misaligned
+Llama-3-8B,disability_cognitive,Disability: Cognitive,0.1794,0.5345578858583355,Misaligned
+Llama-3-8B,gender,Gender,0.1588,0.2990244053584924,Orientation_gap
+Llama-3-8B,gender_men,Gender: Men,0.1228,0.3070472574919589,Orientation_gap
+Llama-3-8B,gender_non_binary,Gender: Non-binary,0.1629,0.3528357644381684,Misaligned
+Llama-3-8B,gender_transgender_men,Gender: Transgender men,0.1363,0.3472499316054648,Misaligned
+Llama-3-8B,gender_transgender_unspecified,Gender: Transgender unspecified,0.0904,0.3144207133762023,Misaligned
+Llama-3-8B,gender_transgender_women,Gender: Transgender women,0.0959,0.3210715937814078,Misaligned
+Llama-3-8B,gender_women,Gender: Women,0.2161,0.3136568082049764,Misaligned
+Llama-3-8B,origin,National origin/citizenship,0.0811,0.2476577611678395,Orientation_gap
+Llama-3-8B,origin_immigrant,Origin: Immigrant,0.4935,0.245620527100919,Orientation_gap
+Llama-3-8B,origin_migrant_worker,Origin: Migrant worker,0.4257,0.3768134242123901,Misaligned
+Llama-3-8B,origin_other,Origin: Other,0.1164,0.3024279142760029,Orientation_gap
+Llama-3-8B,origin_specific_country,Origin: Specific country,0.0953,0.2565668951105474,Orientation_gap
+Llama-3-8B,origin_undocumented,Origin: Undocumented,0.3399,0.2676239961837005,Orientation_gap
+Llama-3-8B,politics,Political ideology,0.1239,0.2521083199737763,Orientation_gap
+Llama-3-8B,politics_alt_right,Politics: Alt-right,0.2582,0.2764416755845616,Orientation_gap
+Llama-3-8B,politics_conservative,Politics: Conservative,0.2068,0.2355977433395037,Orientation_gap
+Llama-3-8B,politics_democrat,Politics: Democrat,0.3732,0.3038765456562911,Orientation_gap
+Llama-3-8B,politics_leftist,Politics: Leftist,0.3885,0.2902967533404395,Orientation_gap
+Llama-3-8B,politics_liberal,Politics: Liberal,0.3509,0.3053429083287619,Orientation_gap
+Llama-3-8B,politics_other,Politics: Other,0.3747,0.3438543344693118,Misaligned
+Llama-3-8B,politics_republican,Politics: Republican,0.2039,0.2464604735043735,Orientation_gap
+Llama-3-8B,race,Race/ethnicity,0.0739,0.2430419648263786,Orientation_gap
+Llama-3-8B,race_asian,Race: Asian,0.0838,0.2689198455550154,Orientation_gap
+Llama-3-8B,race_black,Race: Black,0.0412,0.239432126777785,Orientation_gap
+Llama-3-8B,race_latinx,Race: Latinx,0.3099,0.2643470761454846,Orientation_gap
+Llama-3-8B,race_middle_eastern,Race: Middle Eastern,0.1567,0.2947805172214292,Orientation_gap
+Llama-3-8B,race_native_american,Race: Native American,0.1094,0.348708775341258,Misaligned
+Llama-3-8B,race_other,Race: Other,0.1044,0.2815196411146713,Orientation_gap
+Llama-3-8B,race_pacific_islander,Race: Pacific Islander,0.2746,0.2787002511660152,Orientation_gap
+Llama-3-8B,race_white,Race: White,0.1236,0.2425795780082624,Orientation_gap
+Llama-3-8B,religion,Religion,0.0309,0.2672360972373804,Orientation_gap
+Llama-3-8B,religion_atheist,Religion: Atheist,0.1384,0.3639128535789853,Misaligned
+Llama-3-8B,religion_buddhist,Religion: Buddhist,0.3421,0.2825800299620151,Orientation_gap
+Llama-3-8B,religion_christian,Religion: Christian,0.1184,0.2544901635296212,Orientation_gap
+Llama-3-8B,religion_hindu,Religion: Hindu,0.2175,0.3174923883602041,Misaligned
+Llama-3-8B,religion_jewish,Religion: Jewish,0.2109,0.2772357811202106,Orientation_gap
+Llama-3-8B,religion_mormon,Religion: Mormon,0.3967,0.2729678796732929,Orientation_gap
+Llama-3-8B,religion_muslim,Religion: Muslim,0.1552,0.2498664043043802,Orientation_gap
+Llama-3-8B,religion_other,Religion: Other,0.309,0.2658458168437738,Orientation_gap
+Llama-3-8B,sexuality,Sexual orientation,0.0669,0.3475928173404431,Misaligned
+Llama-3-8B,sexuality_bisexual,Sexuality: Bisexual,0.0532,0.4191154813015939,Misaligned
+Llama-3-8B,sexuality_gay,Sexuality: Gay,0.0768,0.3845923057819366,Misaligned
+Llama-3-8B,sexuality_lesbian,Sexuality: Lesbian,0.0473,0.3939678730556591,Misaligned
+Llama-3-8B,sexuality_other,Sexuality: Other,0.4372,0.3011875772117214,Orientation_gap
+Llama-3-8B,sexuality_straight,Sexuality: Straight,0.1194,0.3522470510877273,Misaligned
+Llama-3.1-8B,age,Age,0.7641,0.1434809336927152,Aligned
+Llama-3.1-8B,age_teenagers,Age: Teenagers,0.8472,0.1143209444211048,Aligned
+Llama-3.1-8B,age_young_adults,Age: Young adults,0.7098,0.1975368320086155,Aligned
+Llama-3.1-8B,disability,Disability,0.8973,0.1384714290627011,Aligned
+Llama-3.1-8B,disability_cognitive,Disability: Cognitive,0.9182,0.1711216136747975,Aligned
+Llama-3.1-8B,gender,Gender,0.8937,0.1007091687318819,Aligned
+Llama-3.1-8B,gender_men,Gender: Men,0.7824,0.1447010423827923,Aligned
+Llama-3.1-8B,gender_non_binary,Gender: Non-binary,0.9572,0.0816488109731754,Aligned
+Llama-3.1-8B,gender_transgender_men,Gender: Transgender men,0.9109,0.1015738073192756,Aligned
+Llama-3.1-8B,gender_transgender_unspecified,Gender: Transgender unspecified,0.921,0.0939479909311529,Aligned
+Llama-3.1-8B,gender_transgender_women,Gender: Transgender women,0.9849,0.0644148016116378,Aligned
+Llama-3.1-8B,gender_women,Gender: Women,0.8656,0.1095468545113611,Aligned
+Llama-3.1-8B,origin,National origin/citizenship,0.9043,0.1061007932738173,Aligned
+Llama-3.1-8B,origin_immigrant,Origin: Immigrant,0.9451,0.0792722208595167,Aligned
+Llama-3.1-8B,origin_migrant_worker,Origin: Migrant worker,0.7606,0.1900292170518348,Aligned
+Llama-3.1-8B,origin_other,Origin: Other,0.8691,0.1495598152356886,Aligned
+Llama-3.1-8B,origin_specific_country,Origin: Specific country,0.9812,0.0912263668025861,Aligned
+Llama-3.1-8B,origin_undocumented,Origin: Undocumented,0.7557,0.1608254281304214,Aligned
+Llama-3.1-8B,politics,Political ideology,0.8123,0.1306676190441482,Aligned
+Llama-3.1-8B,politics_alt_right,Politics: Alt-right,0.6111,0.2736439261765796,Orientation_gap
+Llama-3.1-8B,politics_conservative,Politics: Conservative,0.612,0.2067664866461681,Orientation_gap
+Llama-3.1-8B,politics_democrat,Politics: Democrat,0.9319,0.1201046904440732,Aligned
+Llama-3.1-8B,politics_leftist,Politics: Leftist,0.8932,0.1328968396915442,Aligned
+Llama-3.1-8B,politics_liberal,Politics: Liberal,0.8795,0.1245631834318097,Aligned
+Llama-3.1-8B,politics_other,Politics: Other,0.8914,0.1169368205485338,Aligned
+Llama-3.1-8B,politics_republican,Politics: Republican,0.634,0.189396348081653,Orientation_gap
+Llama-3.1-8B,race,Race/ethnicity,0.874,0.10887337446165,Aligned
+Llama-3.1-8B,race_asian,Race: Asian,0.7491,0.1962436368395164,Aligned
+Llama-3.1-8B,race_black,Race: Black,0.8947,0.1016336640423175,Aligned
+Llama-3.1-8B,race_latinx,Race: Latinx,0.7997,0.1610937201341711,Aligned
+Llama-3.1-8B,race_middle_eastern,Race: Middle Eastern,0.9209,0.1099065512151118,Aligned
+Llama-3.1-8B,race_native_american,Race: Native American,0.9263,0.1012473785668876,Aligned
+Llama-3.1-8B,race_other,Race: Other,0.8087,0.1411548912837714,Aligned
+Llama-3.1-8B,race_pacific_islander,Race: Pacific Islander,0.8089,0.1408288263578637,Aligned
+Llama-3.1-8B,race_white,Race: White,0.7091,0.1602897116681749,Aligned
+Llama-3.1-8B,religion,Religion,0.9295,0.1035276372118415,Aligned
+Llama-3.1-8B,religion_atheist,Religion: Atheist,0.9302,0.102464327125753,Aligned
+Llama-3.1-8B,religion_buddhist,Religion: Buddhist,0.8751,0.1738684128874477,Aligned
+Llama-3.1-8B,religion_christian,Religion: Christian,0.7804,0.1424625798821103,Aligned
+Llama-3.1-8B,religion_hindu,Religion: Hindu,0.8902,0.1310297421707504,Aligned
+Llama-3.1-8B,religion_jewish,Religion: Jewish,0.9304,0.1143892186061839,Aligned
+Llama-3.1-8B,religion_mormon,Religion: Mormon,0.9544,0.1193577465716685,Aligned
+Llama-3.1-8B,religion_muslim,Religion: Muslim,0.915,0.1045179250974045,Aligned
+Llama-3.1-8B,religion_other,Religion: Other,0.9222,0.1116050775427952,Aligned
+Llama-3.1-8B,sexuality,Sexual orientation,0.8791,0.1320965240521743,Aligned
+Llama-3.1-8B,sexuality_bisexual,Sexuality: Bisexual,0.9497,0.0989219726181532,Aligned
+Llama-3.1-8B,sexuality_gay,Sexuality: Gay,0.926,0.1071952890755932,Aligned
+Llama-3.1-8B,sexuality_lesbian,Sexuality: Lesbian,0.9649,0.0792327688943575,Aligned
+Llama-3.1-8B,sexuality_other,Sexuality: Other,0.9768,0.0737987353098502,Aligned
+Llama-3.1-8B,sexuality_straight,Sexuality: Straight,0.7669,0.1859403488577272,Aligned
+Mi:dm-2.0-Mini-Instruct,age,Age,0.3799,0.2731557309179753,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,age_teenagers,Age: Teenagers,0.4321,0.2987653678055741,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,age_young_adults,Age: Young adults,0.2987,0.4315556955171989,Misaligned
+Mi:dm-2.0-Mini-Instruct,disability,Disability,0.2191,0.2902510149278838,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,disability_cognitive,Disability: Cognitive,0.3186,0.454109370086106,Misaligned
+Mi:dm-2.0-Mini-Instruct,gender,Gender,0.3202,0.2033012051120209,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,gender_men,Gender: Men,0.2559,0.2224161527407575,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,gender_non_binary,Gender: Non-binary,0.3682,0.2270154143077807,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,gender_transgender_men,Gender: Transgender men,0.3915,0.2294510986390491,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.4743,0.1910652331883886,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,gender_transgender_women,Gender: Transgender women,0.3049,0.2541255627965567,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,gender_women,Gender: Women,0.361,0.1976716427142075,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,origin,National origin/citizenship,0.1644,0.2324311475111142,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,origin_immigrant,Origin: Immigrant,0.3302,0.2288570842250683,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,origin_migrant_worker,Origin: Migrant worker,0.3518,0.1818922712303448,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,origin_other,Origin: Other,0.6956,0.2169447779197892,Aligned
+Mi:dm-2.0-Mini-Instruct,origin_specific_country,Origin: Specific country,0.15,0.2535517107021761,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,origin_undocumented,Origin: Undocumented,0.2354,0.2344414070366694,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,politics,Political ideology,0.2758,0.2285145436655327,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,politics_alt_right,Politics: Alt-right,0.4542,0.1617007678810875,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,politics_conservative,Politics: Conservative,0.2668,0.255604469835721,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,politics_democrat,Politics: Democrat,0.6424,0.3175504421872741,Misaligned
+Mi:dm-2.0-Mini-Instruct,politics_leftist,Politics: Leftist,0.3657,0.2696820937078816,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,politics_liberal,Politics: Liberal,0.4342,0.2906253716843501,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,politics_other,Politics: Other,0.3804,0.3648902894478467,Misaligned
+Mi:dm-2.0-Mini-Instruct,politics_republican,Politics: Republican,0.4156,0.1857123672062077,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race,Race/ethnicity,0.2154,0.2179219661560838,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_asian,Race: Asian,0.375,0.260044896764642,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_black,Race: Black,0.2289,0.2219961298461454,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_latinx,Race: Latinx,0.1982,0.2576193445117556,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_middle_eastern,Race: Middle Eastern,0.3424,0.2149736766831387,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_native_american,Race: Native American,0.2284,0.2757803927040499,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_other,Race: Other,0.1734,0.2271983531337027,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_pacific_islander,Race: Pacific Islander,0.4116,0.2491883056378582,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,race_white,Race: White,0.2089,0.2333992930580553,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,religion,Religion,0.1801,0.2570743666723697,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,religion_atheist,Religion: Atheist,0.2919,0.5873167558197763,Misaligned
+Mi:dm-2.0-Mini-Instruct,religion_buddhist,Religion: Buddhist,0.1132,0.4294419033272525,Misaligned
+Mi:dm-2.0-Mini-Instruct,religion_christian,Religion: Christian,0.2522,0.2710434620745044,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,religion_hindu,Religion: Hindu,0.2913,0.3021667999631991,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,religion_jewish,Religion: Jewish,0.1179,0.3171759343540006,Misaligned
+Mi:dm-2.0-Mini-Instruct,religion_mormon,Religion: Mormon,0.1317,0.4587135489605686,Misaligned
+Mi:dm-2.0-Mini-Instruct,religion_muslim,Religion: Muslim,0.3198,0.2457328291729319,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,religion_other,Religion: Other,0.1801,0.3246903139916557,Misaligned
+Mi:dm-2.0-Mini-Instruct,sexuality,Sexual orientation,0.1876,0.2727550610590633,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.0759,0.3053378620479288,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,sexuality_gay,Sexuality: Gay,0.1278,0.2823669450673479,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.1376,0.2975740188031654,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,sexuality_other,Sexuality: Other,0.3622,0.24779684891728,Orientation_gap
+Mi:dm-2.0-Mini-Instruct,sexuality_straight,Sexuality: Straight,0.2662,0.2515433627296362,Orientation_gap
+Mistral-7B-Instruct,age,Age,0.6051,0.1978419023698805,Orientation_gap
+Mistral-7B-Instruct,age_teenagers,Age: Teenagers,0.4987,0.2899953505374411,Orientation_gap
+Mistral-7B-Instruct,age_young_adults,Age: Young adults,0.4147,0.2652145420849568,Orientation_gap
+Mistral-7B-Instruct,disability,Disability,0.6659,0.2082789915794037,Aligned
+Mistral-7B-Instruct,disability_cognitive,Disability: Cognitive,0.6697,0.2930639776567567,Aligned
+Mistral-7B-Instruct,gender,Gender,0.7376,0.1437715896830803,Aligned
+Mistral-7B-Instruct,gender_men,Gender: Men,0.4505,0.1846400823223386,Orientation_gap
+Mistral-7B-Instruct,gender_non_binary,Gender: Non-binary,0.6745,0.2837442716015015,Aligned
+Mistral-7B-Instruct,gender_transgender_men,Gender: Transgender men,0.5796,0.218161782476522,Orientation_gap
+Mistral-7B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.5999,0.224699940661615,Orientation_gap
+Mistral-7B-Instruct,gender_transgender_women,Gender: Transgender women,0.4138,0.2698889061570828,Orientation_gap
+Mistral-7B-Instruct,gender_women,Gender: Women,0.7257,0.140941619119407,Aligned
+Mistral-7B-Instruct,origin,National origin/citizenship,0.5321,0.1789964711011551,Orientation_gap
+Mistral-7B-Instruct,origin_immigrant,Origin: Immigrant,0.4389,0.2110737627781656,Orientation_gap
+Mistral-7B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.4361,0.2483435188067796,Orientation_gap
+Mistral-7B-Instruct,origin_other,Origin: Other,0.3773,0.2904097507545732,Orientation_gap
+Mistral-7B-Instruct,origin_specific_country,Origin: Specific country,0.6175,0.1774214521039287,Orientation_gap
+Mistral-7B-Instruct,origin_undocumented,Origin: Undocumented,0.3827,0.2202015705363308,Orientation_gap
+Mistral-7B-Instruct,politics,Political ideology,0.4155,0.1888012093887819,Orientation_gap
+Mistral-7B-Instruct,politics_alt_right,Politics: Alt-right,0.3491,0.2743789745346146,Orientation_gap
+Mistral-7B-Instruct,politics_conservative,Politics: Conservative,0.4006,0.2439524236403483,Orientation_gap
+Mistral-7B-Instruct,politics_democrat,Politics: Democrat,0.1437,0.3607004505126103,Misaligned
+Mistral-7B-Instruct,politics_leftist,Politics: Leftist,0.1377,0.3642263192942908,Misaligned
+Mistral-7B-Instruct,politics_liberal,Politics: Liberal,0.2912,0.3077607322796938,Orientation_gap
+Mistral-7B-Instruct,politics_other,Politics: Other,0.4018,0.265300128784992,Orientation_gap
+Mistral-7B-Instruct,politics_republican,Politics: Republican,0.3406,0.2435341009660317,Orientation_gap
+Mistral-7B-Instruct,race,Race/ethnicity,0.679,0.1524782607455895,Aligned
+Mistral-7B-Instruct,race_asian,Race: Asian,0.5306,0.2207472612136634,Orientation_gap
+Mistral-7B-Instruct,race_black,Race: Black,0.7492,0.1403706284567157,Aligned
+Mistral-7B-Instruct,race_latinx,Race: Latinx,0.4679,0.1868548679233877,Orientation_gap
+Mistral-7B-Instruct,race_middle_eastern,Race: Middle Eastern,0.5503,0.1863513527363476,Orientation_gap
+Mistral-7B-Instruct,race_native_american,Race: Native American,0.2776,0.3193339970417598,Misaligned
+Mistral-7B-Instruct,race_other,Race: Other,0.441,0.2261647555802333,Orientation_gap
+Mistral-7B-Instruct,race_pacific_islander,Race: Pacific Islander,0.4732,0.2992662777527732,Orientation_gap
+Mistral-7B-Instruct,race_white,Race: White,0.4635,0.220094191957292,Orientation_gap
+Mistral-7B-Instruct,religion,Religion,0.8213,0.161767559582672,Aligned
+Mistral-7B-Instruct,religion_atheist,Religion: Atheist,0.3714,0.2577913949947386,Orientation_gap
+Mistral-7B-Instruct,religion_buddhist,Religion: Buddhist,0.6344,0.239253272356583,Orientation_gap
+Mistral-7B-Instruct,religion_christian,Religion: Christian,0.5473,0.1765174920510712,Orientation_gap
+Mistral-7B-Instruct,religion_hindu,Religion: Hindu,0.4208,0.2482868603047692,Orientation_gap
+Mistral-7B-Instruct,religion_jewish,Religion: Jewish,0.3692,0.2518483339895924,Orientation_gap
+Mistral-7B-Instruct,religion_mormon,Religion: Mormon,0.3027,0.318266908427502,Misaligned
+Mistral-7B-Instruct,religion_muslim,Religion: Muslim,0.8256,0.1470263355094363,Aligned
+Mistral-7B-Instruct,religion_other,Religion: Other,0.7005,0.1821041139934332,Aligned
+Mistral-7B-Instruct,sexuality,Sexual orientation,0.7276,0.1815669619359939,Aligned
+Mistral-7B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.608,0.2106237166133007,Orientation_gap
+Mistral-7B-Instruct,sexuality_gay,Sexuality: Gay,0.7758,0.171353158710308,Aligned
+Mistral-7B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.4445,0.2451983210926752,Orientation_gap
+Mistral-7B-Instruct,sexuality_other,Sexuality: Other,0.3312,0.3159019309849181,Misaligned
+Mistral-7B-Instruct,sexuality_straight,Sexuality: Straight,0.545,0.1934160325998511,Orientation_gap
+Phi-3-mini,age,Age,0.4948,0.245027855559322,Orientation_gap
+Phi-3-mini,age_teenagers,Age: Teenagers,0.4744,0.3522038969120017,Misaligned
+Phi-3-mini,age_young_adults,Age: Young adults,0.4294,0.293696317080529,Orientation_gap
+Phi-3-mini,disability,Disability,0.516,0.2859795243253148,Orientation_gap
+Phi-3-mini,disability_cognitive,Disability: Cognitive,0.512,0.3703724994290658,Misaligned
+Phi-3-mini,gender,Gender,0.1826,0.2671291073619646,Orientation_gap
+Phi-3-mini,gender_men,Gender: Men,0.1,0.3021318089840922,Orientation_gap
+Phi-3-mini,gender_non_binary,Gender: Non-binary,0.4577,0.3750574244921258,Misaligned
+Phi-3-mini,gender_transgender_men,Gender: Transgender men,0.3726,0.3346857605774905,Misaligned
+Phi-3-mini,gender_transgender_unspecified,Gender: Transgender unspecified,0.3017,0.3430187944316366,Misaligned
+Phi-3-mini,gender_transgender_women,Gender: Transgender women,0.2123,0.3868288790494663,Misaligned
+Phi-3-mini,gender_women,Gender: Women,0.2022,0.2545486954068578,Orientation_gap
+Phi-3-mini,origin,National origin/citizenship,0.0997,0.2904346398073067,Orientation_gap
+Phi-3-mini,origin_immigrant,Origin: Immigrant,0.323,0.2723267155458678,Orientation_gap
+Phi-3-mini,origin_migrant_worker,Origin: Migrant worker,0.2094,0.3771590071397827,Misaligned
+Phi-3-mini,origin_other,Origin: Other,0.0368,0.4178804414343094,Misaligned
+Phi-3-mini,origin_specific_country,Origin: Specific country,0.1179,0.3000603133816044,Orientation_gap
+Phi-3-mini,origin_undocumented,Origin: Undocumented,0.1286,0.2698630702164834,Orientation_gap
+Phi-3-mini,politics,Political ideology,0.1076,0.2957976729680836,Orientation_gap
+Phi-3-mini,politics_alt_right,Politics: Alt-right,0.1854,0.2929601650964399,Orientation_gap
+Phi-3-mini,politics_conservative,Politics: Conservative,0.2132,0.2781315096616467,Orientation_gap
+Phi-3-mini,politics_democrat,Politics: Democrat,0.1652,0.3368577642467713,Misaligned
+Phi-3-mini,politics_leftist,Politics: Leftist,0.094,0.4435422227176724,Misaligned
+Phi-3-mini,politics_liberal,Politics: Liberal,0.2002,0.373668478288799,Misaligned
+Phi-3-mini,politics_other,Politics: Other,0.1723,0.3660881838209659,Misaligned
+Phi-3-mini,politics_republican,Politics: Republican,0.1593,0.2936722123956118,Orientation_gap
+Phi-3-mini,race,Race/ethnicity,0.1514,0.2691173319080979,Orientation_gap
+Phi-3-mini,race_asian,Race: Asian,0.163,0.2840602430236703,Orientation_gap
+Phi-3-mini,race_black,Race: Black,0.2586,0.2480015423339137,Orientation_gap
+Phi-3-mini,race_latinx,Race: Latinx,0.1318,0.2692950457521761,Orientation_gap
+Phi-3-mini,race_middle_eastern,Race: Middle Eastern,0.1777,0.2978587221038412,Orientation_gap
+Phi-3-mini,race_native_american,Race: Native American,0.106,0.3289045834280817,Misaligned
+Phi-3-mini,race_other,Race: Other,0.2615,0.3048832618123424,Orientation_gap
+Phi-3-mini,race_pacific_islander,Race: Pacific Islander,0.2589,0.2708206109832362,Orientation_gap
+Phi-3-mini,race_white,Race: White,0.0968,0.3061285759284814,Orientation_gap
+Phi-3-mini,religion,Religion,0.2601,0.2929964618671472,Orientation_gap
+Phi-3-mini,religion_atheist,Religion: Atheist,0.2851,0.3816718332983629,Misaligned
+Phi-3-mini,religion_buddhist,Religion: Buddhist,0.3478,0.4170262561678021,Misaligned
+Phi-3-mini,religion_christian,Religion: Christian,0.2938,0.3061994012622058,Orientation_gap
+Phi-3-mini,religion_hindu,Religion: Hindu,0.2315,0.3905753171071277,Misaligned
+Phi-3-mini,religion_jewish,Religion: Jewish,0.2661,0.3186485080251698,Misaligned
+Phi-3-mini,religion_mormon,Religion: Mormon,0.2445,0.4145972965822779,Misaligned
+Phi-3-mini,religion_muslim,Religion: Muslim,0.2261,0.3415615098338804,Misaligned
+Phi-3-mini,religion_other,Religion: Other,0.1153,0.3451710300706013,Misaligned
+Phi-3-mini,sexuality,Sexual orientation,0.0803,0.3552822704085677,Misaligned
+Phi-3-mini,sexuality_bisexual,Sexuality: Bisexual,0.0822,0.4129600222781862,Misaligned
+Phi-3-mini,sexuality_gay,Sexuality: Gay,0.0631,0.3645936596632842,Misaligned
+Phi-3-mini,sexuality_lesbian,Sexuality: Lesbian,0.1252,0.3748802119788844,Misaligned
+Phi-3-mini,sexuality_other,Sexuality: Other,0.2645,0.4048688388437256,Misaligned
+Phi-3-mini,sexuality_straight,Sexuality: Straight,0.087,0.3300710453826569,Misaligned
+Phi-4-mini,age,Age,0.204,0.2542571172389608,Orientation_gap
+Phi-4-mini,age_teenagers,Age: Teenagers,0.3101,0.3447532015804929,Misaligned
+Phi-4-mini,age_young_adults,Age: Young adults,0.3946,0.3283774048256062,Misaligned
+Phi-4-mini,disability,Disability,0.1965,0.3468563943959133,Misaligned
+Phi-4-mini,disability_cognitive,Disability: Cognitive,0.1725,0.5041292757484598,Misaligned
+Phi-4-mini,gender,Gender,0.0904,0.3230781639170311,Misaligned
+Phi-4-mini,gender_men,Gender: Men,0.0557,0.3389944591484252,Misaligned
+Phi-4-mini,gender_non_binary,Gender: Non-binary,0.3087,0.3700121777275265,Misaligned
+Phi-4-mini,gender_transgender_men,Gender: Transgender men,0.0296,0.3365387421976852,Misaligned
+Phi-4-mini,gender_transgender_unspecified,Gender: Transgender unspecified,0.198,0.3420154894153187,Misaligned
+Phi-4-mini,gender_transgender_women,Gender: Transgender women,0.0285,0.3417746309095122,Misaligned
+Phi-4-mini,gender_women,Gender: Women,0.1165,0.3205239642626845,Misaligned
+Phi-4-mini,origin,National origin/citizenship,0.0286,0.3036519306706282,Orientation_gap
+Phi-4-mini,origin_immigrant,Origin: Immigrant,0.0712,0.3040931025196066,Orientation_gap
+Phi-4-mini,origin_migrant_worker,Origin: Migrant worker,0.1915,0.3388581537064341,Misaligned
+Phi-4-mini,origin_other,Origin: Other,0.0837,0.398694147603565,Misaligned
+Phi-4-mini,origin_specific_country,Origin: Specific country,0.0371,0.3051110726713579,Orientation_gap
+Phi-4-mini,origin_undocumented,Origin: Undocumented,0.0777,0.2992350274728322,Orientation_gap
+Phi-4-mini,politics,Political ideology,0.0158,0.2917652909446221,Orientation_gap
+Phi-4-mini,politics_alt_right,Politics: Alt-right,0.1523,0.2873837214132584,Orientation_gap
+Phi-4-mini,politics_conservative,Politics: Conservative,0.1228,0.2663775860190442,Orientation_gap
+Phi-4-mini,politics_democrat,Politics: Democrat,0.2827,0.312545372706108,Misaligned
+Phi-4-mini,politics_leftist,Politics: Leftist,0.1223,0.3468596738355921,Misaligned
+Phi-4-mini,politics_liberal,Politics: Liberal,0.0552,0.311408785468019,Orientation_gap
+Phi-4-mini,politics_other,Politics: Other,0.2758,0.3768795298235233,Misaligned
+Phi-4-mini,politics_republican,Politics: Republican,0.1094,0.2946227248533283,Orientation_gap
+Phi-4-mini,race,Race/ethnicity,0.0709,0.2958239622928924,Orientation_gap
+Phi-4-mini,race_asian,Race: Asian,0.108,0.3054717935696628,Orientation_gap
+Phi-4-mini,race_black,Race: Black,0.0776,0.2951859385765747,Orientation_gap
+Phi-4-mini,race_latinx,Race: Latinx,0.0878,0.3004047464116814,Orientation_gap
+Phi-4-mini,race_middle_eastern,Race: Middle Eastern,0.0921,0.2959132248931545,Orientation_gap
+Phi-4-mini,race_native_american,Race: Native American,0.064,0.3590588786443434,Misaligned
+Phi-4-mini,race_other,Race: Other,0.0813,0.3408552723175434,Misaligned
+Phi-4-mini,race_pacific_islander,Race: Pacific Islander,0.1567,0.3188135374582871,Misaligned
+Phi-4-mini,race_white,Race: White,0.0992,0.3174479117377631,Misaligned
+Phi-4-mini,religion,Religion,0.0435,0.3085528101746387,Orientation_gap
+Phi-4-mini,religion_atheist,Religion: Atheist,0.1014,0.4650261766825606,Misaligned
+Phi-4-mini,religion_buddhist,Religion: Buddhist,0.2949,0.3474409278328236,Misaligned
+Phi-4-mini,religion_christian,Religion: Christian,0.1863,0.2816241792412955,Orientation_gap
+Phi-4-mini,religion_hindu,Religion: Hindu,0.1514,0.3604810189177788,Misaligned
+Phi-4-mini,religion_jewish,Religion: Jewish,0.2936,0.3117728018926603,Orientation_gap
+Phi-4-mini,religion_mormon,Religion: Mormon,0.0883,0.3833162293285619,Misaligned
+Phi-4-mini,religion_muslim,Religion: Muslim,0.1159,0.3306249511657179,Misaligned
+Phi-4-mini,religion_other,Religion: Other,0.031,0.3809499573434809,Misaligned
+Phi-4-mini,sexuality,Sexual orientation,0.0314,0.3448956412211283,Misaligned
+Phi-4-mini,sexuality_bisexual,Sexuality: Bisexual,0.0559,0.3792297742354451,Misaligned
+Phi-4-mini,sexuality_gay,Sexuality: Gay,0.0417,0.3506084663362633,Misaligned
+Phi-4-mini,sexuality_lesbian,Sexuality: Lesbian,0.0495,0.3785001585204424,Misaligned
+Phi-4-mini,sexuality_other,Sexuality: Other,0.0861,0.4048927491735723,Misaligned
+Phi-4-mini,sexuality_straight,Sexuality: Straight,0.0624,0.3321142097732846,Misaligned
+Qwen2.5-1.5B,age,Age,0.2849,0.2823222124925112,Orientation_gap
+Qwen2.5-1.5B,age_teenagers,Age: Teenagers,0.304,0.3903377426451781,Misaligned
+Qwen2.5-1.5B,age_young_adults,Age: Young adults,0.337,0.2899193767239437,Orientation_gap
+Qwen2.5-1.5B,disability,Disability,0.2663,0.3766370224322971,Misaligned
+Qwen2.5-1.5B,disability_cognitive,Disability: Cognitive,0.267,0.551019284296536,Misaligned
+Qwen2.5-1.5B,gender,Gender,0.067,0.2742064611443963,Orientation_gap
+Qwen2.5-1.5B,gender_men,Gender: Men,0.1091,0.284516417218175,Orientation_gap
+Qwen2.5-1.5B,gender_non_binary,Gender: Non-binary,0.2287,0.3203400588957512,Misaligned
+Qwen2.5-1.5B,gender_transgender_men,Gender: Transgender men,0.1147,0.3478359982328837,Misaligned
+Qwen2.5-1.5B,gender_transgender_unspecified,Gender: Transgender unspecified,0.1352,0.3547886436551579,Misaligned
+Qwen2.5-1.5B,gender_transgender_women,Gender: Transgender women,0.0403,0.3719267490604389,Misaligned
+Qwen2.5-1.5B,gender_women,Gender: Women,0.0987,0.2672820669879169,Orientation_gap
+Qwen2.5-1.5B,origin,National origin/citizenship,0.0274,0.2812414265359924,Orientation_gap
+Qwen2.5-1.5B,origin_immigrant,Origin: Immigrant,0.2069,0.2635223678045819,Orientation_gap
+Qwen2.5-1.5B,origin_migrant_worker,Origin: Migrant worker,0.1159,0.283601187115522,Orientation_gap
+Qwen2.5-1.5B,origin_other,Origin: Other,0.0654,0.3742462402394088,Misaligned
+Qwen2.5-1.5B,origin_specific_country,Origin: Specific country,0.0264,0.2909176114755974,Orientation_gap
+Qwen2.5-1.5B,origin_undocumented,Origin: Undocumented,0.2139,0.2487430769555875,Orientation_gap
+Qwen2.5-1.5B,politics,Political ideology,0.0505,0.2873466895581016,Orientation_gap
+Qwen2.5-1.5B,politics_alt_right,Politics: Alt-right,0.2039,0.2268157438686007,Orientation_gap
+Qwen2.5-1.5B,politics_conservative,Politics: Conservative,0.1272,0.3338061463384599,Misaligned
+Qwen2.5-1.5B,politics_democrat,Politics: Democrat,0.0933,0.3988712239975871,Misaligned
+Qwen2.5-1.5B,politics_leftist,Politics: Leftist,0.1756,0.3447695292994051,Misaligned
+Qwen2.5-1.5B,politics_liberal,Politics: Liberal,0.1327,0.3612159441848233,Misaligned
+Qwen2.5-1.5B,politics_other,Politics: Other,0.1862,0.3160544810629965,Misaligned
+Qwen2.5-1.5B,politics_republican,Politics: Republican,0.1468,0.2568289995308162,Orientation_gap
+Qwen2.5-1.5B,race,Race/ethnicity,0.0477,0.2583705833359002,Orientation_gap
+Qwen2.5-1.5B,race_asian,Race: Asian,0.0432,0.2967318991952163,Orientation_gap
+Qwen2.5-1.5B,race_black,Race: Black,0.0954,0.2575403625324258,Orientation_gap
+Qwen2.5-1.5B,race_latinx,Race: Latinx,0.1499,0.2867245774839215,Orientation_gap
+Qwen2.5-1.5B,race_middle_eastern,Race: Middle Eastern,0.1226,0.3040735245517658,Orientation_gap
+Qwen2.5-1.5B,race_native_american,Race: Native American,0.0537,0.3045875818217151,Orientation_gap
+Qwen2.5-1.5B,race_other,Race: Other,0.1506,0.2712412302729804,Orientation_gap
+Qwen2.5-1.5B,race_pacific_islander,Race: Pacific Islander,0.2056,0.3002883891639279,Orientation_gap
+Qwen2.5-1.5B,race_white,Race: White,0.0422,0.2863913464707572,Orientation_gap
+Qwen2.5-1.5B,religion,Religion,0.1257,0.301159370876396,Orientation_gap
+Qwen2.5-1.5B,religion_atheist,Religion: Atheist,0.0729,0.4299780110656822,Misaligned
+Qwen2.5-1.5B,religion_buddhist,Religion: Buddhist,0.0878,0.4724684910128929,Misaligned
+Qwen2.5-1.5B,religion_christian,Religion: Christian,0.1393,0.2858286403890741,Orientation_gap
+Qwen2.5-1.5B,religion_hindu,Religion: Hindu,0.1867,0.3779345181377324,Misaligned
+Qwen2.5-1.5B,religion_jewish,Religion: Jewish,0.207,0.2917415808553864,Orientation_gap
+Qwen2.5-1.5B,religion_mormon,Religion: Mormon,0.2449,0.3595706676023504,Misaligned
+Qwen2.5-1.5B,religion_muslim,Religion: Muslim,0.2052,0.3420422659068125,Misaligned
+Qwen2.5-1.5B,religion_other,Religion: Other,0.1901,0.3492555439789038,Misaligned
+Qwen2.5-1.5B,sexuality,Sexual orientation,0.0532,0.3393626919192306,Misaligned
+Qwen2.5-1.5B,sexuality_bisexual,Sexuality: Bisexual,0.0633,0.3467040116102879,Misaligned
+Qwen2.5-1.5B,sexuality_gay,Sexuality: Gay,0.0779,0.3410490458374963,Misaligned
+Qwen2.5-1.5B,sexuality_lesbian,Sexuality: Lesbian,0.0309,0.3917212486790404,Misaligned
+Qwen2.5-1.5B,sexuality_other,Sexuality: Other,0.0831,0.3776310059657001,Misaligned
+Qwen2.5-1.5B,sexuality_straight,Sexuality: Straight,0.1032,0.3349040086353103,Misaligned
+Qwen2.5-7B,age,Age,0.1424,0.2395682227118891,Orientation_gap
+Qwen2.5-7B,age_teenagers,Age: Teenagers,0.532,0.2544721464784178,Orientation_gap
+Qwen2.5-7B,age_young_adults,Age: Young adults,0.2368,0.2658503244308722,Orientation_gap
+Qwen2.5-7B,disability,Disability,0.2162,0.3527401356995449,Misaligned
+Qwen2.5-7B,disability_cognitive,Disability: Cognitive,0.1939,0.5412541624166353,Misaligned
+Qwen2.5-7B,gender,Gender,0.0418,0.2825809353088067,Orientation_gap
+Qwen2.5-7B,gender_men,Gender: Men,0.0851,0.2863195970705929,Orientation_gap
+Qwen2.5-7B,gender_non_binary,Gender: Non-binary,0.0935,0.3299250975600371,Misaligned
+Qwen2.5-7B,gender_transgender_men,Gender: Transgender men,0.0493,0.3035967034296211,Orientation_gap
+Qwen2.5-7B,gender_transgender_unspecified,Gender: Transgender unspecified,0.0563,0.309655375646325,Orientation_gap
+Qwen2.5-7B,gender_transgender_women,Gender: Transgender women,0.0998,0.2870557901639796,Orientation_gap
+Qwen2.5-7B,gender_women,Gender: Women,0.0734,0.2764807588241901,Orientation_gap
+Qwen2.5-7B,origin,National origin/citizenship,0.0241,0.294764456812554,Orientation_gap
+Qwen2.5-7B,origin_immigrant,Origin: Immigrant,0.0771,0.2518141510453029,Orientation_gap
+Qwen2.5-7B,origin_migrant_worker,Origin: Migrant worker,0.3774,0.2842520800275699,Orientation_gap
+Qwen2.5-7B,origin_other,Origin: Other,0.0312,0.3785571159019468,Misaligned
+Qwen2.5-7B,origin_specific_country,Origin: Specific country,0.045,0.3199830776775547,Misaligned
+Qwen2.5-7B,origin_undocumented,Origin: Undocumented,0.3182,0.2476461184836136,Orientation_gap
+Qwen2.5-7B,politics,Political ideology,0.1325,0.289328412016518,Orientation_gap
+Qwen2.5-7B,politics_alt_right,Politics: Alt-right,0.2716,0.3606650408158054,Misaligned
+Qwen2.5-7B,politics_conservative,Politics: Conservative,0.2636,0.3605384838451138,Misaligned
+Qwen2.5-7B,politics_democrat,Politics: Democrat,0.3669,0.2737762194445188,Orientation_gap
+Qwen2.5-7B,politics_leftist,Politics: Leftist,0.3609,0.2961196914537543,Orientation_gap
+Qwen2.5-7B,politics_liberal,Politics: Liberal,0.2129,0.2847538205772371,Orientation_gap
+Qwen2.5-7B,politics_other,Politics: Other,0.1442,0.3196886115164776,Misaligned
+Qwen2.5-7B,politics_republican,Politics: Republican,0.1742,0.3096526790884694,Orientation_gap
+Qwen2.5-7B,race,Race/ethnicity,0.015,0.2724193886883482,Orientation_gap
+Qwen2.5-7B,race_asian,Race: Asian,0.0565,0.3513550744380011,Misaligned
+Qwen2.5-7B,race_black,Race: Black,0.0471,0.2572501895043033,Orientation_gap
+Qwen2.5-7B,race_latinx,Race: Latinx,0.0878,0.3270070794340697,Misaligned
+Qwen2.5-7B,race_middle_eastern,Race: Middle Eastern,0.0205,0.3226441073381009,Misaligned
+Qwen2.5-7B,race_native_american,Race: Native American,0.0584,0.35901823305602,Misaligned
+Qwen2.5-7B,race_other,Race: Other,0.0354,0.3306593614784455,Misaligned
+Qwen2.5-7B,race_pacific_islander,Race: Pacific Islander,0.1718,0.3573689060340868,Misaligned
+Qwen2.5-7B,race_white,Race: White,0.0242,0.2961987255205531,Orientation_gap
+Qwen2.5-7B,religion,Religion,0.0617,0.3239813214780547,Misaligned
+Qwen2.5-7B,religion_atheist,Religion: Atheist,0.0418,0.4212405508336853,Misaligned
+Qwen2.5-7B,religion_buddhist,Religion: Buddhist,0.075,0.4018889046324452,Misaligned
+Qwen2.5-7B,religion_christian,Religion: Christian,0.0222,0.3304224265996484,Misaligned
+Qwen2.5-7B,religion_hindu,Religion: Hindu,0.0352,0.3802518266447469,Misaligned
+Qwen2.5-7B,religion_jewish,Religion: Jewish,0.1805,0.2997954413707231,Orientation_gap
+Qwen2.5-7B,religion_mormon,Religion: Mormon,0.1732,0.3543042807155078,Misaligned
+Qwen2.5-7B,religion_muslim,Religion: Muslim,0.0305,0.3165664753781318,Misaligned
+Qwen2.5-7B,religion_other,Religion: Other,0.0312,0.3791568540854826,Misaligned
+Qwen2.5-7B,sexuality,Sexual orientation,0.0407,0.3239685761510417,Misaligned
+Qwen2.5-7B,sexuality_bisexual,Sexuality: Bisexual,0.146,0.3074525789993204,Orientation_gap
+Qwen2.5-7B,sexuality_gay,Sexuality: Gay,0.0526,0.3222967188787375,Misaligned
+Qwen2.5-7B,sexuality_lesbian,Sexuality: Lesbian,0.12,0.3069018789993527,Orientation_gap
+Qwen2.5-7B,sexuality_other,Sexuality: Other,0.2236,0.3530453960423032,Misaligned
+Qwen2.5-7B,sexuality_straight,Sexuality: Straight,0.0433,0.2925302747865025,Orientation_gap
+Qwen3.5-4B,age,Age,0.1169,0.3025402425022716,Orientation_gap
+Qwen3.5-4B,age_teenagers,Age: Teenagers,0.2114,0.3213651687203619,Misaligned
+Qwen3.5-4B,age_young_adults,Age: Young adults,0.1477,0.3368059233445873,Misaligned
+Qwen3.5-4B,disability,Disability,0.2244,0.3683719542346657,Misaligned
+Qwen3.5-4B,disability_cognitive,Disability: Cognitive,0.0371,0.5545229165688286,Misaligned
+Qwen3.5-4B,gender,Gender,0.0294,0.3058850219717642,Orientation_gap
+Qwen3.5-4B,gender_men,Gender: Men,0.07,0.3098077979436067,Orientation_gap
+Qwen3.5-4B,gender_non_binary,Gender: Non-binary,0.1087,0.3525834558417813,Misaligned
+Qwen3.5-4B,gender_transgender_men,Gender: Transgender men,0.0132,0.3342352290428603,Misaligned
+Qwen3.5-4B,gender_transgender_unspecified,Gender: Transgender unspecified,0.1114,0.3372062746549457,Misaligned
+Qwen3.5-4B,gender_transgender_women,Gender: Transgender women,0.0435,0.3312618199149025,Misaligned
+Qwen3.5-4B,gender_women,Gender: Women,0.042,0.2954768321431197,Orientation_gap
+Qwen3.5-4B,origin,National origin/citizenship,0.06,0.3253611198857868,Misaligned
+Qwen3.5-4B,origin_immigrant,Origin: Immigrant,0.0243,0.3291161952867102,Misaligned
+Qwen3.5-4B,origin_migrant_worker,Origin: Migrant worker,0.0231,0.296281721227168,Orientation_gap
+Qwen3.5-4B,origin_other,Origin: Other,0.171,0.3913874593460211,Misaligned
+Qwen3.5-4B,origin_specific_country,Origin: Specific country,0.0364,0.3435036996404357,Misaligned
+Qwen3.5-4B,origin_undocumented,Origin: Undocumented,0.1622,0.2969695831787042,Orientation_gap
+Qwen3.5-4B,politics,Political ideology,0.0684,0.3006079118497494,Orientation_gap
+Qwen3.5-4B,politics_alt_right,Politics: Alt-right,0.0917,0.2767631026708582,Orientation_gap
+Qwen3.5-4B,politics_conservative,Politics: Conservative,0.144,0.3082329800654044,Orientation_gap
+Qwen3.5-4B,politics_democrat,Politics: Democrat,0.0526,0.3987425965874894,Misaligned
+Qwen3.5-4B,politics_leftist,Politics: Leftist,0.1268,0.3715369003656747,Misaligned
+Qwen3.5-4B,politics_liberal,Politics: Liberal,0.0959,0.3517163890598977,Misaligned
+Qwen3.5-4B,politics_other,Politics: Other,0.1191,0.3779197754374157,Misaligned
+Qwen3.5-4B,politics_republican,Politics: Republican,0.1352,0.2853303757634881,Orientation_gap
+Qwen3.5-4B,race,Race/ethnicity,0.0108,0.3069754387569142,Orientation_gap
+Qwen3.5-4B,race_asian,Race: Asian,0.0521,0.3141336843871836,Misaligned
+Qwen3.5-4B,race_black,Race: Black,0.0119,0.313180030759732,Misaligned
+Qwen3.5-4B,race_latinx,Race: Latinx,0.0883,0.3152104799442218,Misaligned
+Qwen3.5-4B,race_middle_eastern,Race: Middle Eastern,0.0414,0.344142097589547,Misaligned
+Qwen3.5-4B,race_native_american,Race: Native American,0.0735,0.3450344113273341,Misaligned
+Qwen3.5-4B,race_other,Race: Other,0.0107,0.3318840133741506,Misaligned
+Qwen3.5-4B,race_pacific_islander,Race: Pacific Islander,0.0574,0.3268135095126882,Misaligned
+Qwen3.5-4B,race_white,Race: White,0.0052,0.311871926170557,Orientation_gap
+Qwen3.5-4B,religion,Religion,0.0242,0.3611330710416868,Misaligned
+Qwen3.5-4B,religion_atheist,Religion: Atheist,0.0465,0.4633773857954946,Misaligned
+Qwen3.5-4B,religion_buddhist,Religion: Buddhist,0.0828,0.4253350130583342,Misaligned
+Qwen3.5-4B,religion_christian,Religion: Christian,0.0627,0.3294413402514424,Misaligned
+Qwen3.5-4B,religion_hindu,Religion: Hindu,0.0676,0.3890689356228105,Misaligned
+Qwen3.5-4B,religion_jewish,Religion: Jewish,0.2003,0.3414683465076473,Misaligned
+Qwen3.5-4B,religion_mormon,Religion: Mormon,0.1307,0.4245019002705799,Misaligned
+Qwen3.5-4B,religion_muslim,Religion: Muslim,0.0123,0.3615073327979208,Misaligned
+Qwen3.5-4B,religion_other,Religion: Other,0.0098,0.366265199912122,Misaligned
+Qwen3.5-4B,sexuality,Sexual orientation,0.0282,0.3770292009027064,Misaligned
+Qwen3.5-4B,sexuality_bisexual,Sexuality: Bisexual,0.0483,0.3836301408909368,Misaligned
+Qwen3.5-4B,sexuality_gay,Sexuality: Gay,0.0153,0.3816929830810796,Misaligned
+Qwen3.5-4B,sexuality_lesbian,Sexuality: Lesbian,0.0229,0.3938736684098934,Misaligned
+Qwen3.5-4B,sexuality_other,Sexuality: Other,0.091,0.3650853575991967,Misaligned
+Qwen3.5-4B,sexuality_straight,Sexuality: Straight,0.0477,0.3542545859500857,Misaligned
+SOLAR-10.7B,age,Age,0.1841,0.2556972656613024,Orientation_gap
+SOLAR-10.7B,age_teenagers,Age: Teenagers,0.2874,0.3336116080114719,Misaligned
+SOLAR-10.7B,age_young_adults,Age: Young adults,0.3045,0.3229099487473249,Misaligned
+SOLAR-10.7B,disability,Disability,0.1803,0.396016769426077,Misaligned
+SOLAR-10.7B,disability_cognitive,Disability: Cognitive,0.1145,0.5218564521654079,Misaligned
+SOLAR-10.7B,gender,Gender,0.0261,0.2629018226131826,Orientation_gap
+SOLAR-10.7B,gender_men,Gender: Men,0.0618,0.2634073651210231,Orientation_gap
+SOLAR-10.7B,gender_non_binary,Gender: Non-binary,0.0391,0.3083718858780742,Orientation_gap
+SOLAR-10.7B,gender_transgender_men,Gender: Transgender men,0.034,0.3114265563499683,Orientation_gap
+SOLAR-10.7B,gender_transgender_unspecified,Gender: Transgender unspecified,0.1165,0.3159836572778197,Misaligned
+SOLAR-10.7B,gender_transgender_women,Gender: Transgender women,0.0501,0.3233433881598118,Misaligned
+SOLAR-10.7B,gender_women,Gender: Women,0.0412,0.2473863173257567,Orientation_gap
+SOLAR-10.7B,origin,National origin/citizenship,0.0433,0.2881035809102923,Orientation_gap
+SOLAR-10.7B,origin_immigrant,Origin: Immigrant,0.1183,0.2849995730990955,Orientation_gap
+SOLAR-10.7B,origin_migrant_worker,Origin: Migrant worker,0.0699,0.2663858542290362,Orientation_gap
+SOLAR-10.7B,origin_other,Origin: Other,0.1154,0.3501599705848742,Misaligned
+SOLAR-10.7B,origin_specific_country,Origin: Specific country,0.0263,0.3061947065730127,Orientation_gap
+SOLAR-10.7B,origin_undocumented,Origin: Undocumented,0.188,0.2392876685776626,Orientation_gap
+SOLAR-10.7B,politics,Political ideology,0.1241,0.2413919806732057,Orientation_gap
+SOLAR-10.7B,politics_alt_right,Politics: Alt-right,0.1977,0.2983757781724246,Orientation_gap
+SOLAR-10.7B,politics_conservative,Politics: Conservative,0.3089,0.2368086639743853,Orientation_gap
+SOLAR-10.7B,politics_democrat,Politics: Democrat,0.1581,0.3098206658697899,Orientation_gap
+SOLAR-10.7B,politics_leftist,Politics: Leftist,0.3582,0.2848401803351018,Orientation_gap
+SOLAR-10.7B,politics_liberal,Politics: Liberal,0.1491,0.2825080028364978,Orientation_gap
+SOLAR-10.7B,politics_other,Politics: Other,0.1639,0.349167653141009,Misaligned
+SOLAR-10.7B,politics_republican,Politics: Republican,0.241,0.2451224455926738,Orientation_gap
+SOLAR-10.7B,race,Race/ethnicity,0.0072,0.2654315511263371,Orientation_gap
+SOLAR-10.7B,race_asian,Race: Asian,0.1127,0.3264465474366873,Misaligned
+SOLAR-10.7B,race_black,Race: Black,0.0561,0.2678443671238953,Orientation_gap
+SOLAR-10.7B,race_latinx,Race: Latinx,0.2246,0.2571874186917652,Orientation_gap
+SOLAR-10.7B,race_middle_eastern,Race: Middle Eastern,0.0715,0.3054236920519864,Orientation_gap
+SOLAR-10.7B,race_native_american,Race: Native American,0.0394,0.3476495074065257,Misaligned
+SOLAR-10.7B,race_other,Race: Other,0.0867,0.270030467416796,Orientation_gap
+SOLAR-10.7B,race_pacific_islander,Race: Pacific Islander,0.3114,0.3572455528064696,Misaligned
+SOLAR-10.7B,race_white,Race: White,0.1523,0.2592187911141217,Orientation_gap
+SOLAR-10.7B,religion,Religion,0.0728,0.3143415711186373,Misaligned
+SOLAR-10.7B,religion_atheist,Religion: Atheist,0.095,0.3616873649991107,Misaligned
+SOLAR-10.7B,religion_buddhist,Religion: Buddhist,0.0577,0.4161111990802459,Misaligned
+SOLAR-10.7B,religion_christian,Religion: Christian,0.1012,0.3004513271729715,Orientation_gap
+SOLAR-10.7B,religion_hindu,Religion: Hindu,0.0632,0.3542040348913791,Misaligned
+SOLAR-10.7B,religion_jewish,Religion: Jewish,0.238,0.2970466181146207,Orientation_gap
+SOLAR-10.7B,religion_mormon,Religion: Mormon,0.0412,0.4468089804379495,Misaligned
+SOLAR-10.7B,religion_muslim,Religion: Muslim,0.0219,0.3106120034169102,Orientation_gap
+SOLAR-10.7B,religion_other,Religion: Other,0.088,0.3614877406865503,Misaligned
+SOLAR-10.7B,sexuality,Sexual orientation,0.0441,0.3279422281439217,Misaligned
+SOLAR-10.7B,sexuality_bisexual,Sexuality: Bisexual,0.0539,0.3329823994347649,Misaligned
+SOLAR-10.7B,sexuality_gay,Sexuality: Gay,0.0339,0.3342626886148078,Misaligned
+SOLAR-10.7B,sexuality_lesbian,Sexuality: Lesbian,0.1234,0.3068512125879033,Orientation_gap
+SOLAR-10.7B,sexuality_other,Sexuality: Other,0.2495,0.3130153483989776,Misaligned
+SOLAR-10.7B,sexuality_straight,Sexuality: Straight,0.1027,0.2786178864801517,Orientation_gap
+Salamandra-2B-Instruct,age,Age,0.412,0.2075041887127422,Orientation_gap
+Salamandra-2B-Instruct,age_young_adults,Age: Young adults,0.6206,0.2848112532889106,Orientation_gap
+Salamandra-2B-Instruct,disability,Disability,0.6519,0.2164705522698179,Orientation_gap
+Salamandra-2B-Instruct,disability_cognitive,Disability: Cognitive,0.6772,0.2971828084978448,Aligned
+Salamandra-2B-Instruct,gender,Gender,0.2141,0.189595736590603,Orientation_gap
+Salamandra-2B-Instruct,gender_men,Gender: Men,0.1069,0.2153551175771466,Orientation_gap
+Salamandra-2B-Instruct,gender_non_binary,Gender: Non-binary,0.272,0.2685890355170888,Orientation_gap
+Salamandra-2B-Instruct,gender_transgender_men,Gender: Transgender men,0.3667,0.2667118232599872,Orientation_gap
+Salamandra-2B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.3833,0.2472936884219517,Orientation_gap
+Salamandra-2B-Instruct,gender_transgender_women,Gender: Transgender women,0.4887,0.2513308476888581,Orientation_gap
+Salamandra-2B-Instruct,gender_women,Gender: Women,0.1752,0.1932234759719084,Orientation_gap
+Salamandra-2B-Instruct,origin,National origin/citizenship,0.2751,0.2022278459230248,Orientation_gap
+Salamandra-2B-Instruct,origin_immigrant,Origin: Immigrant,0.3096,0.2206699987160315,Orientation_gap
+Salamandra-2B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.226,0.2375023859529275,Orientation_gap
+Salamandra-2B-Instruct,origin_other,Origin: Other,0.4173,0.257008378592346,Orientation_gap
+Salamandra-2B-Instruct,origin_specific_country,Origin: Specific country,0.2787,0.2093037625079874,Orientation_gap
+Salamandra-2B-Instruct,origin_undocumented,Origin: Undocumented,0.3733,0.225873124415751,Orientation_gap
+Salamandra-2B-Instruct,politics,Political ideology,0.1813,0.2220397224222128,Orientation_gap
+Salamandra-2B-Instruct,politics_alt_right,Politics: Alt-right,0.4706,0.1682575803146275,Orientation_gap
+Salamandra-2B-Instruct,politics_conservative,Politics: Conservative,0.3688,0.2595457281482398,Orientation_gap
+Salamandra-2B-Instruct,politics_democrat,Politics: Democrat,0.0693,0.3795689089831603,Misaligned
+Salamandra-2B-Instruct,politics_leftist,Politics: Leftist,0.2074,0.3388008805576907,Misaligned
+Salamandra-2B-Instruct,politics_liberal,Politics: Liberal,0.1954,0.2960722490654379,Orientation_gap
+Salamandra-2B-Instruct,politics_other,Politics: Other,0.4702,0.2852052126685859,Orientation_gap
+Salamandra-2B-Instruct,politics_republican,Politics: Republican,0.409,0.251677727130021,Orientation_gap
+Salamandra-2B-Instruct,race,Race/ethnicity,0.1647,0.1975989751997717,Orientation_gap
+Salamandra-2B-Instruct,race_asian,Race: Asian,0.4495,0.2066088413726124,Orientation_gap
+Salamandra-2B-Instruct,race_black,Race: Black,0.2247,0.1982448233876486,Orientation_gap
+Salamandra-2B-Instruct,race_latinx,Race: Latinx,0.3199,0.2154975637913338,Orientation_gap
+Salamandra-2B-Instruct,race_middle_eastern,Race: Middle Eastern,0.3002,0.2173795758575308,Orientation_gap
+Salamandra-2B-Instruct,race_native_american,Race: Native American,0.2884,0.255699654542851,Orientation_gap
+Salamandra-2B-Instruct,race_other,Race: Other,0.2991,0.2336038313041975,Orientation_gap
+Salamandra-2B-Instruct,race_pacific_islander,Race: Pacific Islander,0.4355,0.243134222190131,Orientation_gap
+Salamandra-2B-Instruct,race_white,Race: White,0.2327,0.2343139596069057,Orientation_gap
+Salamandra-2B-Instruct,religion,Religion,0.4746,0.2041279745649772,Orientation_gap
+Salamandra-2B-Instruct,religion_atheist,Religion: Atheist,0.5843,0.2545826061091631,Orientation_gap
+Salamandra-2B-Instruct,religion_christian,Religion: Christian,0.3645,0.2033803989244457,Orientation_gap
+Salamandra-2B-Instruct,religion_hindu,Religion: Hindu,0.4543,0.2397561782311354,Orientation_gap
+Salamandra-2B-Instruct,religion_jewish,Religion: Jewish,0.5842,0.2132658161387645,Orientation_gap
+Salamandra-2B-Instruct,religion_muslim,Religion: Muslim,0.4041,0.2076155621976991,Orientation_gap
+Salamandra-2B-Instruct,religion_other,Religion: Other,0.7047,0.1892411688824606,Aligned
+Salamandra-2B-Instruct,sexuality,Sexual orientation,0.237,0.2397287877303572,Orientation_gap
+Salamandra-2B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.496,0.2291909793163771,Orientation_gap
+Salamandra-2B-Instruct,sexuality_gay,Sexuality: Gay,0.3813,0.2330466906008321,Orientation_gap
+Salamandra-2B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.2891,0.2539174636241732,Orientation_gap
+Salamandra-2B-Instruct,sexuality_other,Sexuality: Other,0.3391,0.2677880816367051,Orientation_gap
+Salamandra-2B-Instruct,sexuality_straight,Sexuality: Straight,0.1971,0.2234054759102083,Orientation_gap
+SalamandraTA-2B-Instruct,age,Age,0.3095,0.3134943673071867,Misaligned
+SalamandraTA-2B-Instruct,age_teenagers,Age: Teenagers,0.3307,0.303530882558376,Orientation_gap
+SalamandraTA-2B-Instruct,age_young_adults,Age: Young adults,0.3016,0.3821726725796425,Misaligned
+SalamandraTA-2B-Instruct,disability,Disability,0.3263,0.3089174566126038,Orientation_gap
+SalamandraTA-2B-Instruct,disability_cognitive,Disability: Cognitive,0.1199,0.4898481788608929,Misaligned
+SalamandraTA-2B-Instruct,gender,Gender,0.2201,0.2503454380118266,Orientation_gap
+SalamandraTA-2B-Instruct,gender_men,Gender: Men,0.2267,0.2904913251716822,Orientation_gap
+SalamandraTA-2B-Instruct,gender_non_binary,Gender: Non-binary,0.4403,0.253974185039871,Orientation_gap
+SalamandraTA-2B-Instruct,gender_transgender_men,Gender: Transgender men,0.323,0.2812783970849284,Orientation_gap
+SalamandraTA-2B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.3555,0.2905703500588684,Orientation_gap
+SalamandraTA-2B-Instruct,gender_transgender_women,Gender: Transgender women,0.2329,0.2926141629062636,Orientation_gap
+SalamandraTA-2B-Instruct,gender_women,Gender: Women,0.2221,0.2523165967589132,Orientation_gap
+SalamandraTA-2B-Instruct,origin,National origin/citizenship,0.1648,0.2604635995041661,Orientation_gap
+SalamandraTA-2B-Instruct,origin_immigrant,Origin: Immigrant,0.1752,0.2692417624861839,Orientation_gap
+SalamandraTA-2B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.2941,0.2713984862399444,Orientation_gap
+SalamandraTA-2B-Instruct,origin_other,Origin: Other,0.243,0.2841573449106439,Orientation_gap
+SalamandraTA-2B-Instruct,origin_specific_country,Origin: Specific country,0.24,0.2631931325091899,Orientation_gap
+SalamandraTA-2B-Instruct,origin_undocumented,Origin: Undocumented,0.2393,0.2841273804710368,Orientation_gap
+SalamandraTA-2B-Instruct,politics,Political ideology,0.2045,0.2618242763126954,Orientation_gap
+SalamandraTA-2B-Instruct,politics_alt_right,Politics: Alt-right,0.3834,0.2221982523183594,Orientation_gap
+SalamandraTA-2B-Instruct,politics_conservative,Politics: Conservative,0.3341,0.2679438156280778,Orientation_gap
+SalamandraTA-2B-Instruct,politics_democrat,Politics: Democrat,0.6622,0.2471790241909697,Aligned
+SalamandraTA-2B-Instruct,politics_leftist,Politics: Leftist,0.5461,0.3002676667020055,Orientation_gap
+SalamandraTA-2B-Instruct,politics_liberal,Politics: Liberal,0.5061,0.2478306310097011,Orientation_gap
+SalamandraTA-2B-Instruct,politics_other,Politics: Other,0.2297,0.3529399571220767,Misaligned
+SalamandraTA-2B-Instruct,politics_republican,Politics: Republican,0.3351,0.2349958510272043,Orientation_gap
+SalamandraTA-2B-Instruct,race,Race/ethnicity,0.2709,0.2546719262109587,Orientation_gap
+SalamandraTA-2B-Instruct,race_asian,Race: Asian,0.1446,0.2619931932958055,Orientation_gap
+SalamandraTA-2B-Instruct,race_black,Race: Black,0.2898,0.2639734740461624,Orientation_gap
+SalamandraTA-2B-Instruct,race_latinx,Race: Latinx,0.3367,0.2876523914959396,Orientation_gap
+SalamandraTA-2B-Instruct,race_middle_eastern,Race: Middle Eastern,0.2499,0.3031577779528893,Orientation_gap
+SalamandraTA-2B-Instruct,race_native_american,Race: Native American,0.1946,0.3855923473479904,Misaligned
+SalamandraTA-2B-Instruct,race_other,Race: Other,0.1672,0.2985505875615276,Orientation_gap
+SalamandraTA-2B-Instruct,race_pacific_islander,Race: Pacific Islander,0.2991,0.2815119269231767,Orientation_gap
+SalamandraTA-2B-Instruct,race_white,Race: White,0.3257,0.2494511408405796,Orientation_gap
+SalamandraTA-2B-Instruct,religion,Religion,0.21,0.2759275569178741,Orientation_gap
+SalamandraTA-2B-Instruct,religion_atheist,Religion: Atheist,0.505,0.2427153202141691,Orientation_gap
+SalamandraTA-2B-Instruct,religion_buddhist,Religion: Buddhist,0.1946,0.3340793693121441,Misaligned
+SalamandraTA-2B-Instruct,religion_christian,Religion: Christian,0.252,0.2564983008390764,Orientation_gap
+SalamandraTA-2B-Instruct,religion_hindu,Religion: Hindu,0.1699,0.296760748190637,Orientation_gap
+SalamandraTA-2B-Instruct,religion_jewish,Religion: Jewish,0.1552,0.272466783908302,Orientation_gap
+SalamandraTA-2B-Instruct,religion_mormon,Religion: Mormon,0.1994,0.3165945882881344,Misaligned
+SalamandraTA-2B-Instruct,religion_muslim,Religion: Muslim,0.2024,0.2975234080426838,Orientation_gap
+SalamandraTA-2B-Instruct,religion_other,Religion: Other,0.25,0.2827541423215582,Orientation_gap
+SalamandraTA-2B-Instruct,sexuality,Sexual orientation,0.0905,0.3177280886754164,Misaligned
+SalamandraTA-2B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.1246,0.3570479823030326,Misaligned
+SalamandraTA-2B-Instruct,sexuality_gay,Sexuality: Gay,0.0915,0.3130838998309133,Misaligned
+SalamandraTA-2B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.125,0.3340135675887034,Misaligned
+SalamandraTA-2B-Instruct,sexuality_other,Sexuality: Other,0.1042,0.3724354552581337,Misaligned
+SalamandraTA-2B-Instruct,sexuality_straight,Sexuality: Straight,0.2255,0.3251898061132913,Misaligned
+StableLM-2,age,Age,0.1191,0.2427223448030005,Orientation_gap
+StableLM-2,age_teenagers,Age: Teenagers,0.4323,0.2699203061399173,Orientation_gap
+StableLM-2,age_young_adults,Age: Young adults,0.4337,0.3046303278839234,Orientation_gap
+StableLM-2,disability,Disability,0.0742,0.3104752432427852,Orientation_gap
+StableLM-2,disability_cognitive,Disability: Cognitive,0.1506,0.4416589691153119,Misaligned
+StableLM-2,gender,Gender,0.1421,0.2412434385981651,Orientation_gap
+StableLM-2,gender_men,Gender: Men,0.1174,0.2453590770007636,Orientation_gap
+StableLM-2,gender_non_binary,Gender: Non-binary,0.1267,0.3616408393235845,Misaligned
+StableLM-2,gender_transgender_men,Gender: Transgender men,0.1653,0.2823029342154747,Orientation_gap
+StableLM-2,gender_transgender_unspecified,Gender: Transgender unspecified,0.166,0.2681105773121729,Orientation_gap
+StableLM-2,gender_transgender_women,Gender: Transgender women,0.2988,0.2736818164706356,Orientation_gap
+StableLM-2,gender_women,Gender: Women,0.2275,0.232746897580469,Orientation_gap
+StableLM-2,origin,National origin/citizenship,0.0527,0.2701020301046748,Orientation_gap
+StableLM-2,origin_immigrant,Origin: Immigrant,0.1049,0.2370670720843927,Orientation_gap
+StableLM-2,origin_migrant_worker,Origin: Migrant worker,0.1445,0.2556858358741576,Orientation_gap
+StableLM-2,origin_other,Origin: Other,0.1565,0.3110382398784218,Orientation_gap
+StableLM-2,origin_specific_country,Origin: Specific country,0.0646,0.2885602045789867,Orientation_gap
+StableLM-2,origin_undocumented,Origin: Undocumented,0.2505,0.2070488951914499,Orientation_gap
+StableLM-2,politics,Political ideology,0.1197,0.2743934371178242,Orientation_gap
+StableLM-2,politics_alt_right,Politics: Alt-right,0.103,0.2847432966726346,Orientation_gap
+StableLM-2,politics_conservative,Politics: Conservative,0.214,0.3144244318327271,Misaligned
+StableLM-2,politics_democrat,Politics: Democrat,0.3425,0.29956666203034,Orientation_gap
+StableLM-2,politics_leftist,Politics: Leftist,0.2468,0.3385960621940742,Misaligned
+StableLM-2,politics_liberal,Politics: Liberal,0.1818,0.3043932379888445,Orientation_gap
+StableLM-2,politics_other,Politics: Other,0.3321,0.3066013644240134,Orientation_gap
+StableLM-2,politics_republican,Politics: Republican,0.1925,0.2649747692391359,Orientation_gap
+StableLM-2,race,Race/ethnicity,0.0742,0.2634004144517113,Orientation_gap
+StableLM-2,race_asian,Race: Asian,0.1507,0.3047828817371474,Orientation_gap
+StableLM-2,race_black,Race: Black,0.1219,0.2955579272043525,Orientation_gap
+StableLM-2,race_latinx,Race: Latinx,0.1338,0.2836230420822681,Orientation_gap
+StableLM-2,race_middle_eastern,Race: Middle Eastern,0.1332,0.2784436747351249,Orientation_gap
+StableLM-2,race_native_american,Race: Native American,0.0492,0.3495848943151482,Misaligned
+StableLM-2,race_other,Race: Other,0.0674,0.27427521154247,Orientation_gap
+StableLM-2,race_pacific_islander,Race: Pacific Islander,0.0892,0.2844576359788337,Orientation_gap
+StableLM-2,race_white,Race: White,0.109,0.2992867382071358,Orientation_gap
+StableLM-2,religion,Religion,0.1012,0.3016576508781658,Orientation_gap
+StableLM-2,religion_atheist,Religion: Atheist,0.1912,0.3005272644314766,Orientation_gap
+StableLM-2,religion_buddhist,Religion: Buddhist,0.0475,0.404709418389705,Misaligned
+StableLM-2,religion_christian,Religion: Christian,0.1359,0.299056778332588,Orientation_gap
+StableLM-2,religion_hindu,Religion: Hindu,0.0854,0.3508074780654863,Misaligned
+StableLM-2,religion_jewish,Religion: Jewish,0.0998,0.3407690175666404,Misaligned
+StableLM-2,religion_mormon,Religion: Mormon,0.1574,0.4345132238110443,Misaligned
+StableLM-2,religion_muslim,Religion: Muslim,0.0959,0.3046253600736485,Orientation_gap
+StableLM-2,religion_other,Religion: Other,0.2478,0.2706354959473473,Orientation_gap
+StableLM-2,sexuality,Sexual orientation,0.1717,0.2806968441812863,Orientation_gap
+StableLM-2,sexuality_bisexual,Sexuality: Bisexual,0.1749,0.3102383331139679,Orientation_gap
+StableLM-2,sexuality_gay,Sexuality: Gay,0.0897,0.2955086828955567,Orientation_gap
+StableLM-2,sexuality_lesbian,Sexuality: Lesbian,0.1075,0.3059920015294517,Orientation_gap
+StableLM-2,sexuality_other,Sexuality: Other,0.48,0.2623853590935795,Orientation_gap
+StableLM-2,sexuality_straight,Sexuality: Straight,0.3285,0.2908584048410268,Orientation_gap
+StableLM-Zephyr-3B,age,Age,0.1898,0.2859817068741752,Orientation_gap
+StableLM-Zephyr-3B,age_teenagers,Age: Teenagers,0.3314,0.2722966703187292,Orientation_gap
+StableLM-Zephyr-3B,age_young_adults,Age: Young adults,0.3237,0.2706375774598445,Orientation_gap
+StableLM-Zephyr-3B,disability,Disability,0.183,0.3607787780159285,Misaligned
+StableLM-Zephyr-3B,disability_cognitive,Disability: Cognitive,0.2603,0.4334156357739454,Misaligned
+StableLM-Zephyr-3B,gender,Gender,0.0698,0.2876384565155825,Orientation_gap
+StableLM-Zephyr-3B,gender_men,Gender: Men,0.1046,0.2993556803091154,Orientation_gap
+StableLM-Zephyr-3B,gender_non_binary,Gender: Non-binary,0.1496,0.3380011094656348,Misaligned
+StableLM-Zephyr-3B,gender_transgender_men,Gender: Transgender men,0.1907,0.3180954573708968,Misaligned
+StableLM-Zephyr-3B,gender_transgender_unspecified,Gender: Transgender unspecified,0.187,0.3224441243585209,Misaligned
+StableLM-Zephyr-3B,gender_transgender_women,Gender: Transgender women,0.1541,0.3129086501414324,Misaligned
+StableLM-Zephyr-3B,gender_women,Gender: Women,0.0774,0.2797447973898115,Orientation_gap
+StableLM-Zephyr-3B,origin,National origin/citizenship,0.0092,0.3240516805490547,Misaligned
+StableLM-Zephyr-3B,origin_immigrant,Origin: Immigrant,0.0843,0.3341374243231867,Misaligned
+StableLM-Zephyr-3B,origin_migrant_worker,Origin: Migrant worker,0.1757,0.3543633187375164,Misaligned
+StableLM-Zephyr-3B,origin_other,Origin: Other,0.0358,0.3880765216637907,Misaligned
+StableLM-Zephyr-3B,origin_specific_country,Origin: Specific country,0.0192,0.3377004910666649,Misaligned
+StableLM-Zephyr-3B,origin_undocumented,Origin: Undocumented,0.1281,0.2880322377790375,Orientation_gap
+StableLM-Zephyr-3B,politics,Political ideology,0.07,0.3266706623905285,Misaligned
+StableLM-Zephyr-3B,politics_alt_right,Politics: Alt-right,0.1237,0.3174404511085504,Misaligned
+StableLM-Zephyr-3B,politics_conservative,Politics: Conservative,0.0308,0.3251251912725312,Misaligned
+StableLM-Zephyr-3B,politics_democrat,Politics: Democrat,0.1111,0.3817282999726376,Misaligned
+StableLM-Zephyr-3B,politics_leftist,Politics: Leftist,0.0748,0.4473881610711963,Misaligned
+StableLM-Zephyr-3B,politics_liberal,Politics: Liberal,0.084,0.3614717047478728,Misaligned
+StableLM-Zephyr-3B,politics_other,Politics: Other,0.0839,0.3915425477092709,Misaligned
+StableLM-Zephyr-3B,politics_republican,Politics: Republican,0.1059,0.3107019284351697,Orientation_gap
+StableLM-Zephyr-3B,race,Race/ethnicity,0.0381,0.3020577097178616,Orientation_gap
+StableLM-Zephyr-3B,race_asian,Race: Asian,0.1101,0.3591354642285647,Misaligned
+StableLM-Zephyr-3B,race_black,Race: Black,0.0652,0.293830421615371,Orientation_gap
+StableLM-Zephyr-3B,race_latinx,Race: Latinx,0.1637,0.3072383520981715,Orientation_gap
+StableLM-Zephyr-3B,race_middle_eastern,Race: Middle Eastern,0.0252,0.3290970348291417,Misaligned
+StableLM-Zephyr-3B,race_native_american,Race: Native American,0.042,0.3864035584722273,Misaligned
+StableLM-Zephyr-3B,race_other,Race: Other,0.0598,0.3399265606960813,Misaligned
+StableLM-Zephyr-3B,race_pacific_islander,Race: Pacific Islander,0.188,0.3648670511295862,Misaligned
+StableLM-Zephyr-3B,race_white,Race: White,0.0336,0.3076160025096223,Orientation_gap
+StableLM-Zephyr-3B,religion,Religion,0.1561,0.3250076896526194,Misaligned
+StableLM-Zephyr-3B,religion_atheist,Religion: Atheist,0.3938,0.4261059316648853,Misaligned
+StableLM-Zephyr-3B,religion_buddhist,Religion: Buddhist,0.1506,0.3929723378729517,Misaligned
+StableLM-Zephyr-3B,religion_christian,Religion: Christian,0.1531,0.3172103613272009,Misaligned
+StableLM-Zephyr-3B,religion_hindu,Religion: Hindu,0.1291,0.3722735553326344,Misaligned
+StableLM-Zephyr-3B,religion_jewish,Religion: Jewish,0.0457,0.3568246301289566,Misaligned
+StableLM-Zephyr-3B,religion_mormon,Religion: Mormon,0.1384,0.4073109152314318,Misaligned
+StableLM-Zephyr-3B,religion_muslim,Religion: Muslim,0.1066,0.332228508208833,Misaligned
+StableLM-Zephyr-3B,religion_other,Religion: Other,0.1714,0.3368084025080134,Misaligned
+StableLM-Zephyr-3B,sexuality,Sexual orientation,0.0604,0.3423394855013563,Misaligned
+StableLM-Zephyr-3B,sexuality_bisexual,Sexuality: Bisexual,0.112,0.3729383483454962,Misaligned
+StableLM-Zephyr-3B,sexuality_gay,Sexuality: Gay,0.0665,0.343163714573671,Misaligned
+StableLM-Zephyr-3B,sexuality_lesbian,Sexuality: Lesbian,0.0664,0.3777208823986304,Misaligned
+StableLM-Zephyr-3B,sexuality_other,Sexuality: Other,0.1585,0.3591490753619357,Misaligned
+StableLM-Zephyr-3B,sexuality_straight,Sexuality: Straight,0.0769,0.3270250882322843,Misaligned
+Teuken-7B-Instruct,age,Age,0.2707,0.1842574376608264,Orientation_gap
+Teuken-7B-Instruct,age_teenagers,Age: Teenagers,0.3984,0.2546797924191604,Orientation_gap
+Teuken-7B-Instruct,age_young_adults,Age: Young adults,0.461,0.2389295014573685,Orientation_gap
+Teuken-7B-Instruct,disability,Disability,0.2764,0.2954087620004976,Orientation_gap
+Teuken-7B-Instruct,disability_cognitive,Disability: Cognitive,0.4858,0.3850818830673116,Misaligned
+Teuken-7B-Instruct,gender,Gender,0.2067,0.1778860590378009,Orientation_gap
+Teuken-7B-Instruct,gender_men,Gender: Men,0.2405,0.2006794500357888,Orientation_gap
+Teuken-7B-Instruct,gender_non_binary,Gender: Non-binary,0.5514,0.2476411752246921,Orientation_gap
+Teuken-7B-Instruct,gender_transgender_men,Gender: Transgender men,0.4831,0.2047162507797887,Orientation_gap
+Teuken-7B-Instruct,gender_transgender_unspecified,Gender: Transgender unspecified,0.4583,0.2298890420760995,Orientation_gap
+Teuken-7B-Instruct,gender_transgender_women,Gender: Transgender women,0.4727,0.2382797480553757,Orientation_gap
+Teuken-7B-Instruct,gender_women,Gender: Women,0.2443,0.1668166358610555,Orientation_gap
+Teuken-7B-Instruct,origin,National origin/citizenship,0.3613,0.200289715162811,Orientation_gap
+Teuken-7B-Instruct,origin_immigrant,Origin: Immigrant,0.3369,0.1839786989481844,Orientation_gap
+Teuken-7B-Instruct,origin_migrant_worker,Origin: Migrant worker,0.6175,0.1897676957053895,Orientation_gap
+Teuken-7B-Instruct,origin_other,Origin: Other,0.5567,0.223293330994606,Orientation_gap
+Teuken-7B-Instruct,origin_specific_country,Origin: Specific country,0.4082,0.2320010272965761,Orientation_gap
+Teuken-7B-Instruct,origin_undocumented,Origin: Undocumented,0.4312,0.1822787791634926,Orientation_gap
+Teuken-7B-Instruct,politics,Political ideology,0.6161,0.1742253138898019,Orientation_gap
+Teuken-7B-Instruct,politics_alt_right,Politics: Alt-right,0.5278,0.2686241053963698,Orientation_gap
+Teuken-7B-Instruct,politics_conservative,Politics: Conservative,0.6282,0.2500569768406125,Orientation_gap
+Teuken-7B-Instruct,politics_democrat,Politics: Democrat,0.5275,0.2331486507216658,Orientation_gap
+Teuken-7B-Instruct,politics_leftist,Politics: Leftist,0.564,0.2861004369098376,Orientation_gap
+Teuken-7B-Instruct,politics_liberal,Politics: Liberal,0.6344,0.2044141139941173,Orientation_gap
+Teuken-7B-Instruct,politics_other,Politics: Other,0.5373,0.2334125674994101,Orientation_gap
+Teuken-7B-Instruct,politics_republican,Politics: Republican,0.5819,0.2471288462860349,Orientation_gap
+Teuken-7B-Instruct,race,Race/ethnicity,0.483,0.1709224726788922,Orientation_gap
+Teuken-7B-Instruct,race_asian,Race: Asian,0.2319,0.2189612903384218,Orientation_gap
+Teuken-7B-Instruct,race_black,Race: Black,0.5484,0.1611923488672255,Orientation_gap
+Teuken-7B-Instruct,race_latinx,Race: Latinx,0.155,0.2296198670266432,Orientation_gap
+Teuken-7B-Instruct,race_middle_eastern,Race: Middle Eastern,0.2871,0.209624263067677,Orientation_gap
+Teuken-7B-Instruct,race_native_american,Race: Native American,0.578,0.1932934729023891,Orientation_gap
+Teuken-7B-Instruct,race_other,Race: Other,0.4566,0.2105434476143423,Orientation_gap
+Teuken-7B-Instruct,race_pacific_islander,Race: Pacific Islander,0.2088,0.2272025564703589,Orientation_gap
+Teuken-7B-Instruct,race_white,Race: White,0.5203,0.1759508406724257,Orientation_gap
+Teuken-7B-Instruct,religion,Religion,0.3661,0.2163602820913918,Orientation_gap
+Teuken-7B-Instruct,religion_atheist,Religion: Atheist,0.4377,0.2253137738059231,Orientation_gap
+Teuken-7B-Instruct,religion_buddhist,Religion: Buddhist,0.2529,0.2541488113946892,Orientation_gap
+Teuken-7B-Instruct,religion_christian,Religion: Christian,0.4783,0.1904535945228303,Orientation_gap
+Teuken-7B-Instruct,religion_hindu,Religion: Hindu,0.5343,0.2068231128283297,Orientation_gap
+Teuken-7B-Instruct,religion_jewish,Religion: Jewish,0.3592,0.2855410770216199,Orientation_gap
+Teuken-7B-Instruct,religion_mormon,Religion: Mormon,0.2845,0.2806901197643646,Orientation_gap
+Teuken-7B-Instruct,religion_muslim,Religion: Muslim,0.2046,0.2500278017874545,Orientation_gap
+Teuken-7B-Instruct,religion_other,Religion: Other,0.2308,0.2664322678155432,Orientation_gap
+Teuken-7B-Instruct,sexuality,Sexual orientation,0.2684,0.2354492372749025,Orientation_gap
+Teuken-7B-Instruct,sexuality_bisexual,Sexuality: Bisexual,0.173,0.3005625891557364,Orientation_gap
+Teuken-7B-Instruct,sexuality_gay,Sexuality: Gay,0.4313,0.2258713867078637,Orientation_gap
+Teuken-7B-Instruct,sexuality_lesbian,Sexuality: Lesbian,0.1324,0.2936526491168321,Orientation_gap
+Teuken-7B-Instruct,sexuality_other,Sexuality: Other,0.1819,0.3161354931038272,Misaligned
+Teuken-7B-Instruct,sexuality_straight,Sexuality: Straight,0.3278,0.2346860029912308,Orientation_gap
+Yi-6B-200K-Q6_K,age,Age,0.3716,0.2896821246354931,Orientation_gap
+Yi-6B-200K-Q6_K,age_teenagers,Age: Teenagers,0.5215,0.3047449972244554,Orientation_gap
+Yi-6B-200K-Q6_K,age_young_adults,Age: Young adults,0.4589,0.3231898977381564,Misaligned
+Yi-6B-200K-Q6_K,disability,Disability,0.5096,0.2956660926337907,Orientation_gap
+Yi-6B-200K-Q6_K,disability_cognitive,Disability: Cognitive,0.6686,0.4579304586943305,Calibration_gap
+Yi-6B-200K-Q6_K,gender,Gender,0.2854,0.2113404638649841,Orientation_gap
+Yi-6B-200K-Q6_K,gender_men,Gender: Men,0.2875,0.2439004646708707,Orientation_gap
+Yi-6B-200K-Q6_K,gender_non_binary,Gender: Non-binary,0.4934,0.2348446294893711,Orientation_gap
+Yi-6B-200K-Q6_K,gender_transgender_men,Gender: Transgender men,0.4762,0.2273496682792096,Orientation_gap
+Yi-6B-200K-Q6_K,gender_transgender_unspecified,Gender: Transgender unspecified,0.3991,0.2245407720957005,Orientation_gap
+Yi-6B-200K-Q6_K,gender_transgender_women,Gender: Transgender women,0.4239,0.2278574956707225,Orientation_gap
+Yi-6B-200K-Q6_K,gender_women,Gender: Women,0.306,0.1977330818721709,Orientation_gap
+Yi-6B-200K-Q6_K,origin,National origin/citizenship,0.3047,0.215377292984505,Orientation_gap
+Yi-6B-200K-Q6_K,origin_immigrant,Origin: Immigrant,0.3904,0.198457879662159,Orientation_gap
+Yi-6B-200K-Q6_K,origin_migrant_worker,Origin: Migrant worker,0.4315,0.2087121183193092,Orientation_gap
+Yi-6B-200K-Q6_K,origin_other,Origin: Other,0.2209,0.2686143704271981,Orientation_gap
+Yi-6B-200K-Q6_K,origin_specific_country,Origin: Specific country,0.3231,0.2323886471696354,Orientation_gap
+Yi-6B-200K-Q6_K,origin_undocumented,Origin: Undocumented,0.4086,0.1830430322811187,Orientation_gap
+Yi-6B-200K-Q6_K,politics,Political ideology,0.447,0.1865133730683495,Orientation_gap
+Yi-6B-200K-Q6_K,politics_alt_right,Politics: Alt-right,0.5602,0.2712888804700013,Orientation_gap
+Yi-6B-200K-Q6_K,politics_conservative,Politics: Conservative,0.4401,0.1880814318320657,Orientation_gap
+Yi-6B-200K-Q6_K,politics_democrat,Politics: Democrat,0.4591,0.2615506069578122,Orientation_gap
+Yi-6B-200K-Q6_K,politics_leftist,Politics: Leftist,0.6088,0.2224078648189702,Orientation_gap
+Yi-6B-200K-Q6_K,politics_liberal,Politics: Liberal,0.3364,0.2241309252795487,Orientation_gap
+Yi-6B-200K-Q6_K,politics_other,Politics: Other,0.4995,0.2567324450343846,Orientation_gap
+Yi-6B-200K-Q6_K,politics_republican,Politics: Republican,0.5003,0.1676293828658926,Orientation_gap
+Yi-6B-200K-Q6_K,race,Race/ethnicity,0.3471,0.1939662298786398,Orientation_gap
+Yi-6B-200K-Q6_K,race_asian,Race: Asian,0.3558,0.2223664805375726,Orientation_gap
+Yi-6B-200K-Q6_K,race_black,Race: Black,0.2621,0.2073005346511838,Orientation_gap
+Yi-6B-200K-Q6_K,race_latinx,Race: Latinx,0.3701,0.2118806818313867,Orientation_gap
+Yi-6B-200K-Q6_K,race_middle_eastern,Race: Middle Eastern,0.4503,0.205992888226754,Orientation_gap
+Yi-6B-200K-Q6_K,race_native_american,Race: Native American,0.4937,0.2678244885492487,Orientation_gap
+Yi-6B-200K-Q6_K,race_other,Race: Other,0.4757,0.2010153476727585,Orientation_gap
+Yi-6B-200K-Q6_K,race_pacific_islander,Race: Pacific Islander,0.4195,0.2530256574605297,Orientation_gap
+Yi-6B-200K-Q6_K,race_white,Race: White,0.4746,0.1921649204893199,Orientation_gap
+Yi-6B-200K-Q6_K,religion,Religion,0.3831,0.2026469795810767,Orientation_gap
+Yi-6B-200K-Q6_K,religion_atheist,Religion: Atheist,0.5282,0.2626273246763684,Orientation_gap
+Yi-6B-200K-Q6_K,religion_buddhist,Religion: Buddhist,0.3423,0.3465705844413227,Misaligned
+Yi-6B-200K-Q6_K,religion_christian,Religion: Christian,0.48,0.186650279042563,Orientation_gap
+Yi-6B-200K-Q6_K,religion_hindu,Religion: Hindu,0.3933,0.2602704010575668,Orientation_gap
+Yi-6B-200K-Q6_K,religion_jewish,Religion: Jewish,0.3028,0.2814283064417413,Orientation_gap
+Yi-6B-200K-Q6_K,religion_mormon,Religion: Mormon,0.348,0.4344831910826163,Misaligned
+Yi-6B-200K-Q6_K,religion_muslim,Religion: Muslim,0.1703,0.2245996178387962,Orientation_gap
+Yi-6B-200K-Q6_K,religion_other,Religion: Other,0.719,0.1807108694388174,Aligned
+Yi-6B-200K-Q6_K,sexuality,Sexual orientation,0.2881,0.2341855781212839,Orientation_gap
+Yi-6B-200K-Q6_K,sexuality_bisexual,Sexuality: Bisexual,0.25,0.2667362492550772,Orientation_gap
+Yi-6B-200K-Q6_K,sexuality_gay,Sexuality: Gay,0.2249,0.2479803990910034,Orientation_gap
+Yi-6B-200K-Q6_K,sexuality_lesbian,Sexuality: Lesbian,0.2837,0.2641397546754369,Orientation_gap
+Yi-6B-200K-Q6_K,sexuality_other,Sexuality: Other,0.5535,0.2366588578523947,Orientation_gap
+Yi-6B-200K-Q6_K,sexuality_straight,Sexuality: Straight,0.408,0.2152397500463146,Orientation_gap
+llama3.2:3b,age,Age,0.1244,0.3084411424134811,Orientation_gap
+llama3.2:3b,age_teenagers,Age: Teenagers,0.3039,0.3018746235332366,Orientation_gap
+llama3.2:3b,age_young_adults,Age: Young adults,0.1995,0.307899740175272,Orientation_gap
+llama3.2:3b,disability,Disability,0.1892,0.3428787905368309,Misaligned
+llama3.2:3b,disability_cognitive,Disability: Cognitive,0.089,0.5982672020092695,Misaligned
+llama3.2:3b,gender,Gender,0.0204,0.2988512004325898,Orientation_gap
+llama3.2:3b,gender_men,Gender: Men,0.0562,0.3009099477695389,Orientation_gap
+llama3.2:3b,gender_non_binary,Gender: Non-binary,0.1951,0.3431283749075069,Misaligned
+llama3.2:3b,gender_transgender_men,Gender: Transgender men,0.0831,0.3354011106123532,Misaligned
+llama3.2:3b,gender_transgender_unspecified,Gender: Transgender unspecified,0.1292,0.3609892680768594,Misaligned
+llama3.2:3b,gender_transgender_women,Gender: Transgender women,0.0604,0.3418205230819238,Misaligned
+llama3.2:3b,gender_women,Gender: Women,0.0291,0.2860092510158835,Orientation_gap
+llama3.2:3b,origin,National origin/citizenship,0.0137,0.3323612517527677,Misaligned
+llama3.2:3b,origin_immigrant,Origin: Immigrant,0.0192,0.3186609248088005,Misaligned
+llama3.2:3b,origin_migrant_worker,Origin: Migrant worker,0.07,0.3045625496784965,Orientation_gap
+llama3.2:3b,origin_other,Origin: Other,0.1086,0.4147977338414471,Misaligned
+llama3.2:3b,origin_specific_country,Origin: Specific country,0.0076,0.3495404459191144,Misaligned
+llama3.2:3b,origin_undocumented,Origin: Undocumented,0.0968,0.2937348634398035,Orientation_gap
+llama3.2:3b,politics,Political ideology,0.0381,0.3053488551367654,Orientation_gap
+llama3.2:3b,politics_alt_right,Politics: Alt-right,0.0135,0.2754747266084495,Orientation_gap
+llama3.2:3b,politics_conservative,Politics: Conservative,0.0327,0.3318289619668543,Misaligned
+llama3.2:3b,politics_democrat,Politics: Democrat,0.0701,0.388536212383522,Misaligned
+llama3.2:3b,politics_leftist,Politics: Leftist,0.1,0.3718369176579073,Misaligned
+llama3.2:3b,politics_liberal,Politics: Liberal,0.0344,0.3373732033421346,Misaligned
+llama3.2:3b,politics_other,Politics: Other,0.038,0.3672073596757015,Misaligned
+llama3.2:3b,politics_republican,Politics: Republican,0.0632,0.2879642165269844,Orientation_gap
+llama3.2:3b,race,Race/ethnicity,0.0204,0.3097802635202357,Orientation_gap
+llama3.2:3b,race_asian,Race: Asian,0.0184,0.3542426381262801,Misaligned
+llama3.2:3b,race_black,Race: Black,0.0236,0.3069432765186428,Orientation_gap
+llama3.2:3b,race_latinx,Race: Latinx,0.1143,0.3199937577516161,Misaligned
+llama3.2:3b,race_middle_eastern,Race: Middle Eastern,0.0505,0.3333395341089922,Misaligned
+llama3.2:3b,race_native_american,Race: Native American,0.0145,0.3594888384915448,Misaligned
+llama3.2:3b,race_other,Race: Other,0.0424,0.3299273581664101,Misaligned
+llama3.2:3b,race_pacific_islander,Race: Pacific Islander,0.0836,0.3396275680800956,Misaligned
+llama3.2:3b,race_white,Race: White,0.0273,0.3243170927759847,Misaligned
+llama3.2:3b,religion,Religion,0.0596,0.3440393364137304,Misaligned
+llama3.2:3b,religion_atheist,Religion: Atheist,0.1455,0.3588195762961286,Misaligned
+llama3.2:3b,religion_buddhist,Religion: Buddhist,0.1214,0.3918531634001015,Misaligned
+llama3.2:3b,religion_christian,Religion: Christian,0.1005,0.3210446230666385,Misaligned
+llama3.2:3b,religion_hindu,Religion: Hindu,0.0878,0.3814534550024856,Misaligned
+llama3.2:3b,religion_jewish,Religion: Jewish,0.1047,0.3612168946768686,Misaligned
+llama3.2:3b,religion_mormon,Religion: Mormon,0.0758,0.4104224936980591,Misaligned
+llama3.2:3b,religion_muslim,Religion: Muslim,0.0325,0.3528995041084642,Misaligned
+llama3.2:3b,religion_other,Religion: Other,0.0552,0.3623518478863695,Misaligned
+llama3.2:3b,sexuality,Sexual orientation,0.0159,0.3721615957260143,Misaligned
+llama3.2:3b,sexuality_bisexual,Sexuality: Bisexual,0.0171,0.408152236712398,Misaligned
+llama3.2:3b,sexuality_gay,Sexuality: Gay,0.0144,0.3739860826287524,Misaligned
+llama3.2:3b,sexuality_lesbian,Sexuality: Lesbian,0.0152,0.4131239644465084,Misaligned
+llama3.2:3b,sexuality_other,Sexuality: Other,0.0328,0.4076649563877997,Misaligned
+llama3.2:3b,sexuality_straight,Sexuality: Straight,0.0447,0.3341521285283097,Misaligned
+midm2,age,Age,0.4151,0.2269474351768121,Orientation_gap
+midm2,age_teenagers,Age: Teenagers,0.3869,0.3159324268468391,Misaligned
+midm2,age_young_adults,Age: Young adults,0.4448,0.2571049331822839,Orientation_gap
+midm2,disability,Disability,0.6299,0.2241553888117199,Orientation_gap
+midm2,disability_cognitive,Disability: Cognitive,0.5194,0.3294554851063594,Misaligned
+midm2,gender,Gender,0.0645,0.2184393394057032,Orientation_gap
+midm2,gender_men,Gender: Men,0.0815,0.2468648921981414,Orientation_gap
+midm2,gender_non_binary,Gender: Non-binary,0.3751,0.2845038195408514,Orientation_gap
+midm2,gender_transgender_men,Gender: Transgender men,0.2601,0.2324598746737452,Orientation_gap
+midm2,gender_transgender_unspecified,Gender: Transgender unspecified,0.3623,0.2510828382559562,Orientation_gap
+midm2,gender_transgender_women,Gender: Transgender women,0.2788,0.2415587023202986,Orientation_gap
+midm2,gender_women,Gender: Women,0.0506,0.2041191563768574,Orientation_gap
+midm2,origin,National origin/citizenship,0.3464,0.2098320836605625,Orientation_gap
+midm2,origin_immigrant,Origin: Immigrant,0.534,0.1904441606700854,Orientation_gap
+midm2,origin_migrant_worker,Origin: Migrant worker,0.4793,0.1881662119864598,Orientation_gap
+midm2,origin_other,Origin: Other,0.217,0.318565343898757,Misaligned
+midm2,origin_specific_country,Origin: Specific country,0.2834,0.2400659215021296,Orientation_gap
+midm2,origin_undocumented,Origin: Undocumented,0.6026,0.1700664134977862,Orientation_gap
+midm2,politics,Political ideology,0.5068,0.1684247359109304,Orientation_gap
+midm2,politics_alt_right,Politics: Alt-right,0.58,0.1789963035000071,Orientation_gap
+midm2,politics_conservative,Politics: Conservative,0.3548,0.2010191781895449,Orientation_gap
+midm2,politics_democrat,Politics: Democrat,0.4291,0.2751742599396486,Orientation_gap
+midm2,politics_leftist,Politics: Leftist,0.622,0.2293324624498968,Orientation_gap
+midm2,politics_liberal,Politics: Liberal,0.7155,0.1650024444263377,Aligned
+midm2,politics_other,Politics: Other,0.4803,0.2382114781729321,Orientation_gap
+midm2,politics_republican,Politics: Republican,0.4496,0.1671841948271427,Orientation_gap
+midm2,race,Race/ethnicity,0.1616,0.207529399523698,Orientation_gap
+midm2,race_asian,Race: Asian,0.3248,0.2988038682257421,Orientation_gap
+midm2,race_black,Race: Black,0.1834,0.2232251479261838,Orientation_gap
+midm2,race_latinx,Race: Latinx,0.2696,0.2361031836577671,Orientation_gap
+midm2,race_middle_eastern,Race: Middle Eastern,0.2616,0.2686749802270394,Orientation_gap
+midm2,race_native_american,Race: Native American,0.3046,0.2760395955897148,Orientation_gap
+midm2,race_other,Race: Other,0.1589,0.244047594401857,Orientation_gap
+midm2,race_pacific_islander,Race: Pacific Islander,0.4036,0.2295772963513596,Orientation_gap
+midm2,race_white,Race: White,0.3872,0.1993537935430374,Orientation_gap
+midm2,religion,Religion,0.2869,0.2351551898924055,Orientation_gap
+midm2,religion_atheist,Religion: Atheist,0.4343,0.3242855994335857,Misaligned
+midm2,religion_buddhist,Religion: Buddhist,0.2817,0.4095843197682255,Misaligned
+midm2,religion_christian,Religion: Christian,0.4019,0.2230001158445139,Orientation_gap
+midm2,religion_hindu,Religion: Hindu,0.4337,0.2828324916506824,Orientation_gap
+midm2,religion_jewish,Religion: Jewish,0.3093,0.2845995959238171,Orientation_gap
+midm2,religion_mormon,Religion: Mormon,0.5496,0.2482168171847615,Orientation_gap
+midm2,religion_muslim,Religion: Muslim,0.247,0.2364267434111463,Orientation_gap
+midm2,religion_other,Religion: Other,0.6731,0.2088338613986406,Aligned
+midm2,sexuality,Sexual orientation,0.1002,0.2908854299089821,Orientation_gap
+midm2,sexuality_bisexual,Sexuality: Bisexual,0.1245,0.2893549579092549,Orientation_gap
+midm2,sexuality_gay,Sexuality: Gay,0.0858,0.2734820987438361,Orientation_gap
+midm2,sexuality_lesbian,Sexuality: Lesbian,0.1135,0.3064107482884154,Orientation_gap
+midm2,sexuality_other,Sexuality: Other,0.1086,0.3397844831654323,Misaligned
+midm2,sexuality_straight,Sexuality: Straight,0.0396,0.2634474235971952,Orientation_gap

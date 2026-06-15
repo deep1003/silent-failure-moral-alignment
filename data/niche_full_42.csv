@@ -1,0 +1,43 @@
+judge_model,judge_quadrant,median_MOF,n_aligned_cells,pct_aligned_cells,top_aligned_categories
+GPT-5-mini,Aligned,0.93125,50,100.0,Race/ethnicity; Religion; Gender: Transgender men; Origin: Specific country; Sexuality: Lesbian
+Aya-Expanse-8B,Aligned,0.93845,49,98.0,Race: White; Politics: Democrat; Sexuality: Gay; Origin: Specific country; Religion: Other
+Claude-Sonnet-4,Aligned,0.9073,49,98.0,Sexuality: Lesbian; Sexual orientation; Sexuality: Gay; Sexuality: Bisexual; Religion: Buddhist
+InternLM3-8B-Instruct,Aligned,0.9044,49,98.0,Religion: Jewish; Race/ethnicity; Race: Black; Origin: Specific country; Race: Native American
+Claude-3-Haiku,Aligned,0.92495,49,98.0,Race/ethnicity; National origin/citizenship; Origin: Specific country; Religion; Race: Middle Eastern
+Gemini-2.5-Flash-Lite,Aligned,0.90465,49,98.0,Religion: Hindu; Origin: Specific country; Race: Black; Sexual orientation; Sexuality: Bisexual
+Gemini-3-Flash-Preview,Aligned,0.89835,48,96.0,Sexuality: Other; Sexuality: Lesbian; Sexuality: Gay; Gender: Transgender unspecified; Sexual orientation
+GPT-5.4,Aligned,0.9023,48,96.0,Sexuality: Lesbian; Sexuality: Bisexual; Gender: Transgender men; Religion; Religion: Mormon
+Llama-3.1-8B,Aligned,0.8923,47,94.0,Gender: Transgender women; Origin: Specific country; Sexuality: Other; Sexuality: Lesbian; Gender: Non-binary
+Kanana-Nano-2.1B,Aligned,0.89725,47,94.0,Religion: Jewish; National origin/citizenship; Race: Middle Eastern; Origin: Specific country; Origin: Other
+Gemma3-4B,Aligned,0.82855,45,90.0,Religion: Atheist; Sexual orientation; Sexuality: Lesbian; Sexuality: Gay; Politics: Other
+GLM-4-9B,Aligned,0.82825,44,88.0,Origin: Immigrant; Religion: Hindu; Origin: Other; Religion: Jewish; National origin/citizenship
+DeepSeek-R1-8B,Aligned,0.6679999999999999,27,54.0,Origin: Migrant worker; Sexuality: Lesbian; Political ideology; National origin/citizenship; Sexuality: Gay
+HyperCLOVA-X-Seed-1.5B,Orientation_gap,0.6454,23,46.0,Race: Other; Race/ethnicity; Religion; Religion: Other; Origin: Specific country
+Mistral-7B-Instruct,Orientation_gap,0.47055,12,24.0,Religion: Muslim; Religion; Sexuality: Gay; Race: Black; Gender
+GPT-SW3-6.7B-v2-Instruct,Orientation_gap,0.55775,12,24.0,Religion: Buddhist; Sexuality: Straight; Gender; Gender: Women; Race: Other
+EXAONE-Deep-2.4B,Orientation_gap,0.52935,7,14.0,Religion: Jewish; Religion: Mormon; Religion: Atheist; Race: Native American; Religion: Other
+Salamandra-2B-Instruct,Orientation_gap,0.3645,2,4.3,Religion: Other; Disability: Cognitive
+midm2,Orientation_gap,0.3506,2,4.0,Politics: Liberal; Religion: Other
+Command-R7B,Orientation_gap,0.4646,2,4.0,Gender: Transgender women; Gender: Men
+Yi-6B-200K-Q6_K,Orientation_gap,0.4083,1,2.0,Religion: Other
+SalamandraTA-2B-Instruct,Orientation_gap,0.23965,1,2.0,Politics: Democrat
+Mi:dm-2.0-Mini-Instruct,Orientation_gap,0.2915999999999999,1,2.0,Origin: Other
+Qwen2.5-7B,Misaligned,0.0811,0,0.0,—
+llama3.2:3b,Misaligned,0.0557,0,0.0,—
+Teuken-7B-Instruct,Orientation_gap,0.43125,0,0.0,—
+StableLM-Zephyr-3B,Misaligned,0.10835,0,0.0,—
+StableLM-2,Orientation_gap,0.139,0,0.0,—
+SOLAR-10.7B,Orientation_gap,0.10195,0,0.0,—
+Qwen3.5-4B,Misaligned,0.0587,0,0.0,—
+Falcon3-1B-Instruct,Misaligned,0.1059499999999999,0,0.0,—
+Qwen2.5-1.5B,Orientation_gap,0.12415,0,0.0,—
+Phi-4-mini,Misaligned,0.09125,0,0.0,—
+Llama-3-8B,Orientation_gap,0.16085,0,0.0,—
+DeepSeek-LLM-7B,Misaligned,0.0895499999999999,0,0.0,—
+EXAONE-3.5-7.8B,Misaligned,0.1309,0,0.0,—
+Granite-3.1-Dense-2B,Orientation_gap,0.1673,0,0.0,—
+EuroLLM-1.7B-Instruct,Orientation_gap,0.35075,0,0.0,—
+Gemma2-2B,Misaligned,0.0411,0,0.0,—
+Falcon-7B-Instruct,Orientation_gap,0.1377499999999999,0,0.0,—
+Falcon-H1R-7B,Orientation_gap,0.15755,0,0.0,—
+Phi-3-mini,Misaligned,0.2012,0,0.0,—

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use the released derived data, please cite this repository. The manuscript citation will be updated after acceptance."
+title: "Derived data for Silent failure of moral alignment in large language-model evaluators"
+authors:
+  - family-names: Chun
+    given-names: Youngsam
+    email: deep1003@snu.ac.kr
+    affiliation: "Frontier AI Lab, KT Corporation; Ulsan National Institute of Science and Technology (UNIST)"
+year: 2026
+type: dataset
+license: MIT
+repository-code: "https://github.com/deep1003/silent-failure-moral-alignment"
+keywords:
+  - silent failure
+  - moral alignment
+  - large language models
+  - LLM evaluators
+  - moral foundations theory
+  - measurement theory
