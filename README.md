@@ -13,12 +13,6 @@ the released evaluator/category measurements.
 > wrong moral dimensions, so its aggregate score remains close to the human
 > reference while the underlying judgment structure has diverged.
 
-> The earlier ICML 2026 Pluralistic Alignment Workshop version of this work
-> lives in a separate repository,
-> <https://github.com/deep1003/moral-orientation-calibration>.
-> The two artefacts are intentionally separated: the workshop release is
-> archival; this journal release supersedes it.
-
 ---
 
 ## Repository layout
